@@ -1,0 +1,1280 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text>
+            <front>
+               <head>1</head>
+               <docDate>
+                  <origDate when="1355-03">1355, mars</origDate>
+                  <origPlace>Amiens</origPlace>
+               </docDate>
+               <argument>
+                  <p>Rémission à Jean, Jean, Jean, [sic] et Geoffroy Sautel, frères, poulaillers à
+                     Rouen, réfugiés dans un asile d’église, responsables de la mort de Colard
+                     Bouteroie, monnayer du Serment de l’Empire, mort dix jours après les blessures
+                     reçues des dits frères, agissant en légitime défense ; le défunt, avec Amaury
+                     Le Seigneur et Hugues Ringard, également monnayers du Serment de l’Empire,
+                     avait attaqué à main armée l’étal de Jean Sautel, qui s’était querellé la
+                     veille avec Hugues Ringard au sujet de l’achat, à la poulaillerie de Rouen, de
+                     trois agneaux, et Marie, femme de Jean, voyant son mari en danger, avait crié
+                     haro pour appeler ses beaux-frères à l’aide [cl. inj. : bailli de Rouen]. </p>
+                  <quote type="extrasigillum">Per consilium quo erant domini Senonensis
+                     archiepiscopus et Simon de Bucy, miles. Berth. Cama.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc>
+                        <locus scheme="folio">1</locus>
+                        <idno>1</idno>
+                        <lang>lat.</lang>
+                     </witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>2</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Vidimus et confirmation de l’absolution prononcée le 5 juin 1343, aux assises
+                     d’Arras, par Jean de Chartres, bailli comtal d’Arras, après enquête à
+                     Saint-Pol, Rosemont et Troisvaux, et faute de preuves, en faveur d’Enguerrannet
+                     Le Personne, fils bâtard de Baudoin Le Personne, de Troisvaux, détenu en la
+                     prison comtale d’Arras, accusé d’avoir tué ou fait tuer Pierre de Vaux, de
+                     Troisvaux, de nuit, sur le chemin de Saint-Pol à Troisvaux, et de lui avoir
+                     dérobé sa bourse [cl. inj. : bailli d’Amiens]. </p>
+                  <quote type="extrasigillum">Per consilium quo erant domini Senonensis, marescallus
+                     d’Oud[rehem] et Symon de Bucy, miles. Berth. Cama. Collatio facta cum originali
+                     per me. Berth. Cama. Bucy.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                           >1v</locus><idno>2</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>3</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Vidimus et confirmation de l’absolution prononcée après enquête, le 17 mars
+                     1354, par Eustache de Campremy, chevalier, seigneur de Campremy et seigneur de
+                     Demuin à cause de son épouse, par Fouquere Puche, son bailli, et par les hommes
+                     jugeants du château de Demuin, en faveur de Wale de Warbercourt, écuyer, accusé
+                     d’avoir mortellement blessé Martin Hugo et qui, ayant fait défaut malgré le
+                     délai de quarante jours à lui accordé pour l’occasion « de che que il est
+                     nobles », était emprisonné au château [cl. inj. : bailli de Vermandois, prévôt
+                     de Montdidier]. </p>
+                  <quote type="extrasigillum">Per consilium quo erant domini Senonensis
+                     archiepiscopus, marescallus d’Aud[rehem] et Simon de Bucy, miles. Berth. Cama.
+                     Collatio facta est cum originali per me. Berth. Cama.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                           >2</locus><idno>3</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>4</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Vidimus et confirmation des lettres de juillet 1320 par lesquelles Philippe V
+                     donne à perpétuité aux Augustins d’Amiens un terrain contigu à leur couvent,
+                     destiné à l’agrandissement de celui-ci, et l’amortit. </p>
+                  <quote type="extrasigillum">Per consilium. P. de Labatut.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >3</locus><idno>4</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>5</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée en don de joyeux avènement à Jean Revelle, dit Fèvre, scribe
+                     à Amiens, qui jadis, âgé de vingt quatre ans, avait été exposé à trois reprises
+                     au pilori d’Amiens pour avoir, malgré les règlements promulgués par
+                     l’échevinage de de la ville, entretenu comme concubine à son domicile une
+                     prostituée ; Jean Revelle se voit relever de l’infamie inhérente à cette peine
+                     subie dans sa jeunesse [cl. inj. : bailli, maire et échevins d’Amiens]. </p>
+                  <quote type="extrasigillum">De precepto Regem [sic] in suo jocundo adventum [sic]
+                     Ambian. facto dominis magistris Requestarum hospicii. Egidium. Heliaz.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >3v</locus><idno>5</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>6</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission et rappel de ban accordés en don de joyeux avènement, et sous
+                     condition d’effectuer dans l’année un pèlerinage à Compostelle, à Jean de
+                     Corbie, dit Corbiete, banni par contumace par les maire et échevins d’Amiens
+                     parce que, se trouvant à Amiens, en compagnie de Pierre Le Maire, dans la
+                     boutique de Jean Courtois, au cours d’une querelle avec le boutiquier, il
+                     s’était défendu au couteau contre les attaques de ce dernier, qui mourut dix
+                     huit jours plus tard, plus « pro malo regimine suo » que de ses blessures ;
+                     avec clause de non préjudice pour les maire et échevins d’Amiens [cl. inj. :
+                     bailli d’Amiens]. </p>
+                  <quote type="extrasigillum">Per regem in requestis suis. N. Le Gros. Collatio
+                     facta est.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >3v</locus><idno>6</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>7</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission, rappel de ban et restitution de ses biens accordés, en don de joyeux
+                     avènement, à Pierre Fèvre, d’Amiens, armurier, banni par contumace par le
+                     bailli d’Amiens qui avait ordonné la démolition de sa maison, pour avoir
+                     blessé, trois ans auparavant, en se défendant au cours d’une querelle avec Jean
+                     d’Abbeville, maréchal, l’un des compagnons de ce dernier, Ernoulet de
+                     Saint-Hilaire, qui mourut trois semaines plus tard, faute de s’être soigné [cl.
+                     inj. : bailli d’Amiens]. </p>
+                  <quote type="extrasigillum">Per regem in suis requestis. Bucy. Egidius. Berth.
+                     Cama.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >4</locus><idno>7</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>8</head>
+               <docDate><origDate when="1355-03">1355, mars</origDate>
+                  <origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée en don de joyeux avènement à Jean Clabaut, d’Abbeville,
+                     clerc, convaincu de diffusion de fausse monnaie, détenu un an et demi à la
+                     prison épiscopale d’Amiens puis élargi [cl. inj. : bailli d’Amiens]. </p>
+                  <quote type="extrasigillum"/>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >4v</locus><idno>8</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>9</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Vidimus et confirmation des lettres du 24 février 1355 par lesquelles Tassart
+                     de Siracourt, dit de Boulogne, sénéchal de Saint-Pol pour le comte d’Artois,
+                     vidime et confirme la sentence prononcée le 31 décembre 1354 par lui-même et
+                     les hommes jugeants du château de Saint-Pol, absolvant, faute de preuves, Jean
+                     Le Personne, écuyer, de Troisvaux ; dénoncé par Colebaut d’Arras, sergent
+                     royal, et Margue de Vaux, pour le meurtre, quatorze ans auparavant, de Pierre
+                     de Vaux et des coups et blessures à Jean de Britel, dit Rainewart, Jean Le
+                     Personne, justiciable du comte d’Artois, avait été arrêté à Saint-Pol par
+                     Colebaut d’Arras, détenu dans la prison royale d’Amiens, puis réclamé au bailli
+                     d’Amiens et incarcéré au château de Saint-Pol [cl. inj. : bailli d’Amiens]. </p>
+                  <quote type="extrasigillum">Per consilium quo erant domini Senonensis, marescallus
+                     d’Oud [rehem] et Simon de Bucy, miles. Berth. Cama.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                           >5</locus><idno>9</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>10</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée, après deux enquêtes des maîtres des Requêtes de l’Hôtel et
+                     de Jean Prouvencel, lieutenant du bailli de Senlis, qui les ont innocentés, et
+                     avec clause de non préjudice pour le seigneur de Coudun, à Guillaume de
+                     Compiègne, prêtre, jadis receveur, et Jean Le Vignon et Perrinet de Raulot,
+                     sergents de la terre de Coudun pour Raoul de Renneval, chevalier, seigneur du
+                     lieu, bannis par contumace par le bailli de Senlis ; ils s’étaient opposés à
+                     l’arrestation d’Hugues Toupet, faite à Coudun au mépris de la justice
+                     seigneuriale de cette terre, par Regnaud de Lieurie, sergent royal en la
+                     prévôté de Compiègne, qui maltraitait en outre son prisonnier, le frappant et
+                     le trainant derrière son cheval et qui, rendu furieux pour leurs observations,
+                     les avait chargés, venant s’empaler sur le glaive que Guillaume de Compiègne
+                     avait sorti pour se protéger [cl. inj. : bailli de Senlis, prévôt de
+                     Compiègne]. </p>
+                  <quote type="extrasigillum">In requestis hospicii. Beccot. Bucy. Egidius. J. de
+                     Albigniaco.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >7</locus><idno>10</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>11</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée à Jean d’Estrées, de Montdidier, banni par contumace par les
+                     maire et jurés de la ville pour avoir arraché de leur prison son cousin,
+                     Raoulin Hacheran, clerc âgé de quinze ans, accusé d’avoir participé aux coups
+                     infligés à Jean de Ressons, dit Basin, et dont celui-ci mourut ; avec clause de
+                     non préjudice pour les maire et jurés de Montdidier [cl. inj. : bailli de
+                     Vermandois, prévôt de Montdidier]. </p>
+                  <quote type="extrasigillum">In requestis hospicii de precepto Regis in suo iocundo
+                     adventu Ambian, facto dominis magistris requestis [sic] requestarum. Bucy. J.
+                     de Albigniaco. Collactio facta est.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >7v</locus><idno>11</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>12</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Vidimus et confirmation de l’acquittement prononcé aux assises de Warsy, le 2
+                     juin 1351, par Jean de Gournay, garde de la justice de la ville pour Anne de
+                     Séchelles, dame de Warsy, qui approuve par lettres du 28 juin 1351, en faveur
+                     de Nicaise Renart et d’Isabelle Cannarde, originaire de Davenescourt, veuve de
+                     Simon Le Vasseur ; ce dernier avait été trouvé pendu dans l’enclos de la maison
+                     de Nicaise Renart, à Warsy, mais l’interrogatoire de Nicaise et d’Isabelle,
+                     emprisonnés, n’avait abouti qu’à leur faire avouer qu’il avoient jut ensanbe en
+                     le dicte maison le nuit devant et l’enquête menée, tant à Warsy qu’à
+                     Davenescourt, avait conclu à leur innocence [cl. inj. : bailli de Vermandois]. </p>
+                  <quote type="extrasigillum">Per consilium quo erant domini Senonensis
+                     archiepiscopus, marescallus d’Audr[ehem] et Simon de Bucy, miles. Berth. Cama.
+                  </quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                           >8</locus><idno>12</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>13</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Vidimus et confirmation des lettres données à Vincennes, en octobre 1338, par
+                     lesquelles Philippe VI vidime et confirme des lettres de 1185 [mars 1186] de
+                     Philippe II, accordant aux lépreux d’Amiens la dîme du pain et du vin consommés
+                     en l’hôtel du roi ou de la reine lorsque ceux-ci séjournent à Amiens. </p>
+                  <quote type="extrasigillum">Per regem. Mellou. Bucy. Collatio facta est.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >8v</locus><idno>13</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>14</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission et rappel de ban accordés en don de joyeux avènement à Jeanne de
+                     Cambrai, veuve de Nicolas de Cambrai, bannie par contumace ; six ans
+                     auparavant, avec son mari, alors vivant, elle avait, par rescousse, fait évader
+                     son fils Jean de Cambrai, que des sergents royaux venaient arrêter pour le
+                     meurtre de Jeannin Messager [cl. inj. : bailli d’Amiens]. </p>
+                  <quote type="extrasigillum">De precepto regis in suo iocundo adventu Ambian, facto
+                     dominis magistris requestarum hospicii. Bescot. Bucy. Heliaz.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >9</locus><idno>14</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>15</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée, après enquête, à Jean et Geoffroy de Tonneville, frères,
+                     écuyers, cités devant les assises de Longueville et de Dieppe pour avoir
+                     mortellement blessé Guillaume Gotran ; or celui-ci, non content d’avoir enlevé,
+                     de nuit, à Offranville, Isabelle, épouse de Jean de Tonneville et de l’avoir
+                     retenue pendant quinze jours en plusieurs lieux des forêts de Brotonne, du
+                     Trait et de Moulineaux, fait pour lequel il avait été banni par contumace,
+                     avait rompu son ban et était revenu à Dieppe narguer et injurie les deux frères
+                     lors de leur passage [cl. inj. : bailli de Caux]. </p>
+                  <quote type="extrasigillum">Per regem in requestis suis. Yvo. Bucy.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >9</locus><idno>15</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>16</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée en don de joyeux avènement à Raoulin Hacheran, clerc, fils
+                     de Raoul Hacheran, de Montdidier, détenu depuis six mois à la prison de
+                     l’évêque d’Amiens parce que soupçonné d’avoir participé aux coups infligés à
+                     Jean de Ressons, dit Basin, qui en mourut [cl. inj. : bailli de Vermandois]. </p>
+                  <quote type="extrasigillum">In requestis hospicii . Bucy. J. de Albigniaco.
+                  </quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >9v</locus><idno>16</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>17</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Don à Pierre de La Batut, secrétaire du roi, de 200 l. t. de rente perpétuelle,
+                     à asseoir à Bonnes, aux Essards, à Pillac, Saint-Martial et Saint-Romain, près
+                     d’Aubeterre, en récompense des services rendus au roi et à son père dans sa
+                     charge et de ce qu’il a abandonné 1000 écus de gages et racheté, pour la
+                     remettre au Domaine, une rente perpétuelle de 100 l. donnée par Philippe VI à
+                     Evrard de la Roche, chevalier [cl. inj. : sénéchal et receveur d’Angoumois,
+                     prévôt d’Aubeterre]. </p>
+                  <quote type="extrasigillum">Per regem. Yvo. Bucy.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >10</locus><idno>17</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>18</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission et rappel de ban accordés à Jean, Guérard et Jean Gossin, frères, et
+                     à Jean Chogron, dit Faverel, bannis par contumace par les maire et échevins de
+                     Bray-sur-Somme pour avoir tué, en se défendant, l’un des compagnons de Pierre
+                     Chinot qui les injuriaient et les avaient attaqués, en armes, à cause d’une
+                     rivalité amoureuse entre le dit Pierre Chinot et Guérard Gossin ; avec clause
+                     de non préjudice pour la justice municipale [cl. inj. : baillis d’Amiens et de
+                     Vermandois]. </p>
+                  <quote type="extrasigillum">Per consillium quo erant domini archiepiscopus
+                     Senonensis, comes de Ventador, marescallus d’Odenehem, Symon de Buyaco, J. de
+                     Landas, Ph. De Chambliaco, G. de Credonio et plures alii. S[aint] Pierre.
+                     Collatio facta.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >10v</locus><idno>18</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>19</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée, en don de joyeux avènement, à Gilbert Paon, clerc, dont le
+                     nom avait été omis sur le rôle des prisonniers de l’évêque d’Amiens présenté au
+                     roi, mais qui était détenu par celui-ci depuis dix mois et poursuivi
+                     concuremment par les maire et échevins de Mondidier et par le bailli de
+                     Vermandois pour avoir fait échapper par rescousse son cousin, Raoulin Hacheran,
+                     que les sergents municipaux venaient arrêter pour participation au meurtre de
+                     Jean de Ressons, dit Basin ; avec clause de non préjudice pour la justice
+                     municipale de Montdidier [cl. inj. : bailli de Vermandois]. </p>
+                  <quote type="extrasigillum">Per regem in suo consilio quo erat dominus Simon de
+                     Bucy. Berth. Cama.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >11</locus><idno>19</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>20</head>
+               <docDate><origDate>1355, 25 mars</origDate><origPlace>Hesdin</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée en don de joyeux avènement à Laurent Baigne, bourgeois
+                     d’Hesdin, poursuivi pénalement par les maire et jurés de cette ville et détenu
+                     aux fers en la prison municipale depuis cinq mois, pour falsification de ses
+                     comptes d’argentier municipal pour l’année 1354, et qui a fait appel au bailli
+                     d’Hesdin, arguant qu’il n’a été condamné que civilement à une amende de 511
+                     écus d’or par les gouverneurs du comté d’Artois devant lesquels l’ont traduit
+                     les dits maire et jurés ; avec clause de non préjudice pour ces derniers [cl.
+                     inj. : gouverneurs du comté d’Artois, bailli d’Hesdin]. </p>
+                  <quote type="extrasigillum">Per regem in suo consilio. J. de Vernone. Bucy.
+                     Collatio facta est.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >11v</locus><idno>20</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>21</head>
+               <docDate><origDate>1355, 25 mars</origDate><origPlace>Hesdin</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée en don de joyeux avènement, et après enquête des maire et
+                     jurés d’Hesdin l’ayant disculpé, à Jean Le Carton, jeune homme qui avait
+                     accidentellement blessé aux cuisses Jean Fremin, mort quelques jours plus tard,
+                     en jouant, avec beaucoup d’autres, ad ludipedem seu ad quemdam ludum vocatum
+                     gallice soule, le premier jour du carême 1355, dans un terrain sis hors de la
+                     ville, selon l’usage immémorial à Hesdin ce jour là ; avec clause de non
+                     préjudice pour la municipalité [cl. inj. : bailli d’Hesdin]. </p>
+                  <quote type="extrasigillum">Per regem in suo consilio. Bucy. J. de Vernone.
+                  </quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >12</locus><idno>21</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>22</head>
+               <docDate><origDate>1355, 25 mars</origDate><origPlace>Hesdin</origPlace></docDate>
+               <argument>
+                  <p>Rémission et rappel de ban accordés en don de joyeux avènement à Jean Evrard,
+                     boucher à Arras, banni pour deux ans et deux jours de la ville et de sa
+                     banlieue par les maire et échevins d’Arras qui, sur dénonciation, avaient fait
+                     inspecter sa boutique où seulement quatre morceaux de viande avariée, valant
+                     neuf sous, avaient été trouvés et brûlés sur leur ordre : avec clause de non
+                     préjudice pour la justice municipale [cl. inj. : bailli d’Amiens, gouverneurs
+                     d’Artois]. </p>
+                  <quote type="extrasigillum">De precepto regis in suo jocundo adventu hisdini facto
+                     dominis magistris requestarum hospicii. Bucy. S[aint] Pierre. Egidius. Collatio
+                     facta est.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >12</locus><idno>22</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>23</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Hesdin</origPlace></docDate>
+               <argument>
+                  <p>Vidimus et confirmation de l’absolution prononcée le 6 mars 1355 par l’official
+                     de Thérouanne, après citation des baillis d’Amiens, d’Hesdin, de l’abbé et du
+                     couvent de Saint-Josse-sur-Mer et du prévôt de Montreuil, enquête et purgation
+                     canonique, en faveur de Simon Hanot, clerc du diocèse, accusé du vol d’une
+                     grosse somme d’argent au défunt abbé de Saint-Josse, qu’il détient depuis
+                     longtemps en sa prison d’Aire. </p>
+                  <quote type="extrasigillum">In requestis hospicii . Bucy. S[aint] Pierre. </quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >12v</locus><idno>23</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>24</head>
+               <docDate><origDate>1355, 28 mars</origDate><origPlace>Montreuil-sur-Mer.
+                  </origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée en don de joyeux avènement à Thomas Roussebaye et à son
+                     épouse, pauvres gens détenus en la prison des maire et jurés de
+                     Montreuil-sur-Mer pour un petit vol commis en la maison de Tassard de Vienne ;
+                     avec clause de non préjudice pour la justice municipale [cl. inj. : bailli
+                     d’Amiens]. </p>
+                  <quote type="extrasigillum">Per consilium. Bucy. J. de Vernone.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >13</locus><idno>24</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>25</head>
+               <docDate><origDate>1355, 28 mars</origDate><origPlace>Montreuil-sur-Mer.
+                  </origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée en don de joyeux avènement à Perrotte Putanne, pauvre femme
+                     emprisonnée par les maire et jurés de Montreuil-sur-Mer pour plusieurs vols,
+                     attendu qu’elle non habetat unde viveret et qu’elle y avait été forcée par son
+                     mari Roger Brun ; avec clause de non préjudice pour la justice municipale [cl.
+                     inj. : bailli d’Amiens]. </p>
+                  <quote type="extrasigillum">Per consilium. Bucy. J. de Vernone.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >13v</locus><idno>25</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>26</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Hesdin</origPlace></docDate>
+               <argument>
+                  <p>Rémission et rappel de ban accordés en don de joyeux avènement à Colin de
+                     Chauliers, banni par le prévôt de Montreuil et les maire et jurés d’Hesdin pour
+                     la mort de Gilles Caillart avec lequel, il est vrai, Colin de Chauliers s’était
+                     disputé et qu’il avait blessé d’un coup de couteau, mais qui était mort tempore
+                     que morbus epidemie invalescebat et non de sa blessure, ainsi qu’il l’avait
+                     lui-même déclaré publiquement et que l’attestait la demoiselle qui l’avait
+                     pansé, après avoir fait la paix avec le dit Colin ; avec clause de non
+                     préjudice pour la justice d’Hesdin [cl. inj. : bailli d’Amiens, prévôt de
+                     Montreuil]. </p>
+                  <quote type="extrasigillum">De precepto Regis in jocundo adventu suo facto dominis
+                     magistris Requestarum hospicii. N. le Gros. Bescot. Bucy.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >13v</locus><idno>26</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>27</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission et rappel de ban accordés en don de joyeux avènement à Colard Le Roy,
+                     d’Abbeville, banni par les maire et échevins d’Abbeville pour s’être battu,
+                     sans aucune mort ni mutilation, avec des familiers de Raoul Riboul,
+                     d’Abbeville, rencontrés sur la route entre Pont-Remy et Eaucourt, ceci malgré
+                     l’asseurement conclu devant les maire et échevins entre la famille de son
+                     frère, Jean Le Roy, et celle de Raoul Riboul ; avec clause de non préjudice pou
+                     la justice municipale [cl. inj. : bailli d’Amiens]. </p>
+                  <quote type="extrasigillum">De mandato regis in suo jocundo adventu Amb. facto
+                     magistris requestarum hospicii. N. le Gros. Bucy. Egidius.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >14</locus><idno>27</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>28</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission et rappel de ban accordés en don de joyeux avènement à Jean Clabaut,
+                     d’Abbeville, clerc, convaincu de diffusion de fausse monnaie, détenu un an et
+                     demi à la prison épiscopale d’Amiens puis élargi [cl. inj. : bailli d’Amiens]. </p>
+                  <quote type="extrasigillum">De precepto Regis in iocundo adventu suo Ambian. facto
+                     dominis magistris Requestarum hospicii. Bescot. Helias. Bucy. Collatio facta
+                     est.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >14</locus><idno>28</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>28 bis</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée à Jean Le Charron, de Beauquesne, et annulation de la
+                     procédure engagée contre lui par le procureur du roi au bailliage d’Amiens, en
+                     raison des services armés rendus au roi et à son père, et à condition qu’il
+                     reste prisonnier un mois à la prison royale de Beauquesne ; deux ans
+                     auparavant, venu avec d’autres échevins de Beauquesne fixer, avec Mathieu
+                     Pasque, sergent du roi et son prévôt de Beauquesne, l’afforamentum du vin vendu
+                     au détail dans la ville, et irrité du refus et des injures du dit Mathieu, il
+                     avait frappé celui-ci d’un coup de poing [cl. inj. : bailli d’Amiens]. </p>
+                  <quote type="extrasigillum">Per Regem in Requestis suis. Bucy. Bescot. S[aint]
+                     Pierre.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio">14v</locus><idno>28
+                           bis</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>29</head>
+               <docDate><origDate when="1355-03">1355,
+                  mars</origDate><origPlace>Amiens</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée en don de joyeux avènement à Thibaud Le Fruitier, dit Drint,
+                     clerc, détenu depuis neuf ans dans la prison de l’évêque d’Amiens, soupçonné de
+                     plusieurs meurtres à gages et plusieurs viols, tant à Paris qu’en d’autres
+                     lieux [cl. inj. : bailli d’Amiens]. </p>
+                  <quote type="extrasigillum">De precepto Regis in jocundo adventu suo facto dominis
+                     magistris Requestarum hospicii. N. le Gros. Bucy.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >15</locus><idno>29</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>30</head>
+               <docDate><origDate when="1355-03">1355,
+                     mars</origDate><origPlace>Montreuil-sur-Mer</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée en don de joyeux avènement à Jean Bilore, en fuite par
+                     crainte de la prison ; son cousin Henri Brullart ayant été tué dans une rixe de
+                     taverne par Jean de Longuemort, Jean Bilore, avec quelques autres parents du
+                     défunt, avait vengé celui-ci peu de temps après en tuant son agresseur [cl.
+                     inj. : bailli d’Amiens]. </p>
+                  <quote type="extrasigillum">De precepto Regis in suo jocundo adventu apud
+                     Monstericlum facto dominis magistris Requestarum hospicii. Bucy. Fauvel. N. le
+                     Gros.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >15v</locus><idno>30</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>31</head>
+               <docDate><origDate when="1355-03">1355,
+                     mars</origDate><origPlace>Montreuil-sur-Mer</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée en don de joyeux avènement à Allerme Brullart, en fuite par
+                     crainte de la prison ; son frère Henri Brullart ayant été tué dans une rixe de
+                     taverne par Jean de Longuemort, Allerme Brullart, avec quelques autres parents
+                     du défunt, avait vengé celui-ci peu de temps après en tuant son agresseur [cl.
+                     inj. : bailli d’Amiens]. </p>
+                  <quote type="extrasigillum">De precepto Regis in suo jocundo adventu apud
+                     Monstericlum facto dominis magistris Requestarum hospicii. N. le Gros. Fauvel.
+                     Bucy.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >15v</locus><idno>31</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>32</head>
+               <docDate><origDate when="1355-03">1355, mars</origDate>
+                  <origPlace>Beauquesne</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée en don de joyeux avènement à Jaquet de Molinghem, dit
+                     Ridelet, détenu à la prison royale de Beauquesne depuis un an, accusé d’avoir
+                     repris par force à la femme de Jean du Val, tavernier à Ligny, un livre
+                     d’heures qu’il avait mis en gage pour deux sous, et dénoncé à l’article de la
+                     mort pour d’autres méfaits par un criminel exécuté à Aire, l’enquête menée par
+                     les échevins de Beauquesne, soumise aux maîtres des requêtes de l’hôtel,
+                     n’ayant retenu que le premier chef d’accusation ; avec clause de non préjudice
+                     pour le prévôt et les échevins de Beauquesne [cl. inj. : bailli d’Amiens]. </p>
+                  <quote type="extrasigillum">De precepto Regis in suo jocundo adventu apud
+                     Bellumquercum facto dominis magistris Requestarum hospicii. Bucy. Fauvel. N. le
+                     Gros.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >16</locus><idno>32</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>33</head>
+               <docDate><origDate when="1355-03">1355,
+                     mars</origDate><origPlace>Boulogne-sur-Mer</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée en don de joyeux avènement à Isabelle Blarelle, dite
+                     d’Estrées, poursuivie par le bailli d’Amiens et le prévôt de Saint-Riquier,
+                     mais défaillante, qui devait répondre de l’incitation, purement verbale
+                     toutefois, à s’évader faite à ses amis Hugues de Liegescourt et Gilles de
+                     Caours, détenus en la prison des maire et échevins de Saint-Riquier, qu’elle
+                     avait avertis de la mort prochaine de Laurent Labbé, blessé par eux, et qui
+                     s’étaient réfugiés dans un lieu sacré ; avec clause de non préjudice pour la
+                     justice municipale de Saint-Riquier [cl. inj. : bailli d’Amiens, prévôt de
+                     Saint-Riquier]. </p>
+                  <quote type="extrasigillum">De precepto Regis in suo jocundo adventu apud Boloniam
+                     facto dominis magistris Requestarum hospicii. Bescot. N. le Gros. Bucy.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >16</locus><idno>33</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>34</head>
+               <docDate>
+                  <origDate when="1355-03">1355,
+                     mars</origDate><origPlace>Montreuil-sur-Mer</origPlace></docDate>
+               <argument>
+                  <p>Rémission accordée en don de joyeux avènement et en considération des services
+                     rendus au roi et à son père sur mer pendant les guerres, à Thomassin d’Odre,
+                     marin de Boulogne-sur-Mer, qui s’était enfui après avoir mortellement blessé
+                     Richard Brun, qui l’injuriait, ceci sans préméditation mais par colère et en
+                     chaude mêlée ; avec clause de non préjudice pour les maire et échevins de
+                     Boulogne [cl. inj. : bailli d’Amiens, prévôt de Montreuil]. </p>
+                  <quote type="extrasigillum">De precepto Regis in suo jocundo adventu facto Bolon.
+                     dominis magistris Requestarum hospicii sui. S[aint] Pierre. Bucy.</quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >16v</locus><idno>34</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+         <text>
+            <front>
+               <head>35</head>
+               <docDate><origDate when="1355-03">1355,
+                     mars</origDate><origPlace>Montreuil-sur-Mer</origPlace></docDate>
+               <argument>
+                  <p>Rémission et rappel de ban accordés en don de joyeux avènement à Pierre
+                     Marcille, frère de la léproserie de Montreuil, et à sa concubine Marote
+                     Gileberde, emprisonnés six mois puis bannis par les maire et échevins de la
+                     ville parce que le dit Pierre était accusé d’avoir détourné au profit de sa
+                     maîtresse du pain, de la viande, des victuailles diverses et des chandelles
+                     appartenant à la léproserie ; avec clause de non préjudice pour la justice
+                     municipale [cl. inj. : bailli d’Amiens, prévôt de Montreuil]. </p>
+                  <quote type="extrasigillum">De precepto Regis in suo jocundo adventu facto
+                     Monsterol. dominis magistris Requestarum hospicii. S[aint] Pierre. Bucy.
+                  </quote>
+               </argument>
+               <div type="tradition">
+                  <listWit sortKey="copie">
+                     <witness><msDesc>
+                           <msIdentifier>
+                              <repository>Archives nationales</repository>
+                              <idno>JJ83</idno>
+                           </msIdentifier>
+                        </msDesc><locus scheme="folio"
+                        >16v</locus><idno>35</idno><lang>lat.</lang></witness>
+                  </listWit>
+               </div>
+               <index>
+                  <term/>
+               </index>
+            </front>
+            <body>
+               <p/>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
