@@ -41,6 +41,8 @@ The Archives nationales published a series of inventories under the title *Regis
   3.2: **Règne de Philippe de Valois JJ 70 à 75** (*Registres du Trésor des Chartes*, t. III : *Règne de Philippe de Valois [1336-1346]. Deuxième partie. Inventaire analytique [de JJ//70 à 75]*, par J. Viard et A. Vallée, Paris, 1979, in-4°, xiv-456 p. (Archives nationales).)
   3.3: **Règne de Philippe de Valois JJ 76 à 79B** (*Registres du Trésor des Chartes*, t. III : *Règne de Philippe de Valois [1339-1350]. Troisième partie. Inventaire analytique [de JJ//76 à 79/b] et index généraux [de JJ//65 à 79/b]*, par A. Vallée, Paris, 1984, in-4°, xx-588 p. (Archives nationales).)
   
+  As far as we can, we have tried to structure the data in a homogeneous way and to integrate index entries at the level of each act and to enhance those with a classification (subject/person/place), but some of the conversions are not optimal.
+  
 ### Handwritten inventories
 The volumes JJ 80 to JJ 95 have been described in handwritten inventories, which A2iA has converted into pre-structured text, and that we have enhanced during the project. 
 Inventories for JJ 84 and then for JJ 87 - JJ 95 have links to the images. 
