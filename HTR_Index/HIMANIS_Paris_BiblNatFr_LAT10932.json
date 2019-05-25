@@ -1,0 +1,2083 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "thumbnail": {
+        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673.thumbnail"
+    },
+    "related": "http://gallica.bnf.fr/ark:/12148/btv1b90807673",
+    "structures": [
+        {
+            "viewingHint": "top",
+            "label": "Manifests",
+            "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/manifest.json/range/r0",
+            "ranges": [
+                "HIMANIS/LAT10932/words-btv1b90807673"
+            ],
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f1",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f2",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f3",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f4",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f5",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f6",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f7",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f8",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f9",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f10",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f11",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f12",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f13",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f14",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f15",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f16",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f17",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f18",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f19",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f20",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f21",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f22",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f23",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f24",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f25",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f26",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f27",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f28",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f29",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f30",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f31",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f32",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f33",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f34",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f35",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f36",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f37",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f38",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f39",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f40",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f41",
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f42"
+            ],
+            "label": "Latin 10932",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673",
+            "ranges": [
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f1",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f2",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f3",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f4",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f5",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f6",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f7",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f8",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f9",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f10",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f11",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f12",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f13",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f14",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f15",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f16",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f17",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f18",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f19",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f20",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f21",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f22",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f23",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f24",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f25",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f26",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f27",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f28",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f29",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f30",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f31",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f32",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f33",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f34",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f35",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f36",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f37",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f38",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f39",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f40",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f41",
+                "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f42"
+            ],
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f1"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f1",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f1",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f2"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f2",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f2",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f3"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f3",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f3",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f4"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f4",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f4",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f5"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f5",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f5",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f6"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f6",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f6",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f7"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f7",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f7",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f8"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f8",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f8",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f9"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f9",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f9",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f10"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f10",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f10",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f11"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f11",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f11",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f12"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f12",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f12",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f13"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f13",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f13",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f14"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f14",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f14",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f15"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f15",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f15",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f16"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f16",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f16",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f17"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f17",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f17",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f18"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f18",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f18",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f19"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f19",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f19",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f20"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f20",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f20",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f21"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f21",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f21",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f22"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f22",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f22",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f23"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f23",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f23",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f24"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f24",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f24",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f25"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f25",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f25",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f26"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f26",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f26",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f27"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f27",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f27",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f28"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f28",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f28",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f29"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f29",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f29",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f30"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f30",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f30",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f31"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f31",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f31",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f32"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f32",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f32",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f33"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f33",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f33",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f34"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f34",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f34",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f35"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f35",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f35",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f36"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f36",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f36",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f37"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f37",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f37",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f38"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f38",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f38",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f39"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f39",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f39",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f40"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f40",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f40",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f41"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f41",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f41",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f42"
+            ],
+            "label": "NP",
+            "@id": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f42",
+            "within": "HIMANIS/LAT10932/words-btv1b90807673-btv1b90807673_f42",
+            "@type": "sc:Range"
+        }
+    ],
+    "description": "Compilation de Pierre d'\u00c9tampes sur les services militaires d\u00fbs au roi.",
+    "sequences": [
+        {
+            "canvases": [
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6591,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f1",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4969,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f1/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f1",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f1.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f1_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4969,
+                    "width": 6591,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f1",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 3411,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f2",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4688,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f2/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f2",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f2.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f2_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4688,
+                    "width": 3411,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f2",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6453,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f3",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4766,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f3/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f3",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f3.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f3_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4766,
+                    "width": 6453,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f3",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6449,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f4",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4764,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f4/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f4",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f4.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f4_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4764,
+                    "width": 6449,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f4",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 4984,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f5",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 6775,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f5/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f5",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f5.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f5_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 6775,
+                    "width": 4984,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f5",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6454,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f6",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f6/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f6",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f6.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f6_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6454,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f6",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6452,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f7",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4764,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f7/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f7",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f7.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f7_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4764,
+                    "width": 6452,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f7",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6448,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f8",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4765,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f8/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f8",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f8.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f8_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4765,
+                    "width": 6448,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f8",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6450,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f9",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4764,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f9/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f9",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f9.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f9_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4764,
+                    "width": 6450,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f9",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6451,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f10",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4762,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f10/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f10",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f10.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f10_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4762,
+                    "width": 6451,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f10",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6453,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f11",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4765,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f11/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f11",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f11.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f11_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4765,
+                    "width": 6453,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f11",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6452,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f12",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4764,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f12/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f12",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f12.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f12_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4764,
+                    "width": 6452,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f12",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6447,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f13",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4764,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f13/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f13",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f13.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f13_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4764,
+                    "width": 6447,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f13",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6447,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f14",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4761,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f14/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f14",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f14.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f14_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4761,
+                    "width": 6447,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f14",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6449,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f15",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4762,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f15/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f15",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f15.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f15_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4762,
+                    "width": 6449,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f15",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6451,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f16",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4765,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f16/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f16",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f16.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f16_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4765,
+                    "width": 6451,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f16",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6450,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f17",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f17/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f17",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f17.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f17_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6450,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f17",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6447,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f18",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f18/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f18",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f18.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f18_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6447,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f18",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6447,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f19",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4764,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f19/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f19",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f19.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f19_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4764,
+                    "width": 6447,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f19",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6447,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f20",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f20/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f20",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f20.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f20_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6447,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f20",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6452,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f21",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f21/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f21",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f21.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f21_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6452,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f21",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6451,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f22",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f22/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f22",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f22.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f22_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6451,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f22",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6445,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f23",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4764,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f23/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f23",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f23.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f23_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4764,
+                    "width": 6445,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f23",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6447,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f24",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f24/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f24",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f24.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f24_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6447,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f24",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6447,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f25",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4762,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f25/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f25",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f25.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f25_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4762,
+                    "width": 6447,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f25",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6452,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f26",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4760,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f26/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f26",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f26.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f26_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4760,
+                    "width": 6452,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f26",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6451,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f27",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f27/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f27",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f27.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f27_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6451,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f27",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6444,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f28",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4765,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f28/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f28",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f28.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f28_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4765,
+                    "width": 6444,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f28",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6447,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f29",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4764,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f29/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f29",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f29.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f29_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4764,
+                    "width": 6447,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f29",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6448,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f30",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4762,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f30/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f30",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f30.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f30_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4762,
+                    "width": 6448,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f30",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6451,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f31",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f31/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f31",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f31.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f31_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6451,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f31",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6450,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f32",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f32/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f32",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f32.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f32_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6450,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f32",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6445,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f33",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4764,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f33/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f33",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f33.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f33_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4764,
+                    "width": 6445,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f33",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6447,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f34",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f34/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f34",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f34.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f34_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6447,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f34",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6447,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f35",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4764,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f35/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f35",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f35.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f35_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4764,
+                    "width": 6447,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f35",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6451,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f36",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f36/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f36",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f36.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f36_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6451,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f36",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6451,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f37",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4762,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f37/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f37",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f37.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f37_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4762,
+                    "width": 6451,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f37",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6447,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f38",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f38/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f38",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f38.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f38_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6447,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f38",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6447,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f39",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f39/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f39",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f39.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f39_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6447,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f39",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6449,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f40",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4761,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f40/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f40",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f40.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f40_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4761,
+                    "width": 6449,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f40",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6452,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f41",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4760,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f41/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f41",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f41.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f41_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4760,
+                    "width": 6452,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f41",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "NP",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 6451,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/1/context.json",
+                                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f42",
+                                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                                },
+                                "height": 4763,
+                                "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/f42/full/full/0/native.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f42",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "thumbnail": {
+                        "@id": "http://gallica.bnf.fr/ark:/12148/btv1b90807673/f42.thumbnail"
+                    },
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words_annotations/http_gallica.bnf.fr_iiif_ark:_12148_btv1b90807673_f42_full_full_0_native.jpg.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 4763,
+                    "width": 6451,
+                    "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/canvas/f42",
+                    "@type": "sc:Canvas"
+                }
+            ],
+            "label": "Current Page Order",
+            "@id": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/sequence/default",
+            "@type": "sc:Sequence"
+        }
+    ],
+    "label": "Latin 10932",
+    "seeAlso": [
+        "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b90807673"
+    ],
+    "license": "http://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+    "attribution": "Biblioth\u00e8que nationale de France",
+    "@id": "https://manifests.teklia.com/HIMANIS/LAT10932/words.json",
+    "logo": "http://www.bnf.fr/bnf_dev/icono/bnf.png",
+    "metadata": [
+        {
+            "label": "Repository",
+            "value": "Biblioth\u00e8que nationale de France"
+        },
+        {
+            "label": "Provider",
+            "value": "Biblioth\u00e8que nationale de France"
+        },
+        {
+            "label": "Disseminator",
+            "value": "Gallica"
+        },
+        {
+            "label": "Source Images",
+            "value": "http://gallica.bnf.fr/ark:/12148/btv1b90807673"
+        },
+        {
+            "label": "Metadata Source",
+            "value": "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b90807673"
+        },
+        {
+            "label": "Shelfmark",
+            "value": "Biblioth\u00e8que nationale de France, D\u00e9partement des manuscrits, Latin 10932"
+        },
+        {
+            "label": "Title",
+            "value": "Compilation de Pierre d'\u00c9tampes sur les services militaires d\u00fbs au roi."
+        },
+        {
+            "label": "Date",
+            "value": "1301-1325"
+        },
+        {
+            "label": "Language",
+            "value": "lat"
+        },
+        {
+            "label": "Format",
+            "value": "34 ff. - 210 \u00d7 165 mm. - Demi-maroquin rouge [au chiffre de Louis-Philippe], Tripier-Bradel 27 avril 1845; cf. B. n. F., d\u00e9partement des Manuscrits, Archives Modernes 620 et 624"
+        },
+        {
+            "label": "Relation",
+            "value": "Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc726005"
+        },
+        {
+            "label": "Type",
+            "value": [
+                {
+                    "@value": "manuscript",
+                    "@language": "eng"
+                },
+                {
+                    "@value": "manuscrit",
+                    "@language": "fre"
+                }
+            ]
+        },
+        {
+            "label": "dcterms:isVersionOf",
+            "value": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b90807673/manifest.json"
+        }
+    ]
+}

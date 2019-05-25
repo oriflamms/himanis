@@ -1,0 +1,1682 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "thumbnail": {
+        "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0001R_A/full/150,/0/default.jpg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0001R_A",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+    },
+    "related": [],
+    "structures": [
+        {
+            "viewingHint": "top",
+            "label": "Manifests",
+            "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/manifest/range/r0",
+            "ranges": [
+                "HIMANIS/JJ083/words-23671"
+            ],
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295301",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295302",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295303",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295304",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295305",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295306",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295307",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295308",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295309",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295310",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295311",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295312",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295313",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295314",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295315",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295316",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295317",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295318",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295319",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295320",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295321",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295322",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295323",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295324",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295325",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295326",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295327",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295328",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295329",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295330",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295331",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295332",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295333",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295334",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295335",
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295336"
+            ],
+            "label": "PARIS, Archives nationales, JJ 083 (Reproduction int\u00e9grale)",
+            "@id": "HIMANIS/JJ083/words-23671",
+            "ranges": [
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0001R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0002R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0002V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0003R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0003V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0004R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0004V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0005R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0005V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0006R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0006V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0007R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0007V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0008R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0008V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0009R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0009V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0010R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0010V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0011R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0011V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0012R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0012V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0013R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0013V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0014R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0014V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0015R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0015V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0016R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0016V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0017R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0017V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0018R_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0018V_A",
+                "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0019R_A"
+            ],
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295301"
+            ],
+            "label": "plat sup\u00e9rieur",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0001R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0001R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295302"
+            ],
+            "label": "000IIr",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0002R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0002R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295303"
+            ],
+            "label": "000IIv",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0002V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0002V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295304"
+            ],
+            "label": "001r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0003R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0003R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295305"
+            ],
+            "label": "001v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0003V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0003V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295306"
+            ],
+            "label": "002r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0004R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0004R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295307"
+            ],
+            "label": "002v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0004V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0004V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295308"
+            ],
+            "label": "003r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0005R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0005R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295309"
+            ],
+            "label": "003v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0005V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0005V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295310"
+            ],
+            "label": "004r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0006R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0006R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295311"
+            ],
+            "label": "004v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0006V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0006V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295312"
+            ],
+            "label": "005r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0007R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0007R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295313"
+            ],
+            "label": "005v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0007V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0007V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295314"
+            ],
+            "label": "006r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0008R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0008R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295315"
+            ],
+            "label": "006v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0008V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0008V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295316"
+            ],
+            "label": "007r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0009R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0009R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295317"
+            ],
+            "label": "007v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0009V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0009V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295318"
+            ],
+            "label": "008r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0010R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0010R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295319"
+            ],
+            "label": "008v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0010V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0010V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295320"
+            ],
+            "label": "009r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0011R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0011R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295321"
+            ],
+            "label": "009v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0011V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0011V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295322"
+            ],
+            "label": "010r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0012R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0012R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295323"
+            ],
+            "label": "010v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0012V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0012V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295324"
+            ],
+            "label": "011r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0013R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0013R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295325"
+            ],
+            "label": "011v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0013V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0013V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295326"
+            ],
+            "label": "012r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0014R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0014R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295327"
+            ],
+            "label": "012v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0014V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0014V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295328"
+            ],
+            "label": "013r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0015R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0015R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295329"
+            ],
+            "label": "013v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0015V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0015V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295330"
+            ],
+            "label": "014r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0016R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0016R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295331"
+            ],
+            "label": "014v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0016V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0016V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295332"
+            ],
+            "label": "015r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0017R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0017R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295333"
+            ],
+            "label": "015v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0017V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0017V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295334"
+            ],
+            "label": "016r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0018R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0018R_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295335"
+            ],
+            "label": "016v",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0018V_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0018V_A",
+            "@type": "sc:Range"
+        },
+        {
+            "canvases": [
+                "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295336"
+            ],
+            "label": "017r",
+            "@id": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0019R_A",
+            "within": "HIMANIS/JJ083/words-23671-FRCHANJJ_JJ083_0019R_A",
+            "@type": "sc:Range"
+        }
+    ],
+    "description": "",
+    "sequences": [
+        {
+            "canvases": [
+                {
+                    "label": "plat sup\u00e9rieur",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2751,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0001R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3556,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0001R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295301",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0001R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3556,
+                    "width": 2751,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295301",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "000IIr",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2635,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0002R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3535,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0002R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295302",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0002R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3535,
+                    "width": 2635,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295302",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "000IIv",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2651,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0002V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3509,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0002V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295303",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0002V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3509,
+                    "width": 2651,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295303",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "001r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2755,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0003R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3503,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0003R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295304",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0003R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3503,
+                    "width": 2755,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295304",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "001v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2749,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0003V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3521,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0003V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295305",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0003V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3521,
+                    "width": 2749,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295305",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "002r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2683,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0004R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3561,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0004R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295306",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0004R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3561,
+                    "width": 2683,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295306",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "002v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2672,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0004V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3549,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0004V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295307",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0004V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3549,
+                    "width": 2672,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295307",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "003r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2679,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0005R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3575,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0005R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295308",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0005R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3575,
+                    "width": 2679,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295308",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "003v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2667,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0005V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3579,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0005V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295309",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0005V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3579,
+                    "width": 2667,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295309",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "004r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2729,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0006R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3577,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0006R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295310",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0006R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3577,
+                    "width": 2729,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295310",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "004v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2707,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0006V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3568,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0006V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295311",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0006V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3568,
+                    "width": 2707,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295311",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "005r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2732,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0007R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3569,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0007R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295312",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0007R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3569,
+                    "width": 2732,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295312",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "005v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2694,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0007V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3577,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0007V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295313",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0007V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3577,
+                    "width": 2694,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295313",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "006r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2730,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0008R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3554,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0008R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295314",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0008R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3554,
+                    "width": 2730,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295314",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "006v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2716,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0008V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3572,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0008V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295315",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0008V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3572,
+                    "width": 2716,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295315",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "007r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2706,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0009R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3544,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0009R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295316",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0009R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3544,
+                    "width": 2706,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295316",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "007v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2716,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0009V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3574,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0009V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295317",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0009V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3574,
+                    "width": 2716,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295317",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "008r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2695,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0010R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3565,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0010R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295318",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0010R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3565,
+                    "width": 2695,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295318",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "008v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2688,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0010V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3571,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0010V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295319",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0010V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3571,
+                    "width": 2688,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295319",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "009r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2751,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0011R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3388,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0011R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295320",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0011R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3388,
+                    "width": 2751,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295320",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "009v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2670,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0011V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3723,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0011V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295321",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0011V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3723,
+                    "width": 2670,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295321",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "010r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2710,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0012R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3569,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0012R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295322",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0012R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3569,
+                    "width": 2710,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295322",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "010v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2678,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0012V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3562,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0012V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295323",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0012V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3562,
+                    "width": 2678,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295323",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "011r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2738,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0013R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3564,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0013R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295324",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0013R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3564,
+                    "width": 2738,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295324",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "011v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2679,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0013V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3556,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0013V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295325",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0013V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3556,
+                    "width": 2679,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295325",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "012r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2692,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0014R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3729,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0014R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295326",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0014R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3729,
+                    "width": 2692,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295326",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "012v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2659,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0014V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3736,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0014V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295327",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0014V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3736,
+                    "width": 2659,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295327",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "013r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2691,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0015R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3573,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0015R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295328",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0015R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3573,
+                    "width": 2691,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295328",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "013v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2687,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0015V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3569,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0015V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295329",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0015V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3569,
+                    "width": 2687,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295329",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "014r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2707,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0016R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3571,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0016R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295330",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0016R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3571,
+                    "width": 2707,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295330",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "014v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2691,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0016V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3561,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0016V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295331",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0016V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3561,
+                    "width": 2691,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295331",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "015r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2755,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0017R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3663,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0017R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295332",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0017R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3663,
+                    "width": 2755,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295332",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "015v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2711,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0017V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3623,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0017V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295333",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0017V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3623,
+                    "width": 2711,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295333",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "016r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2707,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0018R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3571,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0018R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295334",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0018R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3571,
+                    "width": 2707,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295334",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "016v",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2656,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0018V_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3619,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0018V_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295335",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0018V.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3619,
+                    "width": 2656,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295335",
+                    "@type": "sc:Canvas"
+                },
+                {
+                    "label": "017r",
+                    "images": [
+                        {
+                            "resource": {
+                                "width": 2795,
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0019R_A",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "height": 3563,
+                                "@id": "http://iiif.irht.cnrs.fr/iiif/Paris/FRCHANJJ_JJ083/jp2/FRCHANJJ_JJ083_0019R_A/full/full/0/default.jpg"
+                            },
+                            "@type": "oa:Annotation",
+                            "on": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295336",
+                            "motivation": "sc:painting"
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "label": "TRANSCRIPTION",
+                            "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words_annotations/FRCHANJJ_JJ083_0019R.json",
+                            "@type": "sc:AnnotationList"
+                        }
+                    ],
+                    "height": 3563,
+                    "width": 2795,
+                    "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/canvas/canvas-2295336",
+                    "@type": "sc:Canvas"
+                }
+            ],
+            "label": "Reproduction int\u00e9grale",
+            "@id": "http://bvmm.irht.cnrs.fr/iiif/23671/sequence/default",
+            "@type": "sc:Sequence"
+        }
+    ],
+    "viewingHint": "individuals",
+    "label": "PARIS, Archives nationales, JJ 083 (Reproduction int\u00e9grale)",
+    "viewingDirection": "left-to-right",
+    "seeAlso": "",
+    "license": "http://creativecommons.org/licenses/by-nc/3.0/deed.fr",
+    "attribution": "Archives nationales de PARIS",
+    "@id": "https://manifests.teklia.com/HIMANIS/JJ083/words.json",
+    "logo": "http://bvmm.irht.cnrs.fr/includes/interface/Titre-court-en-fontin-sans-ombres-.png",
+    "within": "http://bvmm.irht.cnrs.fr/315556101/collection.json",
+    "metadata": [
+        {
+            "label": "Cote",
+            "value": "PARIS, Archives nationales, JJ 083"
+        },
+        {
+            "label": "Auteur, titre, oeuvre",
+            "value": "Registre du Tr\u00e9sor des chartes, ann\u00e9es 1355, mars, (35 actes)"
+        },
+        {
+            "label": "Support",
+            "value": "?"
+        },
+        {
+            "label": "Datation",
+            "value": "14e s. (1355)"
+        },
+        {
+            "label": "Dimensions (mm)",
+            "value": "?"
+        },
+        {
+            "label": "Foliotation",
+            "value": ""
+        },
+        {
+            "label": "Notes",
+            "value": ""
+        },
+        {
+            "label": "Provider",
+            "value": "Biblioth\u00e8que Virtuelle des Manuscrits M\u00e9di\u00e9vaux (BVMM) &ndash; IRHT-CNRS"
+        },
+        {
+            "label": "Source images",
+            "value": "http://bvmm.irht.cnrs.fr/resultRecherche/resultRecherche.php?COMPOSITION_ID=21345"
+        },
+        {
+            "label": "Source m\u00e9tadonn\u00e9es",
+            "value": "http://medium-avance.irht.cnrs.fr/ark:/63955/md11xd07h92p"
+        },
+        {
+            "label": "dcterms:isVersionOf",
+            "value": "http://bvmm.irht.cnrs.fr/iiif/23671/manifest"
+        }
+    ]
+}
