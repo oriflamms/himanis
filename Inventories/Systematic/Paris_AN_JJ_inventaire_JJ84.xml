@@ -302,7 +302,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>5</locus>
+                           <locus scheme="folio">5r</locus>
                            <idno>6</idno>
                            <lang>latin</lang>
                         </witness>
@@ -346,7 +346,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>6</locus>
+                           <locus scheme="folio">6r</locus>
                            <idno>7</idno>
                            <lang>latin</lang>
                         </witness>
@@ -382,7 +382,7 @@
                         Caritas. - Bis lecta in Consilio. - Duplicata.<lb facs="#d1e235"/>(Sous le
                         sceau du Châtelet en l'absence du grand)</p>
                      <p>
-                        <lb facs="#d1e215"/>fol. 61v°<lb facs="#d1e218"/>n. 8<lb facs="#d1e219"
+                        <lb facs="#d1e215"/>fol. 6v°<lb facs="#d1e218"/>n. 8<lb facs="#d1e219"
                         />français</p>
                   </argument>
                   <div type="tradition">
@@ -394,7 +394,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>61v</locus>
+                           <locus>6v</locus>
                            <idno>8</idno>
                            <lang>français</lang>
                         </witness>
@@ -484,7 +484,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>8</locus>
+                           <locus scheme="folio">8r</locus>
                            <idno>10</idno>
                            <lang>latin</lang>
                         </witness>
@@ -587,7 +587,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>9</locus>
+                           <locus scheme="folio">9r</locus>
                            <idno>12</idno>
                            <lang>latin</lang>
                         </witness>
@@ -684,7 +684,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>12</locus>
+                           <locus scheme="folio">12r</locus>
                            <idno>14</idno>
                            <lang>latin</lang>
                         </witness>
@@ -774,7 +774,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>13</locus>
+                           <locus scheme="folio">13r</locus>
                            <idno>16</idno>
                            <lang>latin</lang>
                         </witness>
@@ -927,7 +927,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>15</locus>
+                           <locus scheme="folio">15r</locus>
                            <idno>19</idno>
                            <lang>latin</lang>
                         </witness>
@@ -1029,7 +1029,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>15v</locus>
-                           <idno>208</idno>
+                           <idno>20 bis</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -1133,7 +1133,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>17</locus>
+                           <locus scheme="folio">17r</locus>
                            <idno>22</idno>
                            <lang>latin</lang>
                         </witness>
@@ -1221,7 +1221,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>19</locus>
+                           <locus scheme="folio">19r</locus>
                            <idno>24</idno>
                            <lang>latin</lang>
                         </witness>
@@ -1313,7 +1313,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>20</locus>
+                           <locus scheme="folio">20r</locus>
                            <idno>26</idno>
                            <lang>latin</lang>
                         </witness>
@@ -1449,7 +1449,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>21</locus>
+                           <locus scheme="folio">21r</locus>
                            <idno>29</idno>
                            <lang>latin</lang>
                         </witness>
@@ -1503,7 +1503,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>23</locus>
+                           <locus scheme="folio">23r</locus>
                            <idno>30</idno>
                            <lang>latin</lang>
                         </witness>
@@ -1608,7 +1608,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>25</locus>
+                           <locus scheme="folio">25r</locus>
                            <idno>32</idno>
                            <lang>latin</lang>
                         </witness>
@@ -1656,7 +1656,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>29</locus>
+                           <locus scheme="folio">29r</locus>
                            <idno>33</idno>
                            <lang>latin</lang>
                         </witness>
@@ -1738,7 +1738,7 @@
                            et<lb facs="#d1e1087"/>marescallo d'OSenehem. - P. Cuiret. Collatio fit
                         cum originali.<lb facs="#d1e1089"/>(sous le grand sceau).</p>
                      <p>
-                        <lb facs="#d1e1070"/>fol. 19v°<lb facs="#d1e1073"/>n. 35<lb facs="#d1e1074"
+                        <lb facs="#d1e1070"/>fol. 29v°<lb facs="#d1e1073"/>n. 35<lb facs="#d1e1074"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -1750,7 +1750,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>19v</locus>
+                           <locus>29v</locus>
                            <idno>35</idno>
                            <lang>latin</lang>
                         </witness>
@@ -1795,7 +1795,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>30</locus>
+                           <locus scheme="folio">30r</locus>
                            <idno>36</idno>
                            <lang>latin</lang>
                         </witness>
@@ -1838,7 +1838,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>30</locus>
+                           <locus scheme="folio">30r</locus>
                            <idno>37</idno>
                            <lang>latin</lang>
                         </witness>
@@ -1925,7 +1925,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>31</locus>
+                           <locus scheme="folio">31r</locus>
                            <idno>39</idno>
                            <lang>latin</lang>
                         </witness>
@@ -2055,7 +2055,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>32</locus>
+                           <locus scheme="folio">32r</locus>
                            <idno>42</idno>
                            <lang>latin</lang>
                         </witness>
@@ -2100,8 +2100,8 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>32</locus>
-                           <idno>413</idno>
+                           <locus scheme="folio">32r</locus>
+                           <idno>43</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -2193,7 +2193,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>33</locus>
+                           <locus scheme="folio">33r</locus>
                            <idno>45</idno>
                            <lang>latin</lang>
                         </witness>
@@ -2235,7 +2235,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>33</locus>
+                           <locus scheme="folio">33r</locus>
                            <idno>46</idno>
                            <lang>latin</lang>
                         </witness>
@@ -2326,7 +2326,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>34</locus>
+                           <locus scheme="folio">34r</locus>
                            <idno>48</idno>
                            <lang>latin</lang>
                         </witness>
@@ -2364,7 +2364,7 @@
                         per me. - J. Royer.<lb facs="#d1e1460"/>(Sous le sceau du roi)<lb
                            facs="#d1e1462"/>L</p>
                      <p>
-                        <lb facs="#d1e1443"/>fol. 31<lb facs="#d1e1446"/>n. 49<lb facs="#d1e1447"
+                        <lb facs="#d1e1443"/>fol. 34<lb facs="#d1e1446"/>n. 49<lb facs="#d1e1447"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -2376,7 +2376,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>31</locus>
+                           <locus scheme="folio">34r</locus>
                            <idno>49</idno>
                            <lang>latin</lang>
                         </witness>
@@ -2469,7 +2469,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>35</locus>
+                           <locus scheme="folio">35r</locus>
                            <idno>51</idno>
                            <lang>latin</lang>
                         </witness>
@@ -2562,7 +2562,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>36</locus>
+                           <locus scheme="folio">36r</locus>
                            <idno>53</idno>
                            <lang>latin</lang>
                         </witness>
@@ -2698,7 +2698,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>37</locus>
+                           <locus scheme="folio">37r</locus>
                            <idno>57</idno>
                            <lang>latin</lang>
                         </witness>
@@ -2739,7 +2739,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>37</locus>
+                           <locus scheme="folio">37r</locus>
                            <idno>58</idno>
                            <lang>latin</lang>
                         </witness>
@@ -2828,7 +2828,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>38</locus>
+                           <locus scheme="folio">38r</locus>
                            <idno>60</idno>
                            <lang/>
                         </witness>
@@ -2876,8 +2876,8 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>38</locus>
-                           <idno>60</idno>
+                           <locus scheme="folio">38r</locus>
+                           <idno>60 bis</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -2966,7 +2966,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>39</locus>
+                           <locus scheme="folio">39r</locus>
                            <idno>62</idno>
                            <lang>latin</lang>
                         </witness>
@@ -3016,7 +3016,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>39</locus>
+                           <locus scheme="folio">39r</locus>
                            <idno>63</idno>
                            <lang>latin</lang>
                         </witness>
@@ -3060,7 +3060,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>40</locus>
+                           <locus scheme="folio">40r</locus>
                            <idno>64</idno>
                            <lang>latin</lang>
                         </witness>
@@ -3108,7 +3108,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>41</locus>
+                           <locus scheme="folio">41r</locus>
                            <idno>65</idno>
                            <lang>latin</lang>
                         </witness>
@@ -3243,7 +3243,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>42</locus>
+                           <locus scheme="folio">42r</locus>
                            <idno>68</idno>
                            <lang>latin</lang>
                         </witness>
@@ -3287,7 +3287,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>42</locus>
+                           <locus scheme="folio">42r</locus>
                            <idno>69</idno>
                            <lang>latin</lang>
                         </witness>
@@ -3396,7 +3396,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>43</locus>
+                           <locus scheme="folio">43r</locus>
                            <idno>71</idno>
                            <lang>latin</lang>
                         </witness>
@@ -3490,7 +3490,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>45</locus>
+                           <locus scheme="folio">45r</locus>
                            <idno>74</idno>
                            <lang>latin</lang>
                         </witness>
@@ -3535,7 +3535,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>45</locus>
+                           <locus scheme="folio">45r</locus>
                            <idno>75</idno>
                            <lang>latin</lang>
                         </witness>
@@ -3624,7 +3624,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>46</locus>
+                           <locus scheme="folio">46r</locus>
                            <idno>77</idno>
                            <lang>latin</lang>
                         </witness>
@@ -3755,7 +3755,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>47</locus>
+                           <locus scheme="folio">47r</locus>
                            <idno>80</idno>
                            <lang>latin</lang>
                         </witness>
@@ -3802,7 +3802,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>47</locus>
+                           <locus scheme="folio">47r</locus>
                            <idno>81</idno>
                            <lang>latin</lang>
                         </witness>
@@ -3935,7 +3935,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>48</locus>
+                           <locus scheme="folio">48r</locus>
                            <idno>84</idno>
                            <lang>latin</lang>
                         </witness>
@@ -4094,7 +4094,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>49</locus>
+                           <locus scheme="folio">49r</locus>
                            <idno>87</idno>
                            <lang>latin</lang>
                         </witness>
@@ -4227,7 +4227,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>56</locus>
+                           <locus scheme="folio">56r</locus>
                            <idno>89</idno>
                            <lang>latin</lang>
                         </witness>
@@ -4284,8 +4284,8 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>9</locus>
-                           <idno>30</idno>
+                           <locus scheme="folio">58r</locus>
+                           <idno>90</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -4361,7 +4361,7 @@
                         />cancellarius. - Per vos - P. Blanchet.<lb facs="#d1e2731"/>(Sous le sceau
                         ou Cher)</p>
                      <p>
-                        <lb facs="#d1e2717"/>fol. 53<lb facs="#d1e2720"/>n. 92<lb facs="#d1e2721"
+                        <lb facs="#d1e2717"/>fol. 59<lb facs="#d1e2720"/>n. 92<lb facs="#d1e2721"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -4373,7 +4373,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>53</locus>
+                           <locus scheme="folio">59r</locus>
                            <idno>92</idno>
                            <lang>latin</lang>
                         </witness>
@@ -4420,7 +4420,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>59</locus>
+                           <locus scheme="folio">59r</locus>
                            <idno>93</idno>
                            <lang>latin</lang>
                         </witness>
@@ -4593,7 +4593,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>60</locus>
+                           <locus scheme="folio">60r</locus>
                            <idno>97</idno>
                            <lang>latin</lang>
                         </witness>
@@ -4676,7 +4676,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>61</locus>
+                           <locus scheme="folio">61r</locus>
                            <idno>99</idno>
                            <lang>latin</lang>
                         </witness>
@@ -4723,7 +4723,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>61</locus>
+                           <locus scheme="folio">61r</locus>
                            <idno>100</idno>
                            <lang>latin</lang>
                         </witness>
@@ -4850,7 +4850,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>62</locus>
+                           <locus scheme="folio">62r</locus>
                            <idno>103</idno>
                            <lang>latin</lang>
                         </witness>
@@ -4896,7 +4896,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>62</locus>
+                           <locus scheme="folio">62r</locus>
                            <idno>104</idno>
                            <lang>latin</lang>
                         </witness>
@@ -4990,7 +4990,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>63</locus>
+                           <locus scheme="folio">63r</locus>
                            <idno>106</idno>
                            <lang>latin</lang>
                         </witness>
@@ -5048,7 +5048,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>63</locus>
+                           <locus scheme="folio">63r</locus>
                            <idno>107</idno>
                            <lang>latin</lang>
                         </witness>
@@ -5098,7 +5098,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>65</locus>
+                           <locus scheme="folio">65r</locus>
                            <idno>108</idno>
                            <lang>latin</lang>
                         </witness>
@@ -5237,7 +5237,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>66</locus>
+                           <locus scheme="folio">66r</locus>
                            <idno>111</idno>
                            <lang>latin</lang>
                         </witness>
@@ -5377,7 +5377,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>67</locus>
+                           <locus scheme="folio">67r</locus>
                            <idno>114</idno>
                            <lang>latin</lang>
                         </witness>
@@ -5424,7 +5424,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>67</locus>
+                           <locus scheme="folio">67r</locus>
                            <idno>116</idno>
                            <lang>latin</lang>
                         </witness>
@@ -5522,7 +5522,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>67</locus>
+                           <locus scheme="folio">67r</locus>
                            <idno>117</idno>
                            <lang>latin</lang>
                         </witness>
@@ -5567,7 +5567,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>69</locus>
+                           <locus scheme="folio">69r</locus>
                            <idno>118</idno>
                            <lang>latin</lang>
                         </witness>
@@ -5613,7 +5613,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>69</locus>
+                           <locus scheme="folio">69r</locus>
                            <idno>419</idno>
                            <lang>latin</lang>
                         </witness>
@@ -5755,7 +5755,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>70</locus>
+                           <locus scheme="folio">70r</locus>
                            <idno>122</idno>
                            <lang>latin</lang>
                         </witness>
@@ -5879,7 +5879,7 @@
                         suprascriptis per me Saint-Pierre<lb facs="#d1e3666"/>(Sous le sceau du
                         roi)</p>
                      <p>
-                        <lb facs="#d1e3651"/>fol. 7<lb facs="#d1e3654"/>n. 125<lb facs="#d1e3655"
+                        <lb facs="#d1e3651"/>fol. 71<lb facs="#d1e3654"/>n. 125<lb facs="#d1e3655"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -5891,8 +5891,8 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>7</locus>
-                           <idno>15</idno>
+                           <locus scheme="folio">71r</locus>
+                           <idno>125</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -5971,7 +5971,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>72</locus>
+                           <locus scheme="folio">72r</locus>
                            <idno>127</idno>
                            <lang>latin</lang>
                         </witness>
@@ -6002,7 +6002,7 @@
                            facs="#d1e3734"/>Per Regem, vobis presente. - J. Royer. -
                            Cancellarius.<lb facs="#d1e3735"/>(Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e3723"/>fol. 7<lb facs="#d1e3726"/>n. 128<lb facs="#d1e3727"
+                        <lb facs="#d1e3723"/>fol. 72<lb facs="#d1e3726"/>n. 128<lb facs="#d1e3727"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -6014,7 +6014,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>7</locus>
+                           <locus scheme="folio">72r</locus>
                            <idno>128</idno>
                            <lang>latin</lang>
                         </witness>
@@ -6182,7 +6182,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>73</locus>
+                           <locus scheme="folio">73r</locus>
                            <idno>132</idno>
                            <lang>latin</lang>
                         </witness>
@@ -6236,7 +6236,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>75</locus>
+                           <locus scheme="folio">75r</locus>
                            <idno>133</idno>
                            <lang>latin</lang>
                         </witness>
@@ -6296,7 +6296,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>76</locus>
+                           <locus scheme="folio">76r</locus>
                            <idno>134</idno>
                            <lang>latin</lang>
                         </witness>
@@ -6343,7 +6343,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>78</locus>
+                           <locus scheme="folio">78r</locus>
                            <idno>135</idno>
                            <lang>latin</lang>
                         </witness>
@@ -6389,7 +6389,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>73</locus>
+                           <locus scheme="folio">73r</locus>
                            <idno>136</idno>
                            <lang>latin</lang>
                         </witness>
@@ -6542,7 +6542,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>83</locus>
+                           <locus scheme="folio">83r</locus>
                            <idno>139</idno>
                            <lang>latin</lang>
                         </witness>
@@ -6604,7 +6604,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>83</locus>
+                           <locus scheme="folio">83r</locus>
                            <idno>140</idno>
                            <lang>latin</lang>
                         </witness>
@@ -6651,7 +6651,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>85</locus>
+                           <locus scheme="folio">85r</locus>
                            <idno>141</idno>
                            <lang>latin</lang>
                         </witness>
@@ -6701,7 +6701,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>85</locus>
+                           <locus scheme="folio">85r</locus>
                            <idno>142</idno>
                            <lang>latin</lang>
                         </witness>
@@ -6800,8 +6800,8 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>86</locus>
-                           <idno>1414</idno>
+                           <locus scheme="folio">86r</locus>
+                           <idno>144</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -6850,7 +6850,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>87</locus>
+                           <locus scheme="folio">87r</locus>
                            <idno>145</idno>
                            <lang>latin</lang>
                         </witness>
@@ -6954,7 +6954,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>88</locus>
+                           <locus scheme="folio">88r</locus>
                            <idno>147</idno>
                            <lang>latin</lang>
                         </witness>
@@ -7101,7 +7101,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>89</locus>
+                           <locus scheme="folio">89r</locus>
                            <idno>151</idno>
                            <lang>latin</lang>
                         </witness>
@@ -7146,7 +7146,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>81</locus>
+                           <locus scheme="folio">81r</locus>
                            <idno>152</idno>
                            <lang>latin</lang>
                         </witness>
@@ -7190,7 +7190,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>91</locus>
+                           <locus scheme="folio">91r</locus>
                            <idno>153</idno>
                            <lang>français</lang>
                         </witness>
@@ -7236,7 +7236,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>92</locus>
+                           <locus scheme="folio">92r</locus>
                            <idno>154</idno>
                            <lang>latin</lang>
                         </witness>
@@ -7283,7 +7283,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>92</locus>
+                           <locus scheme="folio">92r</locus>
                            <idno>155</idno>
                            <lang>latin</lang>
                         </witness>
@@ -7374,7 +7374,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>93</locus>
+                           <locus scheme="folio">93r</locus>
                            <idno>157</idno>
                            <lang>latin</lang>
                         </witness>
@@ -7433,7 +7433,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>93</locus>
+                           <locus scheme="folio">93r</locus>
                            <idno>158</idno>
                            <lang>latin</lang>
                         </witness>
@@ -7479,7 +7479,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>94</locus>
+                           <locus scheme="folio">94r</locus>
                            <idno>159</idno>
                            <lang>latin</lang>
                         </witness>
@@ -7524,7 +7524,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>94</locus>
+                           <locus scheme="folio">94r</locus>
                            <idno>160</idno>
                            <lang>latin</lang>
                         </witness>
@@ -7573,7 +7573,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>94</locus>
+                           <locus scheme="folio">94r</locus>
                            <idno>161</idno>
                            <lang>latin</lang>
                         </witness>
@@ -7661,7 +7661,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>95</locus>
+                           <locus scheme="folio">95r</locus>
                            <idno>163</idno>
                            <lang/>
                         </witness>
@@ -7751,7 +7751,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>96</locus>
+                           <locus scheme="folio">96r</locus>
                            <idno>165</idno>
                            <lang>latin</lang>
                         </witness>
@@ -7800,7 +7800,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>96</locus>
+                           <locus scheme="folio">96r</locus>
                            <idno>166</idno>
                            <lang>latin</lang>
                         </witness>
@@ -7936,7 +7936,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>97</locus>
+                           <locus scheme="folio">97r</locus>
                            <idno>169</idno>
                            <lang>latin</lang>
                         </witness>
@@ -7983,7 +7983,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>97</locus>
+                           <locus scheme="folio">97r</locus>
                            <idno>170</idno>
                            <lang>latin</lang>
                         </witness>
@@ -8076,7 +8076,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>98</locus>
+                           <locus scheme="folio">98r</locus>
                            <idno>172</idno>
                            <lang>latin</lang>
                         </witness>
@@ -8169,7 +8169,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>99</locus>
+                           <locus scheme="folio">99r</locus>
                            <idno>174</idno>
                            <lang>latin</lang>
                         </witness>
@@ -8310,7 +8310,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>101</locus>
+                           <locus scheme="folio">101r</locus>
                            <idno>177</idno>
                            <lang>latin</lang>
                         </witness>
@@ -8358,7 +8358,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>101</locus>
+                           <locus scheme="folio">101r</locus>
                            <idno>178</idno>
                            <lang>latin</lang>
                         </witness>
@@ -8466,7 +8466,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>103</locus>
+                           <locus scheme="folio">103r</locus>
                            <idno>180</idno>
                            <lang>latin</lang>
                         </witness>
@@ -8630,7 +8630,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>105</locus>
+                           <locus scheme="folio">105r</locus>
                            <idno>183</idno>
                            <lang>latin</lang>
                         </witness>
@@ -8683,7 +8683,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>106</locus>
+                           <locus scheme="folio">106r</locus>
                            <idno>184</idno>
                            <lang>latin</lang>
                         </witness>
@@ -8768,7 +8768,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>107</locus>
+                           <locus scheme="folio">107r</locus>
                            <idno>186</idno>
                            <lang>latin</lang>
                         </witness>
@@ -8811,7 +8811,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>107</locus>
+                           <locus scheme="folio">107r</locus>
                            <idno>187</idno>
                            <lang>latin</lang>
                         </witness>
@@ -8858,7 +8858,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>107v</locus>
-                           <idno>8</idno>
+                           <idno>189</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -8906,7 +8906,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>108</locus>
+                           <locus scheme="folio">108r</locus>
                            <idno>190</idno>
                            <lang>latin</lang>
                         </witness>
@@ -8998,7 +8998,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>109</locus>
+                           <locus scheme="folio">109r</locus>
                            <idno>192</idno>
                            <lang>latin</lang>
                         </witness>
@@ -9048,7 +9048,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>109</locus>
+                           <locus scheme="folio">109r</locus>
                            <idno>193</idno>
                            <lang>latin</lang>
                         </witness>
@@ -9137,7 +9137,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>110</locus>
+                           <locus scheme="folio">110r</locus>
                            <idno>195</idno>
                            <lang>latin</lang>
                         </witness>
@@ -9228,7 +9228,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>111</locus>
+                           <locus scheme="folio">111r</locus>
                            <idno>197</idno>
                            <lang>latin</lang>
                         </witness>
@@ -9388,7 +9388,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>114</locus>
+                           <locus scheme="folio">114r</locus>
                            <idno>199</idno>
                            <lang>latin</lang>
                         </witness>
@@ -9521,7 +9521,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>115</locus>
+                           <locus scheme="folio">115r</locus>
                            <idno>202</idno>
                            <lang>latin</lang>
                         </witness>
@@ -9610,7 +9610,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>116</locus>
+                           <locus scheme="folio">116r</locus>
                            <idno>204</idno>
                            <lang>latin</lang>
                         </witness>
@@ -9786,7 +9786,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>117</locus>
+                           <locus scheme="folio">117r</locus>
                            <idno>208</idno>
                            <lang>latin</lang>
                         </witness>
@@ -9878,7 +9878,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>118</locus>
+                           <locus scheme="folio">118r</locus>
                            <idno>210</idno>
                            <lang/>
                         </witness>
@@ -9921,7 +9921,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>118</locus>
+                           <locus scheme="folio">118r</locus>
                            <idno>211</idno>
                            <lang>latin</lang>
                         </witness>
@@ -10057,7 +10057,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>119</locus>
+                           <locus scheme="folio">119r</locus>
                            <idno>214</idno>
                            <lang>latin</lang>
                         </witness>
@@ -10095,7 +10095,7 @@
                         de Buciaco et alii eratis.- Yvo.<lb facs="#d1e6387"/>(Sous le sceau du
                         roi)</p>
                      <p>
-                        <lb facs="#d1e6370"/>fol. 19v°<lb facs="#d1e6373"/>n. 215<lb facs="#d1e6374"
+                        <lb facs="#d1e6370"/>fol. 119v°<lb facs="#d1e6373"/>n. 215<lb facs="#d1e6374"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -10107,7 +10107,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>19v</locus>
+                           <locus>119v</locus>
                            <idno>215</idno>
                            <lang>latin</lang>
                         </witness>
@@ -10201,7 +10201,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>120</locus>
+                           <locus scheme="folio">120r</locus>
                            <idno>217</idno>
                            <lang>latin</lang>
                         </witness>
@@ -10258,7 +10258,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>121</locus>
+                           <locus scheme="folio">121r</locus>
                            <idno>218</idno>
                            <lang>latin</lang>
                         </witness>
@@ -10303,7 +10303,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>122</locus>
+                           <locus scheme="folio">122r</locus>
                            <idno>220</idno>
                            <lang>latin</lang>
                         </witness>
@@ -10396,7 +10396,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>123</locus>
+                           <locus scheme="folio">123r</locus>
                            <idno>222</idno>
                            <lang>latin</lang>
                         </witness>
@@ -10459,7 +10459,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>124</locus>
+                           <locus scheme="folio">124r</locus>
                            <idno>223</idno>
                            <lang>latin</lang>
                         </witness>
@@ -10504,7 +10504,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>125</locus>
+                           <locus scheme="folio">125r</locus>
                            <idno>223bis</idno>
                            <lang>latin</lang>
                         </witness>
@@ -10611,7 +10611,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>126</locus>
+                           <locus scheme="folio">126r</locus>
                            <idno>225</idno>
                            <lang>latin</lang>
                         </witness>
@@ -10756,7 +10756,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>128</locus>
+                           <locus scheme="folio">128r</locus>
                            <idno>228</idno>
                            <lang>latin</lang>
                         </witness>
@@ -10845,7 +10845,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>129</locus>
+                           <locus scheme="folio">129r</locus>
                            <idno>230</idno>
                            <lang>latin</lang>
                         </witness>
@@ -10885,7 +10885,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>129</locus>
+                           <locus scheme="folio">129r</locus>
                            <idno>131</idno>
                            <lang/>
                         </witness>
@@ -10980,7 +10980,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>130</locus>
+                           <locus scheme="folio">130r</locus>
                            <idno>233</idno>
                            <lang>latin</lang>
                         </witness>
@@ -11022,7 +11022,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>130</locus>
+                           <locus scheme="folio">130r</locus>
                            <idno>234</idno>
                            <lang>latin</lang>
                         </witness>
@@ -11101,7 +11101,7 @@
                            facs="#d1e7017"/>Per Regem. - Yvo, Bucy.<lb facs="#d1e7018"/>(Sous le
                         sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e7004"/>fol. 130<lb facs="#d1e7007"/>n. 236<lb facs="#d1e7008"
+                        <lb facs="#d1e7004"/>fol. 130v<lb facs="#d1e7007"/>n. 236<lb facs="#d1e7008"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -11113,7 +11113,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>130</locus>
+                           <locus scheme="folio">130v</locus>
                            <idno>236</idno>
                            <lang>latin</lang>
                         </witness>
@@ -11144,7 +11144,7 @@
                            facs="#d1e7041"/>In Requestis Hospicii de precepto domini Regis. -
                            Rougemont,<lb facs="#d1e7042"/>(Sous le sceau du roi) Bucy. - Bucy.</p>
                      <p>
-                        <lb facs="#d1e7029"/>fol. 13<lb facs="#d1e7032"/>n. 237<lb facs="#d1e7033"
+                        <lb facs="#d1e7029"/>fol. 131<lb facs="#d1e7032"/>n. 237<lb facs="#d1e7033"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -11156,7 +11156,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>13</locus>
+                           <locus scheme="folio">131r</locus>
                            <idno>237</idno>
                            <lang>latin</lang>
                         </witness>
@@ -11294,7 +11294,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>132</locus>
+                           <locus scheme="folio">132r</locus>
                            <idno>240</idno>
                            <lang>latin</lang>
                         </witness>
@@ -11387,7 +11387,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>133</locus>
+                           <locus scheme="folio">133r</locus>
                            <idno>242</idno>
                            <lang>latin</lang>
                         </witness>
@@ -11430,7 +11430,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>133</locus>
+                           <locus scheme="folio">133r</locus>
                            <idno>243</idno>
                            <lang>latin</lang>
                         </witness>
@@ -11572,7 +11572,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>134</locus>
+                           <locus scheme="folio">134r</locus>
                            <idno>246</idno>
                            <lang>latin</lang>
                         </witness>
@@ -11669,7 +11669,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>135</locus>
+                           <locus scheme="folio">135r</locus>
                            <idno>247 bis</idno>
                            <lang>latin</lang>
                         </witness>
@@ -11747,7 +11747,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>135</locus>
+                           <locus scheme="folio">135r</locus>
                            <idno>248</idno>
                            <lang>latin</lang>
                         </witness>
@@ -11778,7 +11778,7 @@
                         Regem in Consilio suo. - Y. Symon.<lb facs="#d1e7446"/>Collatio fit cum
                         originali per me. - Y. Symon.(Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e7434"/>fol. 19<lb facs="#d1e7437"/>n. 249<lb facs="#d1e7438"
+                        <lb facs="#d1e7434"/>fol. 139<lb facs="#d1e7437"/>n. 249<lb facs="#d1e7438"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -11790,7 +11790,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>19</locus>
+                           <locus scheme="folio">139r</locus>
                            <idno>249</idno>
                            <lang>latin</lang>
                         </witness>
@@ -11926,7 +11926,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>140</locus>
+                           <locus scheme="folio">140r</locus>
                            <idno>252</idno>
                            <lang>latin</lang>
                         </witness>
@@ -11970,7 +11970,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>140</locus>
+                           <locus scheme="folio">140r</locus>
                            <idno>253</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12107,7 +12107,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>142</locus>
+                           <locus scheme="folio">142r</locus>
                            <idno>256</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12154,7 +12154,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>141</locus>
+                           <locus scheme="folio">142v</locus>
                            <idno>257</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12195,7 +12195,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>143</locus>
+                           <locus scheme="folio">143r</locus>
                            <idno>258</idno>
                            <lang/>
                         </witness>
@@ -12240,7 +12240,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>143</locus>
+                           <locus scheme="folio">143r</locus>
                            <idno>259</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12315,7 +12315,7 @@
                         - N. Legros<lb facs="#d1e7770"/> Corbignyaco<lb facs="#d1e7771"/>(Sous le
                         sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e7757"/>fol. 113v°<lb facs="#d1e7760"/>n. 261<lb
+                        <lb facs="#d1e7757"/>fol. 143v°<lb facs="#d1e7760"/>n. 261<lb
                            facs="#d1e7761"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -12327,7 +12327,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>113v</locus>
+                           <locus>143v</locus>
                            <idno>261</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12374,7 +12374,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>144</locus>
+                           <locus scheme="folio">144r</locus>
                            <idno>262</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12407,7 +12407,7 @@
                            facs="#d1e7824"/>Per Regem. - Matheuss<lb facs="#d1e7825"/>(Sous le sceau
                         du roi)</p>
                      <p>
-                        <lb facs="#d1e7811"/>fol. 141v°<lb facs="#d1e7814"/>n. 263<lb
+                        <lb facs="#d1e7811"/>fol. 144v°<lb facs="#d1e7814"/>n. 263<lb
                            facs="#d1e7815"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -12419,7 +12419,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>141v</locus>
+                           <locus>144v</locus>
                            <idno>263</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12462,7 +12462,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>145</locus>
+                           <locus scheme="folio">145r</locus>
                            <idno>264</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12508,7 +12508,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>145</locus>
+                           <locus scheme="folio">145r</locus>
                            <idno>265</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12598,7 +12598,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>146</locus>
+                           <locus scheme="folio">146r</locus>
                            <idno>267</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12632,7 +12632,7 @@
                         ad relationem vestram. - J. Royer.<lb facs="#d1e7964"/>Collatio facta est
                         cum originalibus litteris per me. J. Royer (Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e7950"/>fol. 1616<lb facs="#d1e7953"/>n. 268<lb facs="#d1e7954"
+                        <lb facs="#d1e7950"/>fol. 146<lb facs="#d1e7953"/>n. 268<lb facs="#d1e7954"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -12644,7 +12644,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>1616</locus>
+                           <locus scheme="folio">146r</locus>
                            <idno>268</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12694,7 +12694,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>147</locus>
+                           <locus scheme="folio">147r</locus>
                            <idno>269</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12740,7 +12740,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>148</locus>
+                           <locus scheme="folio">148r</locus>
                            <idno>269bis</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12786,7 +12786,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>118</locus>
+                           <locus scheme="folio">148r</locus>
                            <idno>270</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12837,7 +12837,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>149</locus>
+                           <locus scheme="folio">149r</locus>
                            <idno>271</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12888,7 +12888,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>149</locus>
+                           <locus scheme="folio">149r</locus>
                            <idno>272</idno>
                            <lang>latin</lang>
                         </witness>
@@ -12980,7 +12980,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>150</locus>
+                           <locus scheme="folio">150r</locus>
                            <idno>274</idno>
                            <lang>latin</lang>
                         </witness>
@@ -13024,7 +13024,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>150</locus>
+                           <locus scheme="folio">150r</locus>
                            <idno>275</idno>
                            <lang>latin</lang>
                         </witness>
@@ -13120,7 +13120,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>151</locus>
+                           <locus scheme="folio">151r</locus>
                            <idno>277</idno>
                            <lang>latin</lang>
                         </witness>
@@ -13167,7 +13167,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>152</locus>
+                           <locus scheme="folio">152r</locus>
                            <idno>278</idno>
                            <lang>latin</lang>
                         </witness>
@@ -13214,7 +13214,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>151</locus>
+                           <locus scheme="folio">151r</locus>
                            <idno>279</idno>
                            <lang>latin</lang>
                         </witness>
@@ -13299,7 +13299,7 @@
                         Buciacoeratis. - J. Royer<lb facs="#d1e8392"/>Collatio facta est cum
                         originalis litteris per me. - J. Royer. (Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e8363"/>f13<lb facs="#d1e8366"/>n. 281</p>
+                        <lb facs="#d1e8363"/>f153<lb facs="#d1e8366"/>n. 281</p>
                   </argument>
                   <div type="tradition">
                      <listWit sortKey="copie">
@@ -13310,7 +13310,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>13r</locus>
+                           <locus>153r</locus>
                            <idno>281</idno>
                            <lang/>
                         </witness>
@@ -14672,7 +14672,7 @@
                         analogues à la précédente pour Jacques de Lille, dit Le Ban-<lb
                            facs="#d1e9227"/>queteur.</p>
                      <p>
-                        <lb facs="#d1e9218"/>fol. 15v°<lb facs="#d1e9221"/>n. 319<lb facs="#d1e9222"
+                        <lb facs="#d1e9218"/>fol. 165v°<lb facs="#d1e9221"/>n. 319<lb facs="#d1e9222"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -14684,7 +14684,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>15v</locus>
+                           <locus>165v</locus>
                            <idno>319</idno>
                            <lang>latin</lang>
                         </witness>
@@ -15292,7 +15292,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>171v</locus>
-                           <idno>33</idno>
+                           <idno>333</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -15525,7 +15525,7 @@
                         Hospicii. - Clavel, Beyo. - Collatio facta est.<lb facs="#d1e9729"/>(Sous le
                         sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e9715"/>f. 15r°<lb facs="#d1e9718"/>n. 337<lb facs="#d1e9719"
+                        <lb facs="#d1e9715"/>f. 175r°<lb facs="#d1e9718"/>n. 337<lb facs="#d1e9719"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -15537,7 +15537,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>15r</locus>
+                           <locus>175r</locus>
                            <idno>337</idno>
                            <lang>latin</lang>
                         </witness>
@@ -15619,7 +15619,7 @@
                         Regem ad relationem Consilii in quo vos eratis. - J. Royer<lb
                            facs="#d1e9783"/>(Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e9771"/>f. 95v°<lb facs="#d1e9774"/>n. 339<lb facs="#d1e9775"
+                        <lb facs="#d1e9771"/>f. 175v°<lb facs="#d1e9774"/>n. 339<lb facs="#d1e9775"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -15631,7 +15631,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>95v</locus>
+                           <locus>175v</locus>
                            <idno>339</idno>
                            <lang>latin</lang>
                         </witness>
@@ -15940,7 +15940,7 @@
                         - J. Royer, - Cancele (arius ?)<lb facs="#d1e9986"/>(Sous le sceau du
                         roi)</p>
                      <p>
-                        <lb facs="#d1e9971"/>f 80r°<lb facs="#d1e9974"/>n. 347<lb facs="#d1e9975"
+                        <lb facs="#d1e9971"/>f 180r°<lb facs="#d1e9974"/>n. 347<lb facs="#d1e9975"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -15952,7 +15952,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>80r</locus>
+                           <locus>180r</locus>
                            <idno>347</idno>
                            <lang>latin</lang>
                         </witness>
@@ -16075,7 +16075,7 @@
                            facs="#d1e10063"/>Per Roger Serris<lb facs="#d1e10064"/>(Sous le sceau du
                         roi)</p>
                      <p>
-                        <lb facs="#d1e10051"/>f. 11r°<lb facs="#d1e10054"/>n. 350<lb
+                        <lb facs="#d1e10051"/>f. 181r°<lb facs="#d1e10054"/>n. 350<lb
                            facs="#d1e10055"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -16087,7 +16087,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>11r</locus>
+                           <locus>181r</locus>
                            <idno>350</idno>
                            <lang>latin</lang>
                         </witness>
@@ -16364,7 +16364,7 @@
                         Gilet Garin.<lb facs="#d1e10243"/>[exéc. : les justiciers du royauna]<lb
                            facs="#d1e10244"/>(Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e10231"/>f. 13v°<lb facs="#d1e10234"/>n. 356<lb
+                        <lb facs="#d1e10231"/>f. 183v°<lb facs="#d1e10234"/>n. 356<lb
                            facs="#d1e10235"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -16376,7 +16376,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>13v</locus>
+                           <locus>183v</locus>
                            <idno>356</idno>
                            <lang>latin</lang>
                         </witness>
@@ -16461,7 +16461,7 @@
                            Bucy<lb facs="#d1e10310"/>(Sous le sceau du Châtelet en l'absence du
                         grand)</p>
                      <p>
-                        <lb facs="#d1e10283"/>f. 14r°<lb facs="#d1e10286"/>n. 358</p>
+                        <lb facs="#d1e10283"/>f. 184r°<lb facs="#d1e10286"/>n. 358</p>
                   </argument>
                   <div type="tradition">
                      <listWit sortKey="copie">
@@ -16472,7 +16472,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>14r</locus>
+                           <locus>184r</locus>
                            <idno>358</idno>
                            <lang/>
                         </witness>
@@ -16649,7 +16649,7 @@
                         vobis presentibus. - J. Royer<lb facs="#d1e10429"/>(Sous le sceau du
                         roi)</p>
                      <p>
-                        <lb facs="#d1e10416"/>f. 15v°<lb facs="#d1e10419"/>n. 362<lb
+                        <lb facs="#d1e10416"/>f. 185v°<lb facs="#d1e10419"/>n. 362<lb
                            facs="#d1e10420"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -16661,7 +16661,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>15v</locus>
+                           <locus>185v</locus>
                            <idno>362</idno>
                            <lang>latin</lang>
                         </witness>
@@ -17633,7 +17633,7 @@
                         Corbigny, J. de Albigniaco.<lb facs="#d1e11025"/>Collatio facta est cum
                         originalibus litteris.<lb facs="#d1e11026"/>(Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e11001"/>f 19v°<lb facs="#d1e11004"/>n. 382<lb facs="#d1e11005"
+                        <lb facs="#d1e11001"/>f 196v°<lb facs="#d1e11004"/>n. 382<lb facs="#d1e11005"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -17645,7 +17645,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>19v</locus>
+                           <locus>196v</locus>
                            <idno>382</idno>
                            <lang>latin</lang>
                         </witness>
@@ -18619,7 +18619,7 @@
                         (signata per Matheum),<lb facs="#d1e11660"/>à Vertus (signata per Blanchet),
                         à Angers (signata per Matheum), à</p>
                      <p>
-                        <lb facs="#d1e11629"/>f9r.<lb facs="#d1e11632"/>n. 40<lb facs="#d1e11633"
+                        <lb facs="#d1e11629"/>f9r.<lb facs="#d1e11632"/>n. 401<lb facs="#d1e11633"
                         />français</p>
                   </argument>
                   <div type="tradition">
@@ -18631,8 +18631,8 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>9r</locus>
-                           <idno>40</idno>
+                           <locus>213v</locus>
+                           <idno>401</idno>
                            <lang>français</lang>
                         </witness>
                      </listWit>
@@ -18970,7 +18970,7 @@
                         Hospicii. Buci, Franciscus» et<lb facs="#d1e11874"/>(Sous le sceau du
                         roi)</p>
                      <p>
-                        <lb facs="#d1e11858"/>f. 27r°<lb facs="#d1e11861"/>n. 403<lb
+                        <lb facs="#d1e11858"/>f. 217r°<lb facs="#d1e11861"/>n. 408<lb
                            facs="#d1e11862"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -18982,8 +18982,8 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>27r</locus>
-                           <idno>403</idno>
+                           <locus>217r</locus>
+                           <idno>408</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -19019,7 +19019,7 @@
                            facs="#d1e11902"/>Collatio facta est cum originali per me. -J. Royer.<lb
                            facs="#d1e11903"/>(Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e11886"/>f. 217r°<lb facs="#d1e11889"/>n. 4109<lb
+                        <lb facs="#d1e11886"/>f. 217r°<lb facs="#d1e11889"/>n. 409<lb
                            facs="#d1e11890"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -19032,7 +19032,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>217r</locus>
-                           <idno>4109</idno>
+                           <idno>409</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -19115,7 +19115,7 @@
                            facs="#d1e11957"/>Per Regem. - Matheus.<lb facs="#d1e11958"/>(Sous le
                         sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e11944"/>f. 217v°<lb facs="#d1e11947"/>n. 4111<lb
+                        <lb facs="#d1e11944"/>f. 217v°<lb facs="#d1e11947"/>n. 411<lb
                            facs="#d1e11948"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -19128,7 +19128,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>217v</locus>
-                           <idno>4111</idno>
+                           <idno>411</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -19209,7 +19209,7 @@
                         prévôt de Paris)<lb facs="#d1e12012"/>In Requestis Hospicii - J. de
                         Albigniaco, Beya<lb facs="#d1e12013"/>(Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e12000"/>f. 218r°<lb facs="#d1e12003"/>n. 4113<lb
+                        <lb facs="#d1e12000"/>f. 218r°<lb facs="#d1e12003"/>n. 413<lb
                            facs="#d1e12004"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -19222,7 +19222,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>218r</locus>
-                           <idno>4113</idno>
+                           <idno>413</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -19395,7 +19395,7 @@
                         litteris originalibus suprascriptis per me,<lb facs="#d1e12131"/>(Sous le
                         sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e12114"/>f. 2r°<lb facs="#d1e12117"/>n. 417<lb facs="#d1e12118"
+                        <lb facs="#d1e12114"/>f. 219v°<lb facs="#d1e12117"/>n. 417<lb facs="#d1e12118"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -19407,7 +19407,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>2r</locus>
+                           <locus>219v</locus>
                            <idno>417</idno>
                            <lang>latin</lang>
                         </witness>
@@ -19552,7 +19552,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>221r</locus>
-                           <idno>4120</idno>
+                           <idno>420</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -20069,7 +20069,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>225v</locus>
-                           <idno>4131</idno>
+                           <idno>431</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -20148,7 +20148,7 @@
                            facs="#d1e12593"/>In Requestis Hospicii. - P. Blanchet, Bescot<lb
                            facs="#d1e12594"/>(Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e12580"/>f. 126r°<lb facs="#d1e12583"/>n. 433<lb
+                        <lb facs="#d1e12580"/>f. 226r°<lb facs="#d1e12583"/>n. 433<lb
                            facs="#d1e12584"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -20160,7 +20160,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>126r</locus>
+                           <locus>226r</locus>
                            <idno>433</idno>
                            <lang>latin</lang>
                         </witness>
@@ -20251,7 +20251,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>227r</locus>
-                           <idno>4135</idno>
+                           <idno>435</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -20284,7 +20284,7 @@
                         />[exéc. : le bailli de Rouen]<lb facs="#d1e12685"/>In Requestis Hospicii. -
                         S. Pierre, Corbigny.<lb facs="#d1e12686"/>(Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e12657"/>f. 2r°<lb facs="#d1e12660"/>n. 4136<lb
+                        <lb facs="#d1e12657"/>f. 227v°<lb facs="#d1e12660"/>n. 435 bis<lb
                            facs="#d1e12661"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -20296,8 +20296,8 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>2r</locus>
-                           <idno>4136</idno>
+                           <locus>227v</locus>
+                           <idno>435 bis</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -20504,7 +20504,7 @@
                            facs="#d1e12809"/>Per Regem, Engerrando de Parvo Celario presente. -
                            Seris.<lb facs="#d1e12810"/>(Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e12799"/>f. 2r°<lb facs="#d1e12802"/>n. 420<lb facs="#d1e12803"
+                        <lb facs="#d1e12799"/>f. 229r°<lb facs="#d1e12802"/>n. 440<lb facs="#d1e12803"
                         />latin</p>
                   </argument>
                   <div type="tradition">
@@ -20516,8 +20516,8 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>2r</locus>
-                           <idno>420</idno>
+                           <locus>229r</locus>
+                           <idno>440</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -21103,7 +21103,7 @@
                         maréchal d'Audrehem en Picardie.<lb facs="#d1e13166"/>Per Regem. - Seris<lb
                            facs="#d1e13167"/>(Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e13154"/>f. 230v°<lb facs="#d1e13157"/>n. 453<lb
+                        <lb facs="#d1e13154"/>f. 234v°<lb facs="#d1e13157"/>n. 453<lb
                            facs="#d1e13158"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -21115,7 +21115,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>230v</locus>
+                           <locus>234v</locus>
                            <idno>453</idno>
                            <lang>latin</lang>
                         </witness>
@@ -21253,7 +21253,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>226v</locus>
+                           <locus>236v</locus>
                            <idno>456</idno>
                            <lang>français</lang>
                         </witness>
@@ -21382,7 +21382,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>238r</locus>
-                           <idno>4159</idno>
+                           <idno>459</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -21702,7 +21702,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>240r</locus>
-                           <idno>4166</idno>
+                           <idno>466</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -21750,7 +21750,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>240v</locus>
-                           <idno>4167</idno>
+                           <idno>467</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -21897,7 +21897,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>242r</locus>
-                           <idno>270</idno>
+                           <idno>470</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -22031,7 +22031,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>243r</locus>
-                           <idno>4173</idno>
+                           <idno>473</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -22080,7 +22080,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>243v</locus>
-                           <idno>4174</idno>
+                           <idno>474</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -22182,7 +22182,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>244v</locus>
-                           <idno>4176</idno>
+                           <idno>476</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -22227,7 +22227,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>265r</locus>
+                           <locus>245r</locus>
                            <idno>477</idno>
                            <lang>latin</lang>
                         </witness>
@@ -22424,7 +22424,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>247v</locus>
-                           <idno>4181</idno>
+                           <idno>481</idno>
                            <lang>français</lang>
                         </witness>
                      </listWit>
@@ -22471,7 +22471,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>249r</locus>
-                           <idno>4182</idno>
+                           <idno>482</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -22570,7 +22570,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>249v</locus>
-                           <idno>4184</idno>
+                           <idno>484</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -22712,7 +22712,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>252r</locus>
-                           <idno>4187</idno>
+                           <idno>487</idno>
                            <lang/>
                         </witness>
                      </listWit>
@@ -22903,7 +22903,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>255r</locus>
-                           <idno>49</idno>
+                           <idno>491</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -24084,7 +24084,7 @@
                            d'Anjou)<lb facs="#d1e15037"/>In Requestis Hospitii. - P. de Vernone
                            Charité.<lb facs="#d1e15038"/>(Sous le sceau du roi)</p>
                      <p>
-                        <lb facs="#d1e15023"/>f. 269v°<lb facs="#d1e15026"/>n. 5156<lb
+                        <lb facs="#d1e15023"/>f. 269v°<lb facs="#d1e15026"/>n. 515 bis<lb
                            facs="#d1e15027"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -24097,7 +24097,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>269v</locus>
-                           <idno>5156</idno>
+                           <idno>515 bis</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -26229,7 +26229,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>290r</locus>
-                           <idno>5559</idno>
+                           <idno>559</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -26801,7 +26801,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>295r</locus>
-                           <idno>57</idno>
+                           <idno>571</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -26936,7 +26936,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>296r</locus>
-                           <idno>5574</idno>
+                           <idno>574</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -27265,7 +27265,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>29v</locus>
+                           <locus>297v</locus>
                            <idno>581</idno>
                            <lang>latin</lang>
                         </witness>
@@ -27744,7 +27744,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>361v</locus>
+                           <locus>301v</locus>
                            <idno>591</idno>
                            <lang>latin</lang>
                         </witness>
@@ -28395,7 +28395,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>368r</locus>
+                           <locus>308r</locus>
                            <idno>604</idno>
                            <lang>latin</lang>
                         </witness>
@@ -28528,9 +28528,9 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>304r</locus>
+                           <locus>309r</locus>
                            <idno>607</idno>
-                           <lang/>
+                           <lang>latin</lang>
                         </witness>
                      </listWit>
                   </div>
@@ -29868,7 +29868,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>3r</locus>
+                           <locus>321r</locus>
                            <idno>637</idno>
                            <lang>latin</lang>
                         </witness>
@@ -29913,7 +29913,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>331r</locus>
+                           <locus>321r</locus>
                            <idno>638</idno>
                            <lang>français</lang>
                         </witness>
@@ -31926,7 +31926,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>341v</locus>
-                           <idno>179</idno>
+                           <idno>679</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -31970,7 +31970,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>34r</locus>
+                           <locus>342r</locus>
                            <idno>680</idno>
                            <lang>latin</lang>
                         </witness>
@@ -32319,7 +32319,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>344v</locus>
-                           <idno>68</idno>
+                           <idno>687</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -32383,7 +32383,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>346r</locus>
-                           <idno>683</idno>
+                           <idno>688</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -32505,7 +32505,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>349r</locus>
-                           <idno>630</idno>
+                           <idno>690</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -32594,8 +32594,8 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>24v</locus>
-                           <idno>69</idno>
+                           <locus>349v</locus>
+                           <idno>692</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -33787,7 +33787,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>358v</locus>
-                           <idno>77</idno>
+                           <idno>717</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -33861,7 +33861,7 @@
                            facs="#d1e21119"/>In Requestis Hospicii. - Adam, Orgemont.<lb
                            facs="#d1e21120"/>(Sous le sceau du Châtelet en l'absence du grand)</p>
                      <p>
-                        <lb facs="#d1e21105"/>fol. 3588r.<lb facs="#d1e21108"/>n. 79<lb
+                        <lb facs="#d1e21105"/>fol. 358²r.<lb facs="#d1e21108"/>n. 79<lb
                            facs="#d1e21109"/>latin</p>
                   </argument>
                   <div type="tradition">
@@ -33873,8 +33873,8 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>3588r</locus>
-                           <idno>79</idno>
+                           <locus>358 bis r</locus>
+                           <idno>719</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -33919,7 +33919,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>358r</locus>
+                           <locus>358 bis v</locus>
                            <idno>720</idno>
                            <lang>latin</lang>
                         </witness>
@@ -33966,7 +33966,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>358v</locus>
+                           <locus>358 bis v</locus>
                            <idno>721</idno>
                            <lang>latin</lang>
                         </witness>
@@ -34485,7 +34485,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>36r</locus>
+                           <locus>366r</locus>
                            <idno>731</idno>
                            <lang>latin</lang>
                         </witness>
@@ -35360,7 +35360,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>378v</locus>
+                           <locus>373v</locus>
                            <idno>750</idno>
                            <lang>latin</lang>
                         </witness>
@@ -35497,7 +35497,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>37r</locus>
+                           <locus>375v</locus>
                            <idno>753</idno>
                            <lang>latin</lang>
                         </witness>
@@ -35590,7 +35590,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>375v</locus>
+                           <locus>376v</locus>
                            <idno>755</idno>
                            <lang>latin</lang>
                         </witness>
@@ -35646,7 +35646,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>376r</locus>
+                           <locus>377r</locus>
                            <idno>756</idno>
                            <lang>latin</lang>
                         </witness>
@@ -35690,7 +35690,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>3r</locus>
+                           <locus>377v</locus>
                            <idno>757</idno>
                            <lang>latin</lang>
                         </witness>
@@ -36171,7 +36171,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>1382r</locus>
+                           <locus>382r</locus>
                            <idno>767</idno>
                            <lang>latin</lang>
                         </witness>
@@ -36550,7 +36550,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>337r</locus>
+                           <locus>387r</locus>
                            <idno>775</idno>
                            <lang>latin</lang>
                         </witness>
@@ -36774,7 +36774,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>3r</locus>
+                           <locus>389r</locus>
                            <idno>779</idno>
                            <lang>latin</lang>
                         </witness>
@@ -37111,7 +37111,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>312v</locus>
+                           <locus>392v</locus>
                            <idno>786</idno>
                            <lang>latin</lang>
                         </witness>
@@ -37672,7 +37672,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>396r</locus>
-                           <idno>138</idno>
+                           <idno>798</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -37767,7 +37767,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus>396v</locus>
-                           <idno>860</idno>
+                           <idno>800</idno>
                            <lang>latin</lang>
                         </witness>
                      </listWit>
@@ -37806,7 +37806,7 @@
                                  <idno>JJ84</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus>316v</locus>
+                           <locus>396v</locus>
                            <idno>801</idno>
                            <lang>latin</lang>
                         </witness>

@@ -6941,7 +6941,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">99</locus>
+                        <locus scheme="folio">99r</locus>
                         <idno>179</idno>
                         <lang>lat.</lang><lang>fr.</lang>
                      </witness>
@@ -11465,7 +11465,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">151</locus>
+                        <locus scheme="folio">151r</locus>
                         <idno>295 bis</idno>
                         <lang>lat.</lang><lang>fr.</lang>
                      </witness>
@@ -11608,7 +11608,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">153</locus>
+                        <locus scheme="folio">153r</locus>
                         <idno>299</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -12206,7 +12206,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">158</locus>
+                        <locus scheme="folio">158r</locus>
                         <idno>316</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -13969,7 +13969,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">179</locus>
+                        <locus scheme="folio">179r</locus>
                         <idno>362</idno>
                         <lang>lat.</lang><lang>fr.</lang>
                      </witness>
@@ -14762,7 +14762,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">188</locus>
+                        <locus scheme="folio">188r</locus>
                         <idno>384</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -15222,7 +15222,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">194</locus>
+                        <locus scheme="folio">194r</locus>
                         <idno>396</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -16078,7 +16078,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">204</locus>
+                        <locus scheme="folio">204r</locus>
                         <idno>419</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -17575,7 +17575,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">227</locus>
+                        <locus scheme="folio">227r</locus>
                         <idno>456</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -19749,7 +19749,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">257</locus>
+                        <locus scheme="folio">257r</locus>
                         <idno>517</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -20699,7 +20699,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">274</locus>
+                        <locus scheme="folio">274r</locus>
                         <idno>539</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -20998,7 +20998,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">277</locus>
+                        <locus scheme="folio">277r</locus>
                         <idno>546</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -21119,7 +21119,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">280</locus>
+                        <locus scheme="folio">280r</locus>
                         <idno>549</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -21342,7 +21342,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">282</locus>
+                        <locus scheme="folio">282r</locus>
                         <idno>555</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -23620,7 +23620,7 @@
                         </msDesc>
                         <locus scheme="folio">316v</locus>
                         <idno>614</idno>
-                        <lang/></lang>
+                        <lang/>
                      </witness>
                   </listWit>
                </div>
@@ -24707,7 +24707,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">328</locus>
+                        <locus scheme="folio">328r</locus>
                         <idno>642</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -25498,7 +25498,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">338</locus>
+                        <locus scheme="folio">338r</locus>
                         <idno>663</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -26709,7 +26709,7 @@
          </text>
          <text>
             <front>
-               <head>6942</head>
+               <head>694_2</head>
                <docDate>
                   <origPlace> Senlis</origPlace>
                   <origDate when="1353"> 1353 (n.s.)</origDate>
@@ -26729,7 +26729,7 @@
                            </msIdentifier>
                         </msDesc>
                         <locus scheme="folio">358r</locus>
-                        <idno>6942</idno>
+                        <idno>694_2</idno>
                         <lang>lat.</lang>
                      </witness>
                   </listWit>
@@ -26741,7 +26741,7 @@
          </text>
          <text>
             <front>
-               <head>6943</head>
+               <head>694_3</head>
                <docDate>
                   <origPlace> Senlis</origPlace>
                   <origDate when="1353"> 1353 (n.s.)</origDate>
@@ -26761,7 +26761,7 @@
                            </msIdentifier>
                         </msDesc>
                         <locus scheme="folio">358r</locus>
-                        <idno>6943</idno>
+                        <idno>694_3</idno>
                         <lang>lat.</lang>
                      </witness>
                   </listWit>
@@ -26773,7 +26773,7 @@
          </text>
          <text>
             <front>
-               <head>6944</head>
+               <head>694_4</head>
                <docDate>
                   <origPlace> Senlis</origPlace>
                   <origDate when="1353"> 1353 (n.s.)</origDate>
@@ -26793,7 +26793,7 @@
                            </msIdentifier>
                         </msDesc>
                         <locus scheme="folio">358r</locus>
-                        <idno>6944</idno>
+                        <idno>694_4</idno>
                         <lang>lat.</lang>
                      </witness>
                   </listWit>
@@ -26805,7 +26805,7 @@
          </text>
          <text>
             <front>
-               <head>6945</head>
+               <head>694_5</head>
                <docDate>
                   <origPlace> Senlis</origPlace>
                   <origDate when="1353"> 1353 (n.s.)</origDate>
@@ -26824,7 +26824,7 @@
                            </msIdentifier>
                         </msDesc>
                         <locus scheme="folio">358r</locus>
-                        <idno>6945</idno>
+                        <idno>694_5</idno>
                         <lang>lat.</lang>
                      </witness>
                   </listWit>
@@ -26836,7 +26836,7 @@
          </text>
          <text>
             <front>
-               <head>6946</head>
+               <head>694_6</head>
                <docDate>
                   <origPlace> Senlis</origPlace>
                   <origDate when="1353"> 1353 (n.s.)</origDate>
@@ -26855,7 +26855,7 @@
                            </msIdentifier>
                         </msDesc>
                         <locus scheme="folio">358r</locus>
-                        <idno>6946</idno>
+                        <idno>694_6</idno>
                         <lang>lat.</lang>
                      </witness>
                   </listWit>
@@ -26867,7 +26867,7 @@
          </text>
          <text>
             <front>
-               <head>6947</head>
+               <head>694_7</head>
                <docDate>
                   <origPlace> Senlis</origPlace>
                   <origDate when="1353"> 1353 (n.s.)</origDate>
@@ -26886,7 +26886,7 @@
                            </msIdentifier>
                         </msDesc>
                         <locus scheme="folio">358r</locus>
-                        <idno>6947</idno>
+                        <idno>694_7</idno>
                         <lang>lat.</lang>
                      </witness>
                   </listWit>
@@ -27624,7 +27624,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">366</locus>
+                        <locus scheme="folio">366r</locus>
                         <idno>714</idno>
                         <lang>lat.</lang><lang>fr.</lang>
                      </witness>
@@ -29556,7 +29556,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">403</locus>
+                        <locus scheme="folio">403r</locus>
                         <idno>761</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -32880,7 +32880,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">448</locus>
+                        <locus scheme="folio">448r</locus>
                         <idno>847</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -34641,7 +34641,7 @@
                               <idno>JJ81</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">470</locus>
+                        <locus scheme="folio">470r</locus>
                         <idno>892</idno>
                         <lang>lat.</lang>
                      </witness>
