@@ -6145,36 +6145,9 @@
                <p/>
             </body>
          </text>
-         <text>
+     <text>
             <front>
-               <head>178</head>
-               <docDate><origDate>- </origDate><origPlace>- </origPlace></docDate>
-               <argument>
-                  <p>N’existe pas. </p>
-                  <quote type="extrasigillum"> - </quote>
-               </argument>
-               <div type="tradition">
-                  <listWit sortKey="copie">
-                     <witness><msDesc>
-                           <msIdentifier>
-                              <repository>Archives nationales</repository>
-                              <idno>JJ82</idno>
-                           </msIdentifier>
-                        </msDesc><locus scheme="folio">-</locus><idno>178</idno><lang cert="unknown"
-                           >-</lang></witness>
-                  </listWit>
-               </div>
-               <index>
-                  <term/>
-               </index>
-            </front>
-            <body>
-               <p/>
-            </body>
-         </text>
-         <text>
-            <front>
-               <head>179</head>
+               <head>179<note>L'acte 178 n'existe pas</note></head>
                <docDate><origDate when="1354-01">1354, janvier (n. st.)</origDate><origPlace>Paris.
                   </origPlace></docDate>
                <argument>

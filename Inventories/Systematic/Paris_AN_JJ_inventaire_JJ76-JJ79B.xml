@@ -3398,8 +3398,8 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">63v</locus>
-                           <idno>fr.)</idno>
-                           <lang cert="unknown"/>
+                           <idno>81</idno>
+                           <lang>fr.</lang>
                         </witness>
                      </listWit>
                   </div>
@@ -7540,7 +7540,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">121v</locus>
-                           <idno>s. n.</idno>
+                           <idno>s.n.</idno>
                            <lang>fr.</lang>
                         </witness>
                      </listWit>
@@ -8388,7 +8388,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">130v</locus>
-                           <idno>s. n.</idno>
+                           <idno>s.n.</idno>
                            <lang>fr.</lang>
                         </witness>
                      </listWit>
@@ -9915,7 +9915,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">149v</locus>
-                           <idno>s. n.</idno>
+                           <idno>s.n.</idno>
                            <lang>lat.</lang>
                         </witness>
                      </listWit>
@@ -10065,7 +10065,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">152</locus>
-                           <idno>s. n.</idno>
+                           <idno>s.n.</idno>
                            <lang>lat.</lang>
                         </witness>
                      </listWit>
@@ -11736,7 +11736,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">174</locus>
-                           <idno>n°292</idno>
+                           <idno>292</idno>
                            <lang cert="unknown"/>
                         </witness>
                      </listWit>
@@ -11894,8 +11894,8 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">179</locus>
-                           <idno>lat.)</idno>
-                           <lang cert="unknown"/>
+                           <idno>296</idno>
+                           <lang>lat.</lang>
                         </witness>
                      </listWit>
                   </div>
@@ -11996,7 +11996,7 @@
                      <p>Vidimus et confirmation des lettres de juin 1346 par lesquelles le duc de
                         Normandie, lieutenant du roi, autorise Bernard de Rovignan, seigneur de
                         Castelculier, à construire une forteresse <hi rend="italic">au puy appelé
-                           Puy Donaut, lequel dit estre sien</hi>. (Fol. 181,n° 299, fr.)</p>
+                           Puy Donaut, lequel dit estre sien</hi>. (Fol. 181, n° 299, fr.)</p>
                      <quote type="extrasigillum">Par le Roy à vostre relacion. J . d'Aylly. Collacio
                         fit. Sine financia de mandato Regis.
                         Sy[mon]M[aye]abb[as]M[aioris]M[onasterii].</quote>
@@ -12014,7 +12014,8 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">181</locus>
-                           <idno>fr.)</idno>
+                           <idno>299</idno>
+                           <lang>fr.</lang>
                            <lang cert="unknown"/>
                         </witness>
                      </listWit>
@@ -13944,7 +13945,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">210v</locus>
-                           <idno>s. n.</idno>
+                           <idno>s.n.</idno>
                            <lang>fr.</lang>
                         </witness>
                      </listWit>
@@ -16060,7 +16061,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">249v</locus>
-                           <idno>s. n.)</idno>
+                           <idno>s.n.</idno>
                            <lang cert="unknown"/>
                         </witness>
                      </listWit>
@@ -16460,7 +16461,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">3</locus>
-                           <idno>n°3</idno>
+                           <idno>3</idno>
                            <lang>fr.</lang>
                         </witness>
                      </listWit>
@@ -16496,7 +16497,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">3</locus>
-                           <idno>n°4</idno>
+                           <idno>4</idno>
                            <lang>fr.</lang>
                         </witness>
                      </listWit>
@@ -20070,7 +20071,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">50v</locus>
-                           <idno>s. n.</idno>
+                           <idno>s.n.</idno>
                            <lang>fr.</lang>
                         </witness>
                      </listWit>
@@ -26972,7 +26973,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">161v</locus>
-                           <idno>s. n.</idno>
+                           <idno>s.n.</idno>
                            <lang>fr.</lang>
                         </witness>
                      </listWit>
@@ -28667,7 +28668,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">188</locus>
-                           <idno>s. n.</idno>
+                           <idno>s.n.</idno>
                            <lang>fr.</lang>
                         </witness>
                      </listWit>
@@ -30550,7 +30551,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">216</locus>
-                           <idno>s. n.</idno>
+                           <idno>s.n.</idno>
                            <lang>fr.</lang>
                         </witness>
                      </listWit>
@@ -31672,7 +31673,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">232v</locus>
-                           <idno>s. n.</idno>
+                           <idno>s.n.</idno>
                            <lang>fr.</lang>
                         </witness>
                      </listWit>
@@ -32095,9 +32096,9 @@
                                  <idno>JJ77</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus scheme="folio">243</locus>
-                           <idno>la suite au fol. 244</idno>
-                           <lang>n° 391, fr</lang>
+                           <locus scheme="folio">243r et 244r</locus>
+                           <idno>391</idno>
+                           <lang>fr</lang>
                         </witness>
                      </listWit>
                   </div>
@@ -32851,7 +32852,7 @@
                         l'autorisation de la reine Jeanne [d'Évreux], qui a Château-Thierry en
                         douaire, afin d'y établir un nouveau cimetière, l'ancien ne pouvant suffire
                         à inhumer les corps <hi rend="italic">pour la grant mortalité qui a esté et
-                           encore est en la dicte perroche</hi>. (Fol. 250v n° 411, fr.)</p>
+                           encore est en la dicte perroche</hi>. (Fol. 250v, n° 411, fr.)</p>
                      <quote type="extrasigillum">Par le Roy. R. de Molins.</quote>
                   </argument>
                   <div type="tradition">
@@ -32863,9 +32864,9 @@
                                  <idno>JJ77</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus scheme="folio">250v n° 411</locus>
-                           <idno>fr.)</idno>
-                           <lang cert="unknown"/>
+                           <locus scheme="folio">250v</locus>
+                           <idno>411</idno>
+                           <lang>fr.</lang>
                         </witness>
                      </listWit>
                   </div>
@@ -34276,7 +34277,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">1v</locus>
-                           <idno>n°3</idno>
+                           <idno>3</idno>
                            <lang>fr.</lang>
                         </witness>
                      </listWit>
@@ -34313,9 +34314,9 @@
                                  <idno>JJ78</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus scheme="folio">1v n° 4</locus>
-                           <idno>fr.)</idno>
-                           <lang cert="unknown"/>
+                           <locus scheme="folio">1v</locus>
+                           <idno>4</idno>
+                           <lang>fr.</lang>
                         </witness>
                      </listWit>
                   </div>
@@ -45009,7 +45010,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">160</locus>
-                           <idno>n°276</idno>
+                           <idno>276</idno>
                            <lang>lat.</lang>
                         </witness>
                      </listWit>
@@ -45046,7 +45047,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">161</locus>
-                           <idno>n°277</idno>
+                           <idno>277</idno>
                            <lang>lat.</lang>
                         </witness>
                      </listWit>
@@ -49740,7 +49741,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">31</locus>
-                           <idno>s. n.</idno>
+                           <idno>s.n.</idno>
                            <lang>fr.</lang>
                         </witness>
                      </listWit>
@@ -49774,7 +49775,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">31</locus>
-                           <idno>s. n.</idno>
+                           <idno>s.n.</idno>
                            <lang>lat.</lang>
                         </witness>
                      </listWit>
@@ -49843,7 +49844,7 @@
                               </msIdentifier>
                            </msDesc>
                            <locus scheme="folio">37</locus>
-                           <idno>s. n.</idno>
+                           <idno>s.n.</idno>
                            <lang>fr.</lang>
                         </witness>
                      </listWit>
@@ -50023,9 +50024,9 @@
                                  <idno>JJ79B</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus scheme="folio">38</locus>
-                           <idno>v°</idno>
-                           <lang>n° 46, fr</lang>
+                           <locus scheme="folio">38v</locus>
+                           <idno>46</idno>
+                           <lang>fr</lang>
                         </witness>
                      </listWit>
                   </div>
@@ -50278,7 +50279,7 @@
                                  <idno>JJ79B</idno>
                               </msIdentifier>
                            </msDesc>
-                           <locus scheme="folio">60 v</locus>
+                           <locus scheme="folio">60v</locus>
                            <idno>52</idno>
                            <lang>fr.</lang>
                         </witness>
