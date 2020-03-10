@@ -46,7 +46,7 @@
                               <idno>JJ83</idno>
                            </msIdentifier>
                         </msDesc>
-                        <locus scheme="folio">1</locus>
+                        <locus scheme="folio">1r</locus>
                         <idno>1</idno>
                         <lang>lat.</lang>
                      </witness>
@@ -122,7 +122,7 @@
                               <idno>JJ83</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >2</locus><idno>3</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >2r</locus><idno>3</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -151,8 +151,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >3</locus><idno>4</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">3r</locus><idno>4</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -185,8 +185,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >3v</locus><idno>5</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">3v</locus><idno>5</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -222,8 +222,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >3v</locus><idno>6</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">3v</locus><idno>6</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -257,8 +257,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >4</locus><idno>7</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">4r</locus><idno>7</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -287,8 +287,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >4v</locus><idno>8</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">4v</locus><idno>8</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -326,7 +326,7 @@
                               <idno>JJ83</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >5</locus><idno>9</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >5r</locus><idno>9</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -366,8 +366,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >7</locus><idno>10</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">7r</locus><idno>10</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -401,8 +401,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >7v</locus><idno>11</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">7v</locus><idno>11</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -440,7 +440,7 @@
                               <idno>JJ83</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >8</locus><idno>12</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >8r</locus><idno>12</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -470,8 +470,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >8v</locus><idno>13</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">8v</locus><idno>13</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -503,8 +503,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >9</locus><idno>14</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">9r</locus><idno>14</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -538,8 +538,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >9</locus><idno>15</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">9r</locus><idno>15</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -570,8 +570,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >9v</locus><idno>16</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">9v</locus><idno>16</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -604,8 +604,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >10</locus><idno>17</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">10r</locus><idno>17</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -641,8 +641,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >10v</locus><idno>18</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">10v</locus><idno>18</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -677,8 +677,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >11</locus><idno>19</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">11r</locus><idno>19</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -712,8 +712,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >11v</locus><idno>20</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">11v</locus><idno>20</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -746,8 +746,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >12</locus><idno>21</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">12r</locus><idno>21</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -781,8 +781,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >12</locus><idno>22</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">12r</locus><idno>22</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -814,8 +814,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >12v</locus><idno>23</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">12v</locus><idno>23</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -846,8 +846,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >13</locus><idno>24</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">13r</locus><idno>24</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -878,8 +878,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >13v</locus><idno>25</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">13v</locus><idno>25</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -915,8 +915,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >13v</locus><idno>26</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">13v</locus><idno>26</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -950,8 +950,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >14</locus><idno>27</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">14r</locus><idno>27</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -982,8 +982,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >14</locus><idno>28</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">14r</locus><idno>28</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -1050,8 +1050,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >15</locus><idno>29</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">15r</locus><idno>29</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -1084,8 +1084,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >15v</locus><idno>30</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">15v</locus><idno>30</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -1118,8 +1118,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >15v</locus><idno>31</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">15v</locus><idno>31</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -1155,8 +1155,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >16</locus><idno>32</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">16r</locus><idno>32</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -1192,8 +1192,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >16</locus><idno>33</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">16r</locus><idno>33</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -1227,8 +1227,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >16v</locus><idno>34</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">16v</locus><idno>34</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -1263,8 +1263,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ83</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >16v</locus><idno>35</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">16v</locus><idno>35</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>

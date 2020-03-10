@@ -3515,7 +3515,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >61</locus><idno>101</idno><lang>lat.</lang><lang>fr.Langued’Oc</lang></witness>
+                           >61r</locus><idno>101</idno><lang>lat.</lang><lang>fr.Langued’Oc</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -3621,7 +3621,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >71</locus><idno>104</idno><lang>lat.</lang></witness>
+                        >71r</locus><idno>104</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -3684,7 +3684,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >72</locus><idno>106</idno><lang>lat.</lang></witness>
+                        >72r</locus><idno>106</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -3724,7 +3724,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >72</locus><idno>107</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >72r</locus><idno>107</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -3755,7 +3755,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >74</locus><idno>108</idno><lang>lat.</lang></witness>
+                        >74r</locus><idno>108</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -3792,8 +3792,9 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ82</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio"
-                        >74</locus><idno>109</idno><lang>lat.</lang></witness>
+                        </msDesc>
+                        <locus scheme="folio">74r</locus><idno>109</idno>
+                        <lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -3826,7 +3827,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >75</locus><idno>110</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >75r</locus><idno>110</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -3859,7 +3860,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >75</locus><idno>111</idno><lang>lat.</lang></witness>
+                        >75r</locus><idno>111</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -3937,7 +3938,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >76</locus><idno>113</idno><lang>lat.</lang></witness>
+                        >76r</locus><idno>113</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4166,7 +4167,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >81</locus><idno>120</idno><lang>lat.</lang></witness>
+                        >81r</locus><idno>120</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4237,7 +4238,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >88</locus><idno>122</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >88r</locus><idno>122</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4267,7 +4268,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >83</locus><idno>123</idno><lang>lat.</lang></witness>
+                        >83r</locus><idno>123</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4301,7 +4302,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >83</locus><idno>124</idno><lang>lat.</lang></witness>
+                        >83r</locus><idno>124</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4367,7 +4368,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >84</locus><idno>126</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >84r</locus><idno>126</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4403,7 +4404,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >85</locus><idno>127</idno><lang>lat.</lang></witness>
+                        >85r</locus><idno>127</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4433,7 +4434,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >85</locus><idno>128</idno><lang>lat.</lang></witness>
+                        >85r</locus><idno>128</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4551,7 +4552,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >89</locus><idno>131</idno><lang>lat.</lang></witness>
+                        >89r</locus><idno>131</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4586,7 +4587,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >90</locus><idno>132</idno><lang>lat.</lang></witness>
+                        >90r</locus><idno>132</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4621,7 +4622,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >90</locus><idno>133</idno><lang>lat.</lang></witness>
+                        >90r</locus><idno>133</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4721,7 +4722,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >92</locus><idno>136</idno><lang>lat.</lang></witness>
+                        >92r</locus><idno>136</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4755,7 +4756,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >93</locus><idno>137</idno><lang>lat.</lang></witness>
+                        >93r</locus><idno>137</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4817,7 +4818,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >94</locus><idno>139</idno><lang>lat.</lang></witness>
+                        >94r</locus><idno>139</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4857,7 +4858,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >94</locus><idno>140</idno><lang>lat.</lang></witness>
+                        >94r</locus><idno>140</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4891,7 +4892,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >95</locus><idno>141</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >95r</locus><idno>141</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -4992,7 +4993,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >97</locus><idno>144</idno><lang>lat.</lang></witness>
+                        >97r</locus><idno>144</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -5118,7 +5119,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >98</locus><idno>148</idno><lang>lat.</lang></witness>
+                        >98r</locus><idno>148</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -5210,7 +5211,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >99</locus><idno>150</idno><lang>lat.</lang></witness>
+                        >99r</locus><idno>150</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -5246,7 +5247,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >100</locus><idno>151</idno><lang>lat.</lang></witness>
+                        >100r</locus><idno>151</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -5434,7 +5435,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >103</locus><idno>157</idno><lang>lat.</lang></witness>
+                        >103r</locus><idno>157</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -5472,7 +5473,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >103</locus><idno>158</idno><lang>lat.</lang></witness>
+                        >103r</locus><idno>158</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -5539,7 +5540,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >104</locus><idno>159</idno><lang>lat.</lang></witness>
+                        >104r</locus><idno>159</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -5685,7 +5686,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >110</locus><idno>163</idno><lang>lat.</lang></witness>
+                        >110r</locus><idno>163</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -5748,7 +5749,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >111</locus><idno>165</idno><lang>lat.</lang></witness>
+                        >111r</locus><idno>165</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -5828,7 +5829,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >114</locus><idno>167</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >114r</locus><idno>167</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -5862,7 +5863,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >115</locus><idno>168</idno><lang>lat.</lang></witness>
+                        >115r</locus><idno>168</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -5890,7 +5891,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >116</locus><idno>169</idno><lang>lat.</lang></witness>
+                        >116r</locus><idno>169</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -5928,7 +5929,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >116</locus><idno>170</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >116r</locus><idno>170</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -6121,7 +6122,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >120</locus><idno>176</idno><lang>lat.</lang></witness>
+                        >120r</locus><idno>176</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -6191,7 +6192,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >121</locus><idno>177</idno><lang>lat.</lang></witness>
+                        >121r</locus><idno>177</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -6261,7 +6262,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >122</locus><idno>180</idno><lang>lat.</lang></witness>
+                        >122r</locus><idno>180</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -6361,7 +6362,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >123</locus><idno>183</idno><lang>lat.</lang></witness>
+                        >123r</locus><idno>183</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -6427,7 +6428,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >124</locus><idno>185</idno><lang>lat.</lang></witness>
+                        >124r</locus><idno>185</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -6495,7 +6496,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >127</locus><idno>187</idno><lang>lat.</lang></witness>
+                        >127r</locus><idno>187</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -6527,7 +6528,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >129</locus><idno>188</idno><lang>lat.</lang></witness>
+                        >129r</locus><idno>188</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -6595,7 +6596,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >130</locus><idno>190</idno><lang>lat.</lang></witness>
+                        >130r</locus><idno>190</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -6625,7 +6626,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >131</locus><idno>191</idno><lang>lat.</lang></witness>
+                        >131r</locus><idno>191</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -6759,7 +6760,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >132</locus><idno>195</idno><lang>lat.</lang></witness>
+                        >132r</locus><idno>195</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -6809,7 +6810,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >133</locus><idno>196</idno><lang>lat.</lang></witness>
+                        >133r</locus><idno>196</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -6840,7 +6841,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >134</locus><idno>197</idno><lang>lat.</lang></witness>
+                        >134r</locus><idno>197</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -6938,7 +6939,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >135</locus><idno>200</idno><lang>lat.</lang></witness>
+                        >135r</locus><idno>200</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7014,7 +7015,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >136</locus><idno>202</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >136r</locus><idno>202</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7048,7 +7049,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >137</locus><idno>203</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >137r</locus><idno>203</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7158,7 +7159,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >139</locus><idno>206</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >139r</locus><idno>206</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7195,7 +7196,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >140</locus><idno>207</idno><lang>lat.</lang></witness>
+                        >140r</locus><idno>207</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7259,7 +7260,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >141</locus><idno>209</idno><lang>lat.</lang></witness>
+                        >141r</locus><idno>209</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7325,7 +7326,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >142</locus><idno>211</idno><lang>lat.</lang></witness>
+                        >142r</locus><idno>211</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7391,7 +7392,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >143</locus><idno>213</idno><lang>lat.</lang></witness>
+                        >143r</locus><idno>213</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7455,7 +7456,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >144</locus><idno>215</idno><lang>lat.</lang></witness>
+                        >144r</locus><idno>215</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7494,7 +7495,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >144</locus><idno>216</idno><lang>lat.</lang></witness>
+                        >144r</locus><idno>216</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7531,7 +7532,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >145</locus><idno>217</idno><lang>lat.</lang></witness>
+                        >145r</locus><idno>217</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7631,7 +7632,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >155</locus><idno>220</idno><lang>lat.</lang></witness>
+                        >155r</locus><idno>220</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7773,7 +7774,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >157</locus><idno>224</idno><lang>lat.</lang></witness>
+                        >157r</locus><idno>224</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7880,7 +7881,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >159</locus><idno>227</idno><lang>lat.</lang></witness>
+                        >159r</locus><idno>227</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -7945,7 +7946,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >160</locus><idno>229</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >160r</locus><idno>229</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -8011,7 +8012,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >161</locus><idno>231</idno><lang>lat.</lang></witness>
+                        >161r</locus><idno>231</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -8113,7 +8114,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >162</locus><idno>234</idno><lang>lat.</lang></witness>
+                        >162r</locus><idno>234</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -8208,7 +8209,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >163</locus><idno>237</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >163r</locus><idno>237</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -8237,7 +8238,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >163</locus><idno>238</idno><lang>lat.</lang></witness>
+                        >163r</locus><idno>238</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -8339,7 +8340,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >164</locus><idno>241</idno><lang>lat.</lang></witness>
+                        >164r</locus><idno>241</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -8380,7 +8381,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >164</locus><idno>242</idno><lang>lat.</lang></witness>
+                        >164r</locus><idno>242</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -8553,7 +8554,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >167</locus><idno>247</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >167r</locus><idno>247</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -8585,7 +8586,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >168</locus><idno>248</idno><lang>lat.</lang></witness>
+                        >168r</locus><idno>248</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -8614,7 +8615,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >168</locus><idno>249</idno><lang>lat.</lang></witness>
+                        >168r</locus><idno>249</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -8688,7 +8689,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >169</locus><idno>251</idno><lang>lat.</lang></witness>
+                        >169r</locus><idno>251</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -8855,7 +8856,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >175</locus><idno>255</idno><lang>lat.</lang></witness>
+                        >175r</locus><idno>255</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -8928,7 +8929,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >179</locus><idno>257</idno><lang>lat.</lang></witness>
+                        >179r</locus><idno>257</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -8957,7 +8958,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >179</locus><idno>258</idno><lang>lat.</lang></witness>
+                        >179r</locus><idno>258</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9059,7 +9060,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >181</locus><idno>261</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >181r</locus><idno>261</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9094,7 +9095,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >182</locus><idno>262</idno><lang>lat.</lang></witness>
+                        >182r</locus><idno>262</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9166,7 +9167,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >183</locus><idno>264</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >183r</locus><idno>264</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9195,7 +9196,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >183</locus><idno>265</idno><lang>lat.</lang></witness>
+                        >183r</locus><idno>265</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9286,7 +9287,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >184</locus><idno>268</idno><lang>lat.</lang></witness>
+                        >184r</locus><idno>268</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9316,7 +9317,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >184</locus><idno>269</idno><lang>lat.</lang></witness>
+                        >184r</locus><idno>269</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9386,7 +9387,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >185</locus><idno>271</idno><lang>lat.</lang></witness>
+                        >185r</locus><idno>271</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9447,7 +9448,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >186</locus><idno>273</idno><lang>lat.</lang></witness>
+                        >186r</locus><idno>273</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9614,7 +9615,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >188</locus><idno>277</idno><lang>lat.</lang></witness>
+                        >188r</locus><idno>277</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9650,7 +9651,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >188</locus><idno>278</idno><lang>lat.</lang></witness>
+                        >188r</locus><idno>278</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9685,7 +9686,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >189</locus><idno>279</idno><lang>lat.</lang></witness>
+                        >189r</locus><idno>279</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9753,7 +9754,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >190</locus><idno>281</idno><lang>lat.</lang></witness>
+                        >190r</locus><idno>281</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9818,7 +9819,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >191</locus><idno>283</idno><lang>lat.</lang></witness>
+                        >191r</locus><idno>283</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9856,7 +9857,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >191</locus><idno>284</idno><lang>lat.</lang></witness>
+                        >191r</locus><idno>284</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9958,7 +9959,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >193</locus><idno>287</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >193r</locus><idno>287</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -9990,7 +9991,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >194</locus><idno>288</idno><lang>lat.</lang></witness>
+                        >194r</locus><idno>288</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -10189,7 +10190,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >197</locus><idno>294</idno><lang>lat.</lang></witness>
+                        >197r</locus><idno>294</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -10225,7 +10226,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >197</locus><idno>295</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >197r</locus><idno>295</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -10299,7 +10300,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >198</locus><idno>297</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >198r</locus><idno>297</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -10362,7 +10363,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >199</locus><idno>299</idno><lang>lat.</lang></witness>
+                        >199r</locus><idno>299</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -10395,7 +10396,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >199</locus><idno>300</idno><lang>lat.</lang></witness>
+                        >199r</locus><idno>300</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -10463,7 +10464,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >202</locus><idno>302</idno><lang>lat.</lang></witness>
+                        >202r</locus><idno>302</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -10574,7 +10575,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >204</locus><idno>304</idno><lang>lat.</lang></witness>
+                        >204r</locus><idno>304</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -10636,7 +10637,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >205</locus><idno>306</idno><lang>lat.</lang></witness>
+                        >205r</locus><idno>306</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -10671,7 +10672,8 @@
                               <repository>Archives nationales</repository>
                               <idno>JJ82</idno>
                            </msIdentifier>
-                        </msDesc><locus scheme="folio">206r</locus>
+                        </msDesc>
+                        <locus scheme="folio">206r</locus>
 <idno>306
                            bis</idno><lang>lat.</lang></witness>
                   </listWit>
@@ -10711,7 +10713,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >206</locus><idno>307</idno><lang>lat.</lang></witness>
+                        >206r</locus><idno>307</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -10774,7 +10776,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >207</locus><idno>309</idno><lang>lat.</lang></witness>
+                        >207r</locus><idno>309</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -10859,7 +10861,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >208</locus><idno>311</idno><lang>lat.</lang></witness>
+                        >208r</locus><idno>311</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -10972,7 +10974,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >210</locus><idno>314</idno><lang>lat.</lang></witness>
+                        >210r</locus><idno>314</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -11006,7 +11008,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >211</locus><idno>315</idno><lang>lat.</lang></witness>
+                        >211r</locus><idno>315</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -11114,7 +11116,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >214</locus><idno>318</idno><lang>lat.</lang></witness>
+                        >214r</locus><idno>318</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -11221,7 +11223,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >218</locus><idno>321</idno><lang>lat.</lang></witness>
+                        >218r</locus><idno>321</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -11287,7 +11289,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >220</locus><idno>323</idno><lang>lat.</lang></witness>
+                        >220r</locus><idno>323</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -11353,7 +11355,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >221</locus><idno>325</idno><lang>lat.</lang></witness>
+                        >221r</locus><idno>325</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -11387,7 +11389,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >221</locus><idno>326</idno><lang>lat.</lang></witness>
+                        >221r</locus><idno>326</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -11421,7 +11423,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >222</locus><idno>327</idno><lang>lat.</lang></witness>
+                        >222r</locus><idno>327</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -11598,7 +11600,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >225</locus><idno>332</idno><lang>lat.</lang></witness>
+                        >225r</locus><idno>332</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -11722,7 +11724,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >228</locus><idno>336</idno><lang>lat.</lang></witness>
+                        >228r</locus><idno>336</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -11784,7 +11786,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >229</locus><idno>338</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >229r</locus><idno>338</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -11819,7 +11821,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >232</locus><idno>339</idno><lang>lat.</lang></witness>
+                        >232r</locus><idno>339</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -11883,7 +11885,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >233</locus><idno>341</idno><lang>lat.</lang></witness>
+                        >233r</locus><idno>341</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -11983,7 +11985,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >234</locus><idno>344</idno><lang>lat.</lang></witness>
+                        >234r</locus><idno>344</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12051,7 +12053,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >235</locus><idno>346</idno><lang>lat.</lang></witness>
+                        >235r</locus><idno>346</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12083,7 +12085,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >236</locus><idno>347</idno><lang>lat.</lang></witness>
+                        >236r</locus><idno>347</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12120,7 +12122,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >238</locus><idno>348</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >238r</locus><idno>348</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12153,7 +12155,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >239</locus><idno>349</idno><lang>lat.</lang></witness>
+                        >239r</locus><idno>349</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12185,7 +12187,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >239</locus><idno>350</idno><lang>lat.</lang></witness>
+                        >239r</locus><idno>350</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12249,7 +12251,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >240</locus><idno>352</idno><lang>lat.</lang></witness>
+                        >240r</locus><idno>352</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12343,7 +12345,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >241</locus><idno>355</idno><lang>lat.</lang></witness>
+                        >241r</locus><idno>355</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12454,7 +12456,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >243</locus><idno>358</idno><lang>lat.</lang></witness>
+                        >243r</locus><idno>358</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12584,7 +12586,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >246</locus><idno>361</idno><lang>lat.</lang></witness>
+                        >246r</locus><idno>361</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12680,7 +12682,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >247</locus><idno>364</idno><lang>lat.</lang></witness>
+                        >247r</locus><idno>364</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12741,7 +12743,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >248</locus><idno>366</idno><lang>lat.</lang></witness>
+                        >248r</locus><idno>366</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12778,7 +12780,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >248</locus><idno>367</idno><lang>lat.</lang></witness>
+                        >248r</locus><idno>367</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12817,7 +12819,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >249</locus><idno>368</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >249r</locus><idno>368</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12880,7 +12882,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >250</locus><idno>370</idno><lang>lat.</lang></witness>
+                        >250r</locus><idno>370</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12947,7 +12949,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >251</locus><idno>372</idno><lang>lat.</lang></witness>
+                        >251r</locus><idno>372</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -12981,7 +12983,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >251</locus><idno>373</idno><lang>lat.</lang></witness>
+                        >251r</locus><idno>373</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -13019,7 +13021,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >252</locus><idno>374</idno><lang>lat.</lang></witness>
+                        >252r</locus><idno>374</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -13088,7 +13090,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >253</locus><idno>376</idno><lang>lat.</lang></witness>
+                        >253r</locus><idno>376</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -13155,7 +13157,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >254</locus><idno>378</idno><lang>lat.</lang></witness>
+                        >254r</locus><idno>378</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -13294,7 +13296,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >256</locus><idno>382</idno><lang>lat.</lang></witness>
+                        >256r</locus><idno>382</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -13326,7 +13328,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >256</locus><idno>383</idno><lang>lat.</lang></witness>
+                        >256r</locus><idno>383</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -13424,7 +13426,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >257</locus><idno>386</idno><lang>lat.</lang></witness>
+                        >257r</locus><idno>386</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -13459,7 +13461,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >257</locus><idno>387</idno><lang>lat.</lang></witness>
+                        >257r</locus><idno>387</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -13526,7 +13528,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >258</locus><idno>389</idno><lang>lat.</lang></witness>
+                        >258r</locus><idno>389</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -13603,7 +13605,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >263</locus><idno>391</idno><lang>lat.</lang></witness>
+                        >263r</locus><idno>391</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -13728,7 +13730,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >265</locus><idno>394</idno><lang>lat.</lang></witness>
+                        >265r</locus><idno>394</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -13913,7 +13915,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >271</locus><idno>399</idno><lang>lat.</lang></witness>
+                        >271r</locus><idno>399</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -13949,7 +13951,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >272</locus><idno>400</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >272r</locus><idno>400</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -13982,7 +13984,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >273</locus><idno>401</idno><lang>lat.</lang></witness>
+                        >273r</locus><idno>401</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -14063,7 +14065,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >274</locus><idno>403</idno><lang>lat.</lang></witness>
+                        >274r</locus><idno>403</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -14107,7 +14109,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >275</locus><idno>404</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >275r</locus><idno>404</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -14142,7 +14144,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >276</locus><idno>405</idno><lang>lat.</lang></witness>
+                        >276r</locus><idno>405</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -14216,7 +14218,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >277</locus><idno>407</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >277r</locus><idno>407</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -14334,7 +14336,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >281</locus><idno>410</idno><lang>lat.</lang></witness>
+                        >281r</locus><idno>410</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -14411,7 +14413,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >282</locus><idno>412</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >282r</locus><idno>412</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -14445,7 +14447,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >283</locus><idno>413</idno><lang>lat.</lang></witness>
+                        >283r</locus><idno>413</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -14480,7 +14482,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >285</locus><idno>414</idno><lang>lat.</lang></witness>
+                        >285r</locus><idno>414</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -14640,7 +14642,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >288</locus><idno>418</idno><lang>lat.</lang></witness>
+                        >288r</locus><idno>418</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -14745,7 +14747,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >289</locus><idno>421</idno><lang>lat.</lang></witness>
+                        >289r</locus><idno>421</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -14818,7 +14820,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >290</locus><idno>423</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >290r</locus><idno>423</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -14858,7 +14860,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >294</locus><idno>424</idno><lang>lat.</lang></witness>
+                        >294r</locus><idno>424</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -15087,7 +15089,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >302</locus><idno>430</idno><lang>lat.</lang></witness>
+                        >302r</locus><idno>430</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -15191,7 +15193,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >305</locus><idno>433</idno><lang>lat.</lang></witness>
+                        >305r</locus><idno>433</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -15220,7 +15222,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >305</locus><idno>434</idno><lang>lat.</lang></witness>
+                        >305r</locus><idno>434</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -15317,7 +15319,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                           >306</locus><idno>437</idno><lang>lat.</lang><lang>fr.</lang></witness>
+                           >306r</locus><idno>437</idno><lang>lat.</lang><lang>fr.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -15387,7 +15389,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >307</locus><idno>439</idno><lang>lat.</lang></witness>
+                        >307r</locus><idno>439</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -15523,7 +15525,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >309</locus><idno>443</idno><lang>lat.</lang></witness>
+                        >309r</locus><idno>443</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -15591,7 +15593,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >310</locus><idno>445</idno><lang>lat.</lang></witness>
+                        >310r</locus><idno>445</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -15645,7 +15647,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >311</locus><idno>447</idno><lang>lat.</lang></witness>
+                        >311r</locus><idno>447</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -15714,7 +15716,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >312</locus><idno>448</idno><lang>lat.</lang></witness>
+                        >312r</locus><idno>448</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
@@ -15786,7 +15788,7 @@
                               <idno>JJ82</idno>
                            </msIdentifier>
                         </msDesc><locus scheme="folio"
-                        >313</locus><idno>450</idno><lang>lat.</lang></witness>
+                        >313r</locus><idno>450</idno><lang>lat.</lang></witness>
                   </listWit>
                </div>
                <index>
