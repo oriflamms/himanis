@@ -1,0 +1,78 @@
+div1{
+    display:block;
+    margin-bottom:1em;
+    counter-increment:div1;
+}
+
+listWit{
+    display:block;
+    margin-bottom:1em;
+    background-color:#F0F8FF;
+}
+
+listBibl{
+    display:inline;
+    margin-bottom:1em;
+    background-color:#FFE0B2;
+}
+cb{
+    content:"[" attr(n) "]";
+    color:green;
+}
+lb{
+    display:none;
+}
+p{
+    display:block;
+    margin-bottom:1em;
+    color:black;
+    font-size:smaller;
+    background-color:#F5F5DC;
+}
+
+witness > locus:before{
+    content:"            [folio : ] ";
+    font-weight:bold;
+    color:blue;
+}
+witness > idno:before{
+    content:"                [numéro d'acte : ] ";
+    font-weight:bold;
+    color:blue;
+}
+witness > lang:before{
+    content:"              [langue : ] ";
+    font-weight:bold;
+    color:blue;
+}
+witness > lang, witness > idno, witness > locus{
+    content: oxy_textfield(
+   edit, '#text'
+   );
+   visibility:-oxy-collapse-text;
+}
+hi{
+    display:inline;
+    font-weight:bold;
+}
+
+encodingDesc,
+witness{
+    foldable:true;
+    not-foldable-child:idno;
+}
+w, choice, abbr, expan{
+    display:inline;
+    
+}
+abbr{
+    color:black;
+    font-weight:bold;
+}
+expan{
+    color:blue
+}
+
+num{
+    text-decoration:overline;
+}
