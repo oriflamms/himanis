@@ -2310,6 +2310,8 @@ acte_id	register	act_number	new_numbering	folio_raw	folio_norm	verified	note	con
 2363.0	JJ99	406		130v	130v	1																															
 2364.0	JJ99	407		130v	130v	1																															
 2365.0	JJ99	408		130v	130v	1																															
+2365.1	JJ99	408bis		130v	130v																																
+2365.2	JJ99	408ter		130v	130v																																
 2366.0	JJ99	409		130v	130v	1																															
 2367.0	JJ99	410		130v	130v	1																															
 2368.0	JJ99	411		131	131r	1																															
