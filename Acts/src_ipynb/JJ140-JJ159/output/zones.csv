@@ -15271,7 +15271,7 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 15270		JJ159	239			3	AM	0	37	1083	1299	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vz3fbh4ijvfq/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vz3fbh4ijvfq/full/1200,/0/default.jpg	1200	1361
 15271		JJ159	240			3	AM	0	26	1200	1311	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vzm52dnw6688/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vzm52dnw6688/full/1200,/0/default.jpg	1200	1347
 15272		JJ159	241			2	AF	0	41	1054	504	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vypg3trdiedm/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vypg3trdiedm/full/1200,/0/default.jpg	1200	1361
-15273		JJ159	241			1	AI	0	544	1031	801	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vypg3trdiedm/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vypg3trdiedm/full/1200,/0/default.jpg	1200	1361
+15273		JJ159	241			0	AC	0	544	1031	801	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vypg3trdiedm/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vypg3trdiedm/full/1200,/0/default.jpg	1200	1361
 15274		JJ159	242			0	AC	13	6	1186	1311	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vto3x7ntmes9/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vto3x7ntmes9/full/1200,/0/default.jpg	1200	1347
 15275		JJ159	243			0	AC	0	46	1053	1300	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vjvm7rsd01cp/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vjvm7rsd01cp/full/1200,/0/default.jpg	1200	1361
 15276		JJ159	244			0	AC	138	42	1062	1304	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhgi9t1n6ohv/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhgi9t1n6ohv/full/1200,/0/default.jpg	1200	1347

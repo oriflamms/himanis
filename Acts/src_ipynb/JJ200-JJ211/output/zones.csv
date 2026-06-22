@@ -421,7 +421,7 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 420		JJ201	36			2	AF	3	0	1197	1089	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqhwb5iz737p/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqhwb5iz737p/full/1200,/0/default.jpg	1200	1302
 421		JJ201	36			1	AI	8	1094	1192	207	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqhwb5iz737p/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqhwb5iz737p/full/1200,/0/default.jpg	1200	1302
 422		JJ201	37			2	AF	3	0	1197	1315	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vjmwwmnz4sij/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vjmwwmnz4sij/full/1200,/0/default.jpg	1200	1316
-423		JJ201	38			0	AC	0	2	1200	1261	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vel9ygom9pcq/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vel9ygom9pcq/full/1200,/0/default.jpg	1200	1282
+423		JJ201	38			1	AI	0	2	1200	1261	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vel9ygom9pcq/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vel9ygom9pcq/full/1200,/0/default.jpg	1200	1282
 424		JJ201	39			3	AM	0	18	1199	1181	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vmnw5n38utsg/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vmnw5n38utsg/full/1200,/0/default.jpg	1200	1203
 425		JJ201	40			2	AF	3	0	1195	626	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vpo3do857rjs/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vpo3do857rjs/full/1200,/0/default.jpg	1200	1327
 426		JJ201	40			1	AI	1	623	1197	703	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vpo3do857rjs/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vpo3do857rjs/full/1200,/0/default.jpg	1200	1327
@@ -1573,7 +1573,7 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 1572		JJ205	22			2	AF	1	0	1197	546	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vpo4798nsa0y/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vpo4798nsa0y/full/1200,/0/default.jpg	1200	1215
 1573		JJ205	22			0	AC	0	545	1200	668	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vpo4798nsa0y/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vpo4798nsa0y/full/1200,/0/default.jpg	1200	1215
 1574		JJ205	23			0	AC	30	1	1204	893	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfcavrc77kqq/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfcavrc77kqq/full/,1200/0/default.jpg	1234	1200
-1575		JJ205	23			0	AC	127	896	1107	301	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfcavrc77kqq/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfcavrc77kqq/full/,1200/0/default.jpg	1234	1200
+1575		JJ205	23			1	AI	127	896	1107	301	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfcavrc77kqq/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfcavrc77kqq/full/,1200/0/default.jpg	1234	1200
 1576		JJ205	24			2	AF	1	2	1230	755	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vp32zneupmjd/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vp32zneupmjd/full/,1200/0/default.jpg	1233	1200
 1577		JJ205	24			1	AI	3	755	1139	444	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vp32zneupmjd/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vp32zneupmjd/full/,1200/0/default.jpg	1233	1200
 1578		JJ205	25			3	AM	21	0	1207	1198	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqrnyef8feor/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqrnyef8feor/full/,1200/0/default.jpg	1229	1200
@@ -3025,7 +3025,7 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 3024		JJ206	205			1	AI	0	772	1198	618	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vgfr13anhlet/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vgfr13anhlet/full/1200,/0/default.jpg	1200	1390
 3025		JJ206	206			2	AF	2	7	1198	331	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vlws9n8jm97e/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vlws9n8jm97e/full/1200,/0/default.jpg	1200	1362
 3026		JJ206	206			0	AC	0	340	1200	402	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vlws9n8jm97e/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vlws9n8jm97e/full/1200,/0/default.jpg	1200	1362
-3027		JJ206	206			0	AC	0	744	1199	612	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vlws9n8jm97e/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vlws9n8jm97e/full/1200,/0/default.jpg	1200	1362
+3027		JJ206	206			1	AI	0	744	1199	612	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vlws9n8jm97e/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vlws9n8jm97e/full/1200,/0/default.jpg	1200	1362
 3028		JJ206	207			2	AF	0	1	1199	360	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5ixy0sfvuwb/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5ixy0sfvuwb/full/1200,/0/default.jpg	1200	1406
 3029		JJ206	207			0	AC	0	361	1198	564	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5ixy0sfvuwb/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5ixy0sfvuwb/full/1200,/0/default.jpg	1200	1406
 3030		JJ206	207			1	AI	1	925	1198	480	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5ixy0sfvuwb/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5ixy0sfvuwb/full/1200,/0/default.jpg	1200	1406
@@ -3825,7 +3825,7 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 3824		JJ206	476			1	AI	4	900	1194	493	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vll461mmdjcz/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vll461mmdjcz/full/1200,/0/default.jpg	1200	1398
 3825		JJ206	477			2	AF	0	0	1200	262	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vayb7b9brjs6/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vayb7b9brjs6/full/1200,/0/default.jpg	1200	1392
 3826		JJ206	477			0	AC	3	262	1197	487	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vayb7b9brjs6/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vayb7b9brjs6/full/1200,/0/default.jpg	1200	1392
-3827		JJ206	477			1	AI	0	752	1199	637	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vayb7b9brjs6/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vayb7b9brjs6/full/1200,/0/default.jpg	1200	1392
+3827		JJ206	477			0	AC	0	752	1199	637	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vayb7b9brjs6/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vayb7b9brjs6/full/1200,/0/default.jpg	1200	1392
 3828		JJ206	478			0	AC	0	2	1198	581	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vwssgrtcj5y5/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vwssgrtcj5y5/full/1200,/0/default.jpg	1200	1388
 3829		JJ206	478			0	AC	0	581	1198	440	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vwssgrtcj5y5/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vwssgrtcj5y5/full/1200,/0/default.jpg	1200	1388
 3830		JJ206	478			1	AI	2	1021	1197	366	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vwssgrtcj5y5/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vwssgrtcj5y5/full/1200,/0/default.jpg	1200	1388
@@ -4352,7 +4352,7 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 4351		JJ207	203			0	AC	4	841	1042	353	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfh1gujxbscf/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vfh1gujxbscf/full/,1200/0/default.jpg	1225	1200
 4352		JJ207	205			0	AC	0	0	1035	1200	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v67ovfaqb16t/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v67ovfaqb16t/full/,1200/0/default.jpg	1225	1200
 4353		JJ207	206			0	AC	141	2	1133	668	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v2nnmkyexdym/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v2nnmkyexdym/full/,1200/0/default.jpg	1274	1200
-4354		JJ207	206			0	AC	119	655	1155	545	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v2nnmkyexdym/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v2nnmkyexdym/full/,1200/0/default.jpg	1274	1200
+4354		JJ207	206			1	AI	119	655	1155	545	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v2nnmkyexdym/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v2nnmkyexdym/full/,1200/0/default.jpg	1274	1200
 4355		JJ207	207			2	AF	2	1	1029	430	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqykibuu1v09/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqykibuu1v09/full/,1200/0/default.jpg	1225	1200
 4356		JJ207	207			1	AI	3	429	1035	763	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqykibuu1v09/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqykibuu1v09/full/,1200/0/default.jpg	1225	1200
 4357		JJ207	208			2	AF	107	3	1167	411	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vjwpun0vtuxg/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vjwpun0vtuxg/full/,1200/0/default.jpg	1274	1200
@@ -4847,7 +4847,7 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 4846		JJ208	153			0	AC	2	22	1075	668	https://iiif.irht.cnrs.fr/iiif/ark:/63955/verv6hr7691i/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/verv6hr7691i/full/1200,/0/default.jpg	1200	1205
 4847		JJ208	153			1	AI	0	684	1144	487	https://iiif.irht.cnrs.fr/iiif/ark:/63955/verv6hr7691i/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/verv6hr7691i/full/1200,/0/default.jpg	1200	1205
 4848		JJ208	154			2	AF	101	2	1164	543	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vc6ekmc32zof/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vc6ekmc32zof/full/,1200/0/default.jpg	1266	1200
-4849		JJ208	154			0	AC	107	544	1159	652	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vc6ekmc32zof/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vc6ekmc32zof/full/,1200/0/default.jpg	1266	1200
+4849		JJ208	154			1	AI	107	544	1159	652	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vc6ekmc32zof/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vc6ekmc32zof/full/,1200/0/default.jpg	1266	1200
 4850		JJ208	155			3	AM	1	25	1103	1167	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v15vw3t1drg5/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v15vw3t1drg5/full/1200,/0/default.jpg	1200	1205
 4851		JJ208	156			2	AF	57	3	1208	261	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vmnmevtnwb02/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vmnmevtnwb02/full/,1200/0/default.jpg	1266	1200
 4852		JJ208	156			0	AC	103	265	1162	532	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vmnmevtnwb02/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vmnmevtnwb02/full/,1200/0/default.jpg	1266	1200
@@ -4898,7 +4898,7 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 4897		JJ208	186			0	AC	89	243	1177	954	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vj56dzswv5zv/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vj56dzswv5zv/full/,1200/0/default.jpg	1266	1200
 4898		JJ208	187			1	AI	2	3	1074	1184	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vkr9zjvuwrpq/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vkr9zjvuwrpq/full/1200,/0/default.jpg	1200	1205
 4899		JJ208	188			2	AF	79	3	1187	838	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v6dikimkoa4t/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v6dikimkoa4t/full/,1200/0/default.jpg	1266	1200
-4900		JJ208	188			0	AC	95	823	1171	371	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v6dikimkoa4t/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v6dikimkoa4t/full/,1200/0/default.jpg	1266	1200
+4900		JJ208	188			1	AI	95	823	1171	371	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v6dikimkoa4t/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v6dikimkoa4t/full/,1200/0/default.jpg	1266	1200
 4901		JJ208	189			2	AF	2	3	1064	438	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vght9eoedky5/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vght9eoedky5/full/1200,/0/default.jpg	1200	1205
 4902		JJ208	189			1	AI	3	439	1063	762	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vght9eoedky5/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vght9eoedky5/full/1200,/0/default.jpg	1200	1205
 4903		JJ208	190			2	AF	105	0	1160	1196	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vtyoptlgicnv/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vtyoptlgicnv/full/,1200/0/default.jpg	1266	1200
@@ -4966,7 +4966,7 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 4965		JJ208	230			2	AF	90	1	1176	472	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vgp0p81sgz7j/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vgp0p81sgz7j/full/,1200/0/default.jpg	1266	1200
 4966		JJ208	230			1	AI	94	472	1171	688	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vgp0p81sgz7j/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vgp0p81sgz7j/full/,1200/0/default.jpg	1266	1200
 4967		JJ208	231			2	AF	12	1	1186	288	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vxfq5fn6lme6/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vxfq5fn6lme6/full/1200,/0/default.jpg	1200	1205
-4968		JJ208	231			0	AC	6	288	1162	910	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vxfq5fn6lme6/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vxfq5fn6lme6/full/1200,/0/default.jpg	1200	1205
+4968		JJ208	231			1	AI	6	288	1162	910	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vxfq5fn6lme6/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vxfq5fn6lme6/full/1200,/0/default.jpg	1200	1205
 4969		JJ208	232			2	AF	97	0	1169	687	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vz9lm9dk6p0v/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vz9lm9dk6p0v/full/,1200/0/default.jpg	1266	1200
 4970		JJ208	232			1	AI	65	687	1198	466	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vz9lm9dk6p0v/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vz9lm9dk6p0v/full/,1200/0/default.jpg	1266	1200
 4971		JJ208	233			2	AF	6	0	1194	246	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vpq3rijrq2o6/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vpq3rijrq2o6/full/1200,/0/default.jpg	1200	1253
@@ -5011,7 +5011,7 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 5010		JJ208	258			1	AI	96	0	1190	1199	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vtuzsn1jwmnj/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vtuzsn1jwmnj/full/,1200/0/default.jpg	1286	1200
 5011		JJ208	259			2	AF	10	0	1189	243	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vujw47ge7kjv/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vujw47ge7kjv/full/1200,/0/default.jpg	1200	1233
 5012		JJ208	259			0	AC	0	243	1200	572	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vujw47ge7kjv/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vujw47ge7kjv/full/1200,/0/default.jpg	1200	1233
-5013		JJ208	259			0	AC	5	814	1195	400	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vujw47ge7kjv/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vujw47ge7kjv/full/1200,/0/default.jpg	1200	1233
+5013		JJ208	259			1	AI	5	814	1195	400	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vujw47ge7kjv/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vujw47ge7kjv/full/1200,/0/default.jpg	1200	1233
 5014		JJ208	260			2	AF	85	1	1200	465	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vq80yk3ofji9/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vq80yk3ofji9/full/,1200/0/default.jpg	1286	1200
 5015		JJ208	260			0	AC	130	466	1155	733	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vq80yk3ofji9/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vq80yk3ofji9/full/,1200/0/default.jpg	1286	1200
 5016		JJ208	261			1	AI	5	24	1195	1205	https://iiif.irht.cnrs.fr/iiif/ark:/63955/viaxktu6gd00/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/viaxktu6gd00/full/1200,/0/default.jpg	1200	1233
@@ -5326,7 +5326,7 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 5325		JJ209	160			2	AF	46	0	1216	303	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vuxnz9z0bqgx/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vuxnz9z0bqgx/full/,1200/0/default.jpg	1262	1201
 5326		JJ209	160			0	AC	97	300	1165	887	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vuxnz9z0bqgx/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vuxnz9z0bqgx/full/,1200/0/default.jpg	1262	1201
 5327		JJ209	161			0	AC	18	0	1112	550	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vahyuwru6tpn/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vahyuwru6tpn/full/,1200/0/default.jpg	1257	1200
-5328		JJ209	161			0	AC	13	551	1114	647	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vahyuwru6tpn/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vahyuwru6tpn/full/,1200/0/default.jpg	1257	1200
+5328		JJ209	161			1	AI	13	551	1114	647	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vahyuwru6tpn/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vahyuwru6tpn/full/,1200/0/default.jpg	1257	1200
 5329		JJ209	162			2	AF	68	2	1190	186	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5r77z5sbyn9/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5r77z5sbyn9/full/,1200/0/default.jpg	1262	1201
 5330		JJ209	162			0	AC	80	188	1182	80	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5r77z5sbyn9/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5r77z5sbyn9/full/,1200/0/default.jpg	1262	1201
 5331		JJ209	162			0	AC	85	264	1177	80	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5r77z5sbyn9/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v5r77z5sbyn9/full/,1200/0/default.jpg	1262	1201
@@ -5363,19 +5363,19 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 5362		JJ209	179			1	AI	21	2	1094	1189	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vh5rdf3j04a6/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vh5rdf3j04a6/full/,1200/0/default.jpg	1257	1200
 5363		JJ209	180			2	AF	37	0	1224	218	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vi5avht99ce8/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vi5avht99ce8/full/,1200/0/default.jpg	1262	1201
 5364		JJ209	180			0	AC	94	219	1168	973	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vi5avht99ce8/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vi5avht99ce8/full/,1200/0/default.jpg	1262	1201
-5365		JJ209	181			0	AC	23	2	1103	1191	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v25ue2c0wci2/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v25ue2c0wci2/full/,1200/0/default.jpg	1257	1200
+5365		JJ209	181			1	AI	23	2	1103	1191	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v25ue2c0wci2/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v25ue2c0wci2/full/,1200/0/default.jpg	1257	1200
 5366		JJ209	182			2	AF	72	1	1190	311	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v3wi6fiapptu/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v3wi6fiapptu/full/,1200/0/default.jpg	1262	1201
 5367		JJ209	182			1	AI	98	311	1164	889	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v3wi6fiapptu/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v3wi6fiapptu/full/,1200/0/default.jpg	1262	1201
 5368		JJ209	183			2	AF	36	0	1072	540	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v0pctyl6du8i/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v0pctyl6du8i/full/,1200/0/default.jpg	1257	1200
 5369		JJ209	183			0	AC	32	540	1101	659	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v0pctyl6du8i/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v0pctyl6du8i/full/,1200/0/default.jpg	1257	1200
-5370		JJ209	184			0	AC	81	0	1181	667	https://iiif.irht.cnrs.fr/iiif/ark:/63955/voml1nid5lg2/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/voml1nid5lg2/full/,1200/0/default.jpg	1262	1201
-5371		JJ209	184			0	AC	150	661	1111	540	https://iiif.irht.cnrs.fr/iiif/ark:/63955/voml1nid5lg2/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/voml1nid5lg2/full/,1200/0/default.jpg	1262	1201
+5370		JJ209	184			0	AC	81	0	1181	666	https://iiif.irht.cnrs.fr/iiif/ark:/63955/voml1nid5lg2/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/voml1nid5lg2/full/,1200/0/default.jpg	1262	1200
+5371		JJ209	184			1	AI	150	660	1111	539	https://iiif.irht.cnrs.fr/iiif/ark:/63955/voml1nid5lg2/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/voml1nid5lg2/full/,1200/0/default.jpg	1262	1200
 5372		JJ209	185			2	AF	16	0	1116	714	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v4mhmx6cr1cg/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v4mhmx6cr1cg/full/,1200/0/default.jpg	1257	1200
 5373		JJ209	185			1	AI	3	713	1138	486	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v4mhmx6cr1cg/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v4mhmx6cr1cg/full/,1200/0/default.jpg	1257	1200
 5374		JJ209	186			2	AF	93	0	1169	1193	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vd6fzdsulbi8/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vd6fzdsulbi8/full/,1200/0/default.jpg	1262	1201
 5375		JJ209	187			1	AI	24	3	1106	1190	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vwkvex10d340/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vwkvex10d340/full/,1200/0/default.jpg	1257	1200
 5376		JJ209	188			2	AF	90	0	1172	1191	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vlrxs3otg57n/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vlrxs3otg57n/full/,1200/0/default.jpg	1262	1201
-5377		JJ209	189			0	AC	28	0	1099	1185	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vk70c1lnkuk4/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vk70c1lnkuk4/full/,1200/0/default.jpg	1257	1200
+5377		JJ209	189			1	AI	28	0	1099	1185	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vk70c1lnkuk4/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vk70c1lnkuk4/full/,1200/0/default.jpg	1257	1200
 5378		JJ209	190			2	AF	77	0	1185	388	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqz1rzfv3fhu/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqz1rzfv3fhu/full/,1200/0/default.jpg	1262	1201
 5379		JJ209	190			0	AC	101	386	1161	387	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqz1rzfv3fhu/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqz1rzfv3fhu/full/,1200/0/default.jpg	1262	1201
 5380		JJ209	190			1	AI	54	770	1208	429	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqz1rzfv3fhu/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vqz1rzfv3fhu/full/,1200/0/default.jpg	1262	1201
@@ -5617,7 +5617,7 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 5616		JJ209	342			0	AC	53	0	1226	1195	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vd93jg9qrnw4/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vd93jg9qrnw4/full/,1200/0/default.jpg	1279	1200
 5617		JJ209	343			1	AI	37	0	1059	1198	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v0eirf6eic9e/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v0eirf6eic9e/full/,1200/0/default.jpg	1202	1200
 5618		JJ209	344			2	AF	38	0	1240	1197	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v6g881mdeqrn/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v6g881mdeqrn/full/,1200/0/default.jpg	1279	1200
-5619		JJ209	345			0	AC	35	4	1057	1174	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vub331vryzrc/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vub331vryzrc/full/,1200/0/default.jpg	1202	1200
+5619		JJ209	345			1	AI	35	4	1057	1174	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vub331vryzrc/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vub331vryzrc/full/,1200/0/default.jpg	1202	1200
 5620		JJ209	346			2	AF	38	3	1241	279	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhjsnya07o7o/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhjsnya07o7o/full/,1200/0/default.jpg	1279	1200
 5621		JJ209	346			1	AI	86	280	1193	919	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhjsnya07o7o/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhjsnya07o7o/full/,1200/0/default.jpg	1279	1200
 5622		JJ209	347			2	AF	33	55	1075	524	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vxfqkt4bkr5v/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vxfqkt4bkr5v/full/,1200/0/default.jpg	1202	1200
@@ -6260,7 +6260,7 @@ zone_id	image_id	volume	folio_sort_key	folio_label	folio_norm	class_id	class_nam
 6259		JJ211	33			1	AI	48	892	1150	297	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v3odpv8fc3el/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/v3odpv8fc3el/full/1200,/0/default.jpg	1200	1214
 6260		JJ211	34			2	AF	1	1	1078	360	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhczo51zwhpn/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhczo51zwhpn/full/,1200/0/default.jpg	1211	1200
 6261		JJ211	34			0	AC	1	361	1090	592	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhczo51zwhpn/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhczo51zwhpn/full/,1200/0/default.jpg	1211	1200
-6262		JJ211	34			1	AI	1	953	1080	234	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhczo51zwhpn/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhczo51zwhpn/full/,1200/0/default.jpg	1211	1200
+6262		JJ211	34			0	AC	1	953	1080	234	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhczo51zwhpn/full/,1200/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vhczo51zwhpn/full/,1200/0/default.jpg	1211	1200
 6263		JJ211	35			0	AC	142	21	1056	538	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vspn0u2ppise/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vspn0u2ppise/full/1200,/0/default.jpg	1200	1214
 6264		JJ211	35			0	AC	157	558	1042	411	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vspn0u2ppise/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vspn0u2ppise/full/1200,/0/default.jpg	1200	1214
 6265		JJ211	35			1	AI	76	970	1120	220	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vspn0u2ppise/full/1200,/0/default.jpg	https://iiif.irht.cnrs.fr/iiif/ark:/63955/vspn0u2ppise/full/1200,/0/default.jpg	1200	1214
