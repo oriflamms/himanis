@@ -790,7 +790,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 3367.0	JJ100	776		230v	230v	1																										776	776				
 3368.0	JJ100	777		231v	231v	1																				777.0	303.0	231v				777	777				
 3369.0	JJ100	778		231v	231v	1																										778	778				
-3370.0	JJ100	779		231v	231v	1																										779	779				
+3370.0	JJ100	779		232	232r	1																										779	779				
 3371.0	JJ100	780		232	232r	1																										780	780				
 3372.0	JJ100	781		232	232r	1																										781	781				
 3373.0	JJ100	782		232	232r	1																										782	782				
@@ -2056,8 +2056,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 4639.0	JJ104	204		87v	87v	1																										204	204				
 4640.0	JJ104	205		88	88r	1																										205	205				
 4641.0	JJ104	206		88	88r	1																										206	206				
-4642.0	JJ104	207		88	88r	1																										207	207				
-4643.0	JJ104	208		88v	88v	1																										208	208				
+4642.0	JJ104	207		88v	88v	1																										207	207				
+4643.0	JJ104	208		89	89r	1																										208	208				
 4644.0	JJ104	209		89	89r	1																										209	209				
 4645.0	JJ104	210		89v	89v	1																										210	210				
 4646.0	JJ104	211		90v	90v	1																										211	211				
@@ -2287,7 +2287,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 4872.0	JJ105	40		31	31r	1																										40	40				
 4873.0	JJ105	41		32	32r	1																															
 4874.0	JJ105	42		32	32r	1		42	DLXVI	fol32																						42	42				
-4875.0	JJ105	43		32v	32v	1																										43	43				
+4875.0	JJ105	43		32	32r	1																										43	43				
 4876.0	JJ105	44		32v	32v	0														44	2289	32v										44	44				
 4877.0	JJ105	44bis		33v	33v																		44bis	579	33v							44bis	44bis				
 4878.0	JJ105	45		33v	33v	1																										45	45				
@@ -4510,13 +4510,13 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 7133.0	JJ110	9		9v	9v	1																										9	9				
 7134.0	JJ110	10		10	10r	1																										10	10				
 7135.0	JJ110	11		10	10r	1																	11	719	10							11	11				
-7136.0	JJ110	12		11	11r	1																										12	12				
+7136.0	JJ110	12		10v	10v	1																										12	12				
 7137.0	JJ110	13		12	12r	1																										13	13				
 7138.0	JJ110	14		12v	12v	1																										14	14				
 7139.0	JJ110	15		13	13r	1																										15	15				
 7140.0	JJ110	16		13	13r	0																	16	720	13							16	16				
-7141.0	JJ110	16bis		13	13r																											16bis	16bis				
-7142.0	JJ110	17		13v	13v	1																										17	17				
+7141.0	JJ110	16bis		14	14r																											16bis	16bis				
+7142.0	JJ110	17		14v	14v	1																										17	17				
 7143.0	JJ110	18		15	15r	1																										18	18				
 7144.0	JJ110	19		15	15r	1																										19	19				
 7145.0	JJ110	20		15v	15v	1																										20	20				
@@ -4580,7 +4580,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 7203.0	JJ110	78		46v	46v	1																										78	78				
 7204.0	JJ110	79		46v	46v	1																										79	79				
 7205.0	JJ110	80		47v	47v	1														80	2371	47v										80	80				
-7206.0	JJ110	81		47	47r	1																	81	729	47							81	81				
+7206.0	JJ110	81		47v	47v	1																	81	729	47							81	81				
 7207.0	JJ110	82		48	48r	1		82	DCI	folÂ 48																						82	82				
 7208.0	JJ110	83		48v	48v	1																										83	83				
 7209.0	JJ110	84		49v	49v	1																	84	730	49v							84	84				
@@ -4616,7 +4616,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 7239.0	JJ110	114		66	66r	1																										114	114				
 7240.0	JJ110	115		66v	66v	1		115	CCCCXLV|DCV	fol66v																						115	115				
 7244.0	JJ110	116		68	68r	1																										116	116				
-7245.0	JJ110	117		38v	38v	1																										117	117				
+7245.0	JJ110	117		68v	68v	1																										117	117				
 7246.0	JJ110	118		69	69r	1																															
 7247.0	JJ110	119		69	69r	1																															
 7248.0	JJ110	120		70	70r	1																										120	120				
@@ -5285,8 +5285,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 7910.0	JJ112	29		24	24r	1		29	DCXVII	folÂ 24																						29	29				
 7911.0	JJ112	30		24v	24v	1																										30	30				
 7912.0	JJ112	31		24v	24v	1																										31	31				
-7913.0	JJ112	32		25	25r	1																										32	32				
-7914.0	JJ112	33		25v	25v	1																										33	33				
+7913.0	JJ112	32		26	26r	1																										32	32				
+7914.0	JJ112	33		26v	26v	1																										33	33				
 7915.0	JJ112	34		27	27r	1																										34	34				
 7916.0	JJ112	35		27	27r	1																										35	35				
 7917.0	JJ112	36		27v	27v	1																										36	36				
@@ -5311,7 +5311,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 7936.0	JJ112	55		35v	35v	1																										55	55				
 7937.0	JJ112	56		36	36r	1																										56	56				
 7938.0	JJ112	57		36v	36v	1																										57	57				
-7939.0	JJ112	58		36	36r	1																										58	58				
+7939.0	JJ112	58		36v	36v	1																										58	58				
 7940.0	JJ112	59		37	37r	1																	59	780	37							59	59				
 7941.0	JJ112	60		37v	37v	1																										60	60				
 7942.0	JJ112	61		38	38r	1																										61	61				
@@ -6088,8 +6088,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 8721.0	JJ114	70		30	30r	1																										70	70				
 8722.0	JJ114	71		30v	30v	1																										71	71				
 8723.0	JJ114	72		30v	30v	1																										72	72				
-8724.0	JJ114	73		31	31r	0																										73	73				
-8724.1	JJ114	73bis		31	31r																																
+8724.0	JJ114	73		31	31r	1																										73	73				
 8725.0	JJ114	74		31v	31v	1																										74	74				
 8726.0	JJ114	75		31v	31v	1																										75	75				
 8727.0	JJ114	76		32	32r	1																	76	837	32							76	76				
