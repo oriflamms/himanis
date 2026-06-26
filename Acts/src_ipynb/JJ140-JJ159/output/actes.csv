@@ -3828,7 +3828,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 20770.0	JJ150	4		2	2r	1																										4	4				
 20771.0	JJ150	5		2v	2v	1																										5	5				
 20772.0	JJ150	6		3	3r	1																										6	6				
-20773.0	JJ150	7		3v	3v	1																										7	7				
+20773.0	JJ150	7		3v	3v	0																										7	7				
+20773.1	JJ150	7bis		4	4r																																
 20774.0	JJ150	8		4	4r	1																										8	8				
 20775.0	JJ150	9		4v	4v	1																										9	9				
 20776.0	JJ150	10		6	6r	1																										10	10				
@@ -5502,7 +5503,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 22432.1	JJ153	522bis		346v	346v		Cancellé																														
 22433.0	JJ153	523		347	347r	1																										523	523				
 22434.0	JJ153	524		347	347r	1																										524	524				
-22435.0	JJ153	525		347v	347v	1																										525	525				
+22435.0	JJ153	525		347v	347v	0																										525	525				
+22435.1	JJ153	525bis		348	348r																																
 22436.0	JJ153	526		348	348r	1																										526	526				
 22437.0	JJ153	527		348	348r	1																										527	527				
 22438.0	JJ153	528		349	349r	1																										528	528				
@@ -5720,7 +5722,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 22657.0	JJ154	171		101	101r	1																										171	171				
 22658.0	JJ154	172		101v	101v	1																										172	172				
 22659.0	JJ154	173		102	102r	1																										173	173				
-22660.0	JJ154	174		102v	102v	1																										174	174				
+22660.0	JJ154	174		102v	102v	0																										174	174				
+22660.1	JJ154	174bis		103	103r																																
 22661.0	JJ154	175		103	103r	1																										175	175				
 22662.0	JJ154	176		104	104r	1																	176	1794	104							176	176				
 22663.0	JJ154	177		104v	104v	1																										177	177				
@@ -6001,7 +6004,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 22946.0	JJ154	458		264	264r	1																										458	458				
 22947.0	JJ154	459		264v	264v	1											459	1032	264v													459	459				
 22948.0	JJ154	460		264v	264v	1																										460	460				
-22949.0	JJ154	461		265	265r	1																	461	1821	265							461	461				
+22949.0	JJ154	461		265	265r	0																	461	1821	265							461	461				
+22949.1	JJ154	461bis		266	266r																																
 22950.0	JJ154	462		266	266r	1																										462	462				
 22951.0	JJ154	463		266v	266v	1																										463	463				
 22952.0	JJ154	464		267	267r	1																										464	464				
@@ -6287,7 +6291,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 23226.0	JJ154	736		420	420r	1														736	3207	420										736	736				
 23227.0	JJ154	737		420v	420v	1														737	3208	420v										737	737				
 23228.0	JJ154	738		421v	421v	1																										738	738				
-23229.0	JJ154	739		422	422r	1														739	3209	422										739	739				
+23229.0	JJ154	739		422	422r	0														739	3209	422										739	739				
+23229.1	JJ154	739bis		422v	422v																																
 23230.0	JJ154	740		422v	422v	1																										740	740				
 23231.0	JJ154	741		423	423r	1																										741	741				
 23232.0	JJ154	742		423v	423v	1																										742	742				
@@ -6529,7 +6534,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 23474.0	JJ155	213		131v	131v	1																										213	213				
 23475.0	JJ155	214		132	132r	1																										214	214				
 23476.0	JJ155	215		132v	132v	1														215	3235	132v										215	215				
-23477.0	JJ155	216		133	133r	1																										216	216				
+23477.0	JJ155	216		133	133r	0																										216	216				
+23477.1	JJ155	216bis		133v	133v																																
 23478.0	JJ155	217		133v	133v	1																										217	217				
 23479.0	JJ155	218		134	134r	1																										218	218				
 23480.0	JJ155	219		134v	134v	1														219	3236	134v										219	219				
@@ -6667,7 +6673,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 23611.0	JJ155	349		210v	210v	1																										349	349				
 23612.0	JJ155	350		211	211r	1																										350	350				
 23613.0	JJ155	351		211	211r	1																										351	351				
-23614.0	JJ155	352		211v	211v	1																										352	352				
+23614.0	JJ155	352		211v	211v	0																										352	352				
+23614.1	JJ155	352bis		211v	211v																																
 23615.0	JJ155	353		212	212r	1																										353	353				
 23616.0	JJ155	354		212v	212v	1																										354	354				
 23617.0	JJ155	355		213	213r	1																										355	355				
@@ -7889,6 +7896,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 24832.0	JJ158	105		59v	59v																		105	2004	59v										105		Paris_AN_JJ_inventaire_IR423-JJ156-211.xml
 24833.0	JJ158	106		60	60r																		106	2005	60										106		Paris_AN_JJ_inventaire_IR423-JJ156-211.xml
 24834.0	JJ158	107		60	60r																														107		Paris_AN_JJ_inventaire_IR423-JJ156-211.xml
+24834.1	JJ158	107bis		60v	60v																																
 24835.0	JJ158	108		60v	60v															108	3292	60v													108		Paris_AN_JJ_inventaire_IR423-JJ156-211.xml
 24836.0	JJ158	109		61	61r																														109		Paris_AN_JJ_inventaire_IR423-JJ156-211.xml
 24837.0	JJ158	110		61v	61v																														110		Paris_AN_JJ_inventaire_IR423-JJ156-211.xml
@@ -8082,6 +8090,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 25036.0	JJ158	309	289	168	168r																														309		Paris_AN_JJ_inventaire_IR423-JJ156-211.xml
 25036.1	JJ158	309bis		168v	168v	Cancellé																															
 25037.0	JJ158	310	290	169	169r																														310		Paris_AN_JJ_inventaire_IR423-JJ156-211.xml
+25037.1	JJ158	310bis		169v	169v	cancellé																															
 25038.0	JJ158	311	291	169v	169v																		311	2026	169v										311		Paris_AN_JJ_inventaire_IR423-JJ156-211.xml
 25039.0	JJ158	312		170	170r																		312	2027	170										312		Paris_AN_JJ_inventaire_IR423-JJ156-211.xml
 25039.1	JJ158	312bis		170	170r																																
@@ -8262,7 +8271,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 25210.0	JJ159	6		2v	2v	1																													6	6	
 25211.0	JJ159	7		3	3r	1																													7	7	
 25212.0	JJ159	8		3v	3v	1																													8	8	
-25213.0	JJ159	9		4	4r	1																													9	9	
+25213.0	JJ159	9		4	4r	0																													9	9	
+25213.1	JJ159	9bis		4v	4v																																
 25214.0	JJ159	10		5	5r	1																													10	10	
 25215.0	JJ159	11		5v	5v	1																													11	11	
 25216.0	JJ159	12		6	6r	1																													12	12	
