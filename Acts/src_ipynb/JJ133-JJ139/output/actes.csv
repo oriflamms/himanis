@@ -96,8 +96,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 15240.0	JJ133	95		51v	51v	1														95	2702	51v										95	95				
 15241.0	JJ133	96		52v	52v	1																										96	96				
 15242.0	JJ133	97		53	53r	1																										97	97				
-15243.0	JJ133	98		53v	53v	0																										98	98				
-15243.1	JJ133	98bis		56	56r																																
+15243.0	JJ133	98		53v	53v	1																										98	98				
 15244.0	JJ133	99		58v	58v	1														99	2703	58v										99	99				
 15245.0	JJ133	100		58v	58v	0																										100	100				
 15245.1	JJ133	100bis		58v	58v																																
@@ -1535,7 +1534,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 16720.0	JJ139	150		172	172r	1																										150	150				
 16721.0	JJ139	151		173	173r	1																										151	151				
 16722.0	JJ139	152		174	174r	1																										152	152				
-16723.0	JJ139	153		176'	176'	1																										153	153				
+16723.0	JJ139	153		176	176r	1																										153	153				
 16724.0	JJ139	154		177	177r	1																										154	154				
 16725.0	JJ139	155		178	178r	1																										155	155				
 16726.0	JJ139	156		179	179r	1																										156	156				
