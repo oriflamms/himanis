@@ -5698,7 +5698,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 8293.0	JJ113	27		17	17r	1																										27	27				
 8294.0	JJ113	28		17v	17v	1																										28	28				
 8295.0	JJ113	29		18	18r	1																										29	29				
-8296.0	JJ113	30		18	18r	1																										30	30				
+8296.0	JJ113	30		18	18r	0																										30	30				
+8296.1	JJ113	30bis		19	19r																																
 8297.0	JJ113	31		19	19r	1																										31	31				
 8298.0	JJ113	32		19	19r	0																										32	32				
 8298.1	JJ113	32bis		19v	19v																																
@@ -5798,7 +5799,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 8390.0	JJ113	123		55v	55v	1																										123	123				
 8391.0	JJ113	124		55v	55v	1																										124	124				
 8392.0	JJ113	125		56v	56v	1																										125	125				
-8393.0	JJ113	126		57v	57v	1																										126	126				
+8393.0	JJ113	126		57v	57v	0																										126	126				
+8393.1	JJ113	126bis		60	60r																																
 8394.0	JJ113	127		60	60r	1																										127	127				
 8395.0	JJ113	128		60v	60v	1																										128	128				
 8396.0	JJ113	129		60v	60v	1																										129	129				
