@@ -2291,9 +2291,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 4869.0	JJ105	37		28	28r	1																										37	37				
 4870.0	JJ105	38		28v	28v	1																										38	38				
 4871.0	JJ105	39		29	29r	1																										39	39				
-4872.0	JJ105	40		31	31r	1																										40	40				
-4873.0	JJ105	41		32	32r	1																															
-4874.0	JJ105	42		32	32r	1		42	DLXVI	fol32																						42	42				
+4872.0	JJ105	40		31	31r	0																										40	40				
+4874.0	JJ105	42		32	32r	1	numéro 41 omis dans la numérotation	42	DLXVI	fol32																						42	42				
 4875.0	JJ105	43		32	32r	1																										43	43				
 4876.0	JJ105	44		32v	32v	0														44	2289	32v										44	44				
 4877.0	JJ105	44bis		33v	33v																		44bis	579	33v							44bis	44bis				
@@ -5867,7 +5866,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 8456.0	JJ113	188		86	86r	1																										188	188				
 8457.0	JJ113	189		88v	88v	1																	189	822	88v							189	189				
 8458.0	JJ113	190		89	89r	1																										190	190				
-8459.0	JJ113	191		89v	89v	1																	191	823	89v							191	191				
+8459.0	JJ113	191		89v	89v	0																	191	823	89v							191	191				
+8459.1	JJ113	191bis		90	90r																																
 8460.0	JJ113	192		90	90r	1																										192	192				
 8461.0	JJ113	193		90v	90v	1																										193	193				
 8462.0	JJ113	194		91	91r	1																										194	194				
@@ -6122,9 +6122,9 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 8719.0	JJ114	68		29	29r	1																										68	68				
 8720.0	JJ114	69		29v	29v	1																										69	69				
 8721.0	JJ114	70		30	30r	1																										70	70				
-8722.0	JJ114	71		30v	30v	1																										71	71				
-8723.0	JJ114	72		30v	30v	1																										72	72				
-8724.0	JJ114	73		31	31r	1																										73	73				
+8722.0	JJ114	71		30v	30v	0																										71	71				
+8723.0	JJ114	72-73		30v	30v																											72	72				
+8724.0	JJ114	73bis		31	31r																											73	73				
 8725.0	JJ114	74		31v	31v	1																										74	74				
 8726.0	JJ114	75		31v	31v	1																										75	75				
 8727.0	JJ114	76		32	32r	1																	76	837	32							76	76				
