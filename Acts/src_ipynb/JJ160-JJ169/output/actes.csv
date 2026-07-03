@@ -94,7 +94,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 25662.1	JJ160	90bis		70	70r		Cancellé ?																														
 25662.2	JJ160	90ter		70	70r		Cancellé ? Quasiment effacé																														
 25663.0	JJ160	91		70v	70v	1		91	DCCCCXI	folÂ 70Â vÂ°																									91	91	
-25664.0	JJ160	92		71	71r	1																													92	92	
+25664.0	JJ160	92		71	71r	0																													92	92	
+25664.1	JJ160	92bis		72v	72v																																
 25665.0	JJ160	93		72v	72v	1																													93	93	
 25666.0	JJ160	94		73v	73v	1																													94	94	
 25667.0	JJ160	95		74	74r	1																													95	95	
