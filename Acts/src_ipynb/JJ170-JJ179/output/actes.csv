@@ -87,13 +87,13 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 30212.0	JJ170	86				1.0																													86	86	
 30213.0	JJ170	87				1.0																													87	87	
 30214.0	JJ170	88		109	109r	1.0																	88	2486	109										88	88	
-30215.0	JJ170	89		117|110	117|110	1.0														89	3607	117	89	2487	110										89	89	
+30215.0	JJ170	89		110	110r	1.0														89	3607	117	89	2487	110										89	89	
 30216.0	JJ170	90				1.0																													90	90	
 30217.0	JJ170	91		111	111r	1.0																	91	2488	111										91	91	
 30218.0	JJ170	92				1.0																													92	92	
 30219.0	JJ170	93				1.0																													93	93	
 30220.0	JJ170	94				1.0																													94	94	
-30221.0	JJ170	95		114	114r	1.0																	95	2489	114										95	95	
+30221.0	JJ170	95		114v	114v	1.0																	95	2489	114										95	95	
 30222.0	JJ170	96		115	115r	1.0																	96	2490	115										96	96	
 30223.0	JJ170	97				1.0																													97	97	
 30224.0	JJ170	98				1.0																													98	98	
@@ -127,7 +127,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 30252.0	JJ170	125				1.0																													125	125	
 30253.0	JJ170	126				1.0																													126	126	
 30254.0	JJ170	127				1.0																													127	127	
-30255.0	JJ170	128		136	136r	1.0																	128	2493	136										128	128	
+30255.0	JJ170	128		136v	136v	1.0																	128	2493	136										128	128	
 30256.0	JJ170	129				1.0																													129	129	
 30257.0	JJ170	130				1.0																													130	130	
 30258.0	JJ170	131				1.0																													131	131	
@@ -144,7 +144,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 30269.0	JJ170	142				1.0																													142	142	
 30270.0	JJ170	143				1.0																													143	143	
 30271.0	JJ170	144				1.0																													144	144	
-30272.0	JJ170	145				1.0																													145	145	
+30272.0	JJ170	145				0.0																													145	145	
+30272.1	JJ170	145bis																																			
 30273.0	JJ170	146				1.0																													146	146	
 30274.0	JJ170	147				1.0																													147	147	
 30275.0	JJ170	148		151v	151v	1.0																	148	2496	151v										148	148	
@@ -231,7 +232,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 30356.0	JJ170	229				1.0																													229	229	
 30357.0	JJ170	230		200v	200v	1.0														230	3611	200v													230	230	
 30358.0	JJ170	231				1.0																													231	231	
-30359.0	JJ170	232		201	201r	1.0														232	3612	201													232	232	
+30359.0	JJ170	232		202	202r	1.0														232	3612	201													232	232	
 30360.0	JJ170	233		202v	202v	1.0														233	3613	202v													233	233	
 30361.0	JJ170	234				1.0																													234	234	
 30362.0	JJ170	235		203v	203v	1.0														235	3614	203v													235	235	
@@ -950,8 +951,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 31072.0	JJ172	95				1.0					95	XXIII																							95	95	
 31073.0	JJ172	96				1.0																													96	96	
 31074.0	JJ172	97				1.0																													97	97	
-31075.0	JJ172	98				1.0																													98	98	
-31076.0	JJ172	99				1.0																													99	99	
+31075.0	JJ172	98				0.0	Numéro 99 attribué par erreur à un milieu de charte, barré par la suite																												98	98	
 31077.0	JJ172	100				1.0																													100	100	
 31078.0	JJ172	101				1.0																													101	101	
 31079.0	JJ172	102				1.0																													102	102	
@@ -1329,7 +1329,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 31451.0	JJ172	473				1.0																													473	473	
 31452.0	JJ172	474				1.0																													474	474	
 31453.0	JJ172	475				1.0																													475	475	
-31454.0	JJ172	476				1.0																													476	476	
+31454.0	JJ172	476				1.0																															
 31455.0	JJ172	477				1.0																													477	477	
 31456.0	JJ172	478		268	268r	1.0																	478	2540	268										478	478	
 31457.0	JJ172	479				1.0																													479	479	
@@ -1428,8 +1428,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 31550.0	JJ172	572				1.0																													572	572	
 31551.0	JJ172	573				1.0																													573	573	
 31552.0	JJ172	574				1.0																													574	574	
-31553.0	JJ172	575				1.0																													575	575	
-31554.0	JJ172	576				1.0																															
+31553.0	JJ172	575				0.0	Numéro 576 omis dans la numérotation, qui passe de 575 à 577 sans aucune lacune matérielle ou textuelle (à priori, mais un feuillet a pu disparaitre)																												575	575	
 31555.0	JJ172	577				1.0																													577	577	
 31556.0	JJ172	578				1.0																													578	578	
 31557.0	JJ172	579				1.0																													579	579	
@@ -1440,8 +1439,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 31562.0	JJ172	584				1.0																													584	584	
 31563.0	JJ172	585				1.0																													585	585	
 31564.0	JJ172	586				1.0																													586	586	
-31565.0	JJ172	587				1.0																													587	587	
-31566.0	JJ172	588				1.0																															
+31565.0	JJ172	587				0.0	Numéro 588 omis dans la numérotation, qui passe de 587 à 589 sans aucune lacune matérielle ou textuelle 																												587	587	
 31567.0	JJ172	589				1.0																													589	589	
 31568.0	JJ172	590				1.0																													590	590	
 31569.0	JJ172	591				1.0																													591	591	
@@ -1478,8 +1476,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 31600.0	JJ172	622				1.0																													622	622	
 31601.0	JJ172	623				1.0																													623	623	
 31602.0	JJ172	624				1.0																													624	624	
-31603.0	JJ172	625				1.0																													625	625	
-31604.0	JJ172	626				1.0																															
+31603.0	JJ172	625				0.0	Numéro 626 omis dans la numérotation, qui passe de 625 à 627 sans aucune lacune matérielle ou textuelle (à priori, mais un feuillet a pu disparaitre)																												625	625	
 31605.0	JJ172	627				1.0																													627	627	
 31606.0	JJ172	628				1.0					628	LIX																							628	628	
 31607.0	JJ172	629				1.0																													629	629	
