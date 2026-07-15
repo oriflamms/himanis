@@ -5693,6 +5693,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 40669.0	JJ196	51																																			
 40670.0	JJ196	52																																			
 40671.0	JJ196	53																																			
+40671.1	JJ196	53bis					cancellée et non numérotée																														
 40672.0	JJ196	54																																			
 40673.0	JJ196	55																																			
 40674.0	JJ196	56																																			
@@ -5721,6 +5722,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 40697.0	JJ196	79																																			
 40698.0	JJ196	80																																			
 40699.0	JJ196	81																																			
+40699.1	JJ196	81bis																																			
 40700.0	JJ196	82																																			
 40701.0	JJ196	83																																			
 40702.0	JJ196	84																																			
@@ -5799,10 +5801,12 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 40775.0	JJ196	157																																			
 40776.0	JJ196	158																																			
 40777.0	JJ196	159																																			
+40777.1	JJ196	159bis					cancellée et non numérotée																														
 40778.0	JJ196	160																																			
 40779.0	JJ196	161																																			
 40780.0	JJ196	162																																			
 40781.0	JJ196	163																																			
+40781.1	JJ196	163bis																																			
 40782.0	JJ196	164																																			
 40783.0	JJ196	165																																			
 40784.0	JJ196	166																																			
@@ -5857,11 +5861,13 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 40833.0	JJ196	215																																			
 40834.0	JJ196	216																																			
 40835.0	JJ196	217																																			
+40835.1	JJ196	217bis					cancellée et non numérotée																														
 40836.0	JJ196	218																																			
 40837.0	JJ196	219																																			
 40838.0	JJ196	220																																			
 40839.0	JJ196	221																																			
 40840.0	JJ196	222																																			
+40840.1	JJ196	222bis																																			
 40841.0	JJ196	223																																			
 40842.0	JJ196	224																																			
 40843.0	JJ196	225																																			
@@ -5881,6 +5887,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 40857.0	JJ196	239																																			
 40858.0	JJ196	240																																			
 40859.0	JJ196	241																																			
+40859.1	JJ196	241bis					cancellée et non numérotée																														
 40860.0	JJ196	242																																			
 40861.0	JJ196	243																																			
 40862.0	JJ196	244																																			
@@ -5957,6 +5964,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 40933.0	JJ196	315																																			
 40934.0	JJ196	316																																			
 40935.0	JJ196	317																																			
+40935.1	JJ196	317bis					cancellée et non numérotée																														
 40936.0	JJ196	318																																			
 40937.0	JJ196	319																																			
 40938.0	JJ196	320																																			
@@ -5985,6 +5993,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 40961.0	JJ196	343																																			
 40962.0	JJ196	344																																			
 40963.0	JJ196	345																																			
+40963.1	JJ196	345bis																																			
 40964.0	JJ196	346																																			
 40965.0	JJ196	347																																			
 40966.0	JJ196	348																																			
@@ -5995,8 +6004,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 40971.0	JJ196	353																																			
 40972.0	JJ196	354																																			
 40973.0	JJ196	355																																			
-40974.0	JJ196	356																																			
-40975.0	JJ196	357																																			
+40974.0	JJ196	356					Numéro 357 omis dans la numérotation, qui passe de 356 à 358 sans aucune lacune matérielle ou textuelle (omis aussi dans la table des matières)																														
 40976.0	JJ196	358																																			
 40977.0	JJ196	359																																			
 40978.0	JJ196	360																																			
@@ -6102,6 +6110,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 41078.0	JJ197	93																																			
 41079.0	JJ197	94																																			
 41080.0	JJ197	95																																			
+41080.1	JJ197	95bis					cancellée et non numérotée																														
 41081.0	JJ197	96																																			
 41082.0	JJ197	97																																			
 41083.0	JJ197	98																																			
@@ -6171,6 +6180,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 41147.0	JJ197	162																																			
 41148.0	JJ197	163																																			
 41149.0	JJ197	164																																			
+41149.1	JJ197	164bis					cancellée et non numérotée																														
 41150.0	JJ197	165																																			
 41151.0	JJ197	166																																			
 41152.0	JJ197	167																																			
@@ -6242,6 +6252,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 41218.0	JJ197	233																																			
 41219.0	JJ197	234																																			
 41220.0	JJ197	235																																			
+41220.1	JJ197	235bis																																			
 41221.0	JJ197	236																																			
 41222.0	JJ197	237																																			
 41223.0	JJ197	238																																			
@@ -6308,6 +6319,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 41284.0	JJ197	299																																			
 41285.0	JJ197	300																																			
 41286.0	JJ197	301																																			
+41286.1	JJ197	301bis					cancellée et non numérotée																														
 41287.0	JJ197	302																																			
 41288.0	JJ197	303																																			
 41289.0	JJ197	304																																			
@@ -6445,6 +6457,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 41421.0	JJ198	12																																			
 41422.0	JJ198	13																																			
 41423.0	JJ198	14																																			
+41423.1	JJ198	14bis					cancellée et non numérotée																														
 41424.0	JJ198	15																																			
 41425.0	JJ198	16																																			
 41426.0	JJ198	17																																			
@@ -6802,6 +6815,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 41778.0	JJ198	369																																			
 41779.0	JJ198	370																																			
 41780.0	JJ198	371																																			
+41780.1	JJ198	371bis					cancellée et non numérotée																														
 41781.0	JJ198	372																																			
 41782.0	JJ198	373																																			
 41783.0	JJ198	374																																			
@@ -7227,6 +7241,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 42203.0	JJ199	223																																			
 42204.0	JJ199	224																																			
 42205.0	JJ199	225																																			
+42205.1	JJ199	225bis																																			
 42206.0	JJ199	226																																			
 42207.0	JJ199	227																																			
 42208.0	JJ199	228																																			
@@ -7261,8 +7276,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 42237.0	JJ199	257																																			
 42238.0	JJ199	258																																			
 42239.0	JJ199	259																																			
-42240.0	JJ199	260																																			
-42241.0	JJ199	261																																			
+42240.0	JJ199	260					Numéro 261 omis dans la numérotation, qui passe de 260 à 262 sans aucune lacune matérielle ou textuelle (pas de table des matières)																														
 42242.0	JJ199	262																																			
 42243.0	JJ199	263																																			
 42244.0	JJ199	264																																			
@@ -7281,7 +7295,9 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 42257.0	JJ199	277																																			
 42258.0	JJ199	278																																			
 42259.0	JJ199	279																																			
+42259.1	JJ199	279bis																																			
 42260.0	JJ199	280																																			
+42260.1	JJ199	280bis					non numérotée																														
 42261.0	JJ199	281																																			
 42262.0	JJ199	282																																			
 42263.0	JJ199	283																																			
@@ -7596,6 +7612,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 42572.0	JJ199	592																																			
 42573.0	JJ199	593																																			
 42574.0	JJ199	594																																			
+42574.1	JJ199	594bis					cancellée et non numérotée																														
 42575.0	JJ199	595																																			
 42576.0	JJ199	596																																			
 42577.0	JJ199	597																																			
