@@ -478,6 +478,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 43063.0	JJ202	46																																			
 43064.0	JJ202	47																																			
 43065.0	JJ202	48																																			
+43065.1	JJ202	48bis																																			
 43066.0	JJ202	49																																			
 43067.0	JJ202	50																																			
 43068.0	JJ202	51																																			
@@ -569,6 +570,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 43154.0	JJ203	27																																			
 43155.0	JJ203	28																																			
 43156.0	JJ203	29																																			
+43156.1	JJ203	29bis																																			
 43157.0	JJ203	30																																			
 43158.0	JJ203	31																																			
 43159.0	JJ203	32																																			
@@ -576,6 +578,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 43161.0	JJ203	34																																			
 43162.0	JJ203	35																																			
 43163.0	JJ203	36																																			
+43163.1	JJ203	36bis																																			
 43164.0	JJ203	37																																			
 43165.0	JJ203	38																																			
 43166.0	JJ203	39																																			
@@ -645,6 +648,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 43230.0	JJ204	24																																			
 43231.0	JJ204	25																																			
 43232.0	JJ204	26																																			
+43232.1	JJ204	26bis																																			
 43233.0	JJ204	27																																			
 43234.0	JJ204	28																																			
 43235.0	JJ204	29																																			
@@ -683,8 +687,10 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 43268.0	JJ204	62																																			
 43269.0	JJ204	63																																			
 43270.0	JJ204	64																																			
+43270.1	JJ204	64bis																																			
 43271.0	JJ204	65																																			
 43272.0	JJ204	66																																			
+43272.1	JJ204	66bis																																			
 43273.0	JJ204	67																																			
 43274.0	JJ204	68																																			
 43275.0	JJ204	69																																			
@@ -815,6 +821,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 43400.0	JJ205	8																																			
 43401.0	JJ205	9																																			
 43402.0	JJ205	10																																			
+43402.1	JJ205	10bis																																			
 43403.0	JJ205	11																																			
 43404.0	JJ205	12																																			
 43405.0	JJ205	13																																			
@@ -978,6 +985,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 43563.0	JJ205	171																																			
 43564.0	JJ205	172																																			
 43565.0	JJ205	173																																			
+43565.1	JJ205	173bis																																			
 43566.0	JJ205	174																																			
 43567.0	JJ205	175																																			
 43568.0	JJ205	176																																			
@@ -1020,11 +1028,13 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 43605.0	JJ205	213																																			
 43606.0	JJ205	214																																			
 43607.0	JJ205	215																																			
+43607.1	JJ205	215bis																																			
 43608.0	JJ205	216																																			
 43609.0	JJ205	217																																			
 43610.0	JJ205	218																																			
 43611.0	JJ205	219																																			
 43612.0	JJ205	220																																			
+43612.1	JJ205	220bis																																			
 43613.0	JJ205	221																																			
 43614.0	JJ205	222																																			
 43615.0	JJ205	223																																			
@@ -2585,6 +2595,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 45170.0	JJ207	98																																			
 45171.0	JJ207	99																																			
 45172.0	JJ207	100																																			
+45172.1	JJ207	100bis																																			
 45173.0	JJ207	101																																			
 45174.0	JJ207	102																																			
 45175.0	JJ207	103																																			
@@ -2750,6 +2761,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 45335.0	JJ207	263																																			
 45336.0	JJ207	264																																			
 45337.0	JJ207	265																																			
+45337.1	JJ207	265bis																																			
 45338.0	JJ207	266																																			
 45339.0	JJ207	267																																			
 45340.0	JJ207	268																																			
@@ -2819,6 +2831,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 45404.0	JJ207	332																																			
 45405.0	JJ207	333																																			
 45406.0	JJ207	334																																			
+45406.1	JJ207	334bis																																			
 45407.0	JJ207	335																																			
 45408.0	JJ207	336																																			
 45409.0	JJ207	337																																			
@@ -2854,6 +2867,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 45439.0	JJ207	367																																			
 45440.0	JJ207	368																																			
 45441.0	JJ207	369																																			
+45441.1	JJ207	369bis																																			
 45442.0	JJ207	370																																			
 45443.0	JJ207	371																																			
 45444.0	JJ207	372																																			
@@ -2907,6 +2921,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 45492.0	JJ208	45																																			
 45493.0	JJ208	46																																			
 45494.0	JJ208	47																																			
+45494.1	JJ208	47bis																																			
 45495.0	JJ208	48																																			
 45496.0	JJ208	49																																			
 45497.0	JJ208	50																																			
@@ -3123,6 +3138,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 45708.0	JJ209	4																																			
 45709.0	JJ209	5																																			
 45710.0	JJ209	6																																			
+45710.1	JJ209	6bis																																			
 45711.0	JJ209	7																																			
 45712.0	JJ209	8																																			
 45713.0	JJ209	9																																			
@@ -3133,7 +3149,9 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 45718.0	JJ209	14																																			
 45719.0	JJ209	15																																			
 45720.0	JJ209	16																																			
+45720.1	JJ209	16bis																																			
 45721.0	JJ209	17																																			
+45721.1	JJ209	17bis																																			
 45722.0	JJ209	18																																			
 45723.0	JJ209	19																																			
 45724.0	JJ209	20																																			
@@ -3150,6 +3168,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 45735.0	JJ209	31																																			
 45736.0	JJ209	32																																			
 45737.0	JJ209	33																																			
+45737.1	JJ209	33bis																																			
 45738.0	JJ209	34																																			
 45739.0	JJ209	35																																			
 45740.0	JJ209	36																																			
@@ -3248,6 +3267,8 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 45833.0	JJ209	129																																			
 45834.0	JJ209	130																																			
 45835.0	JJ209	131																																			
+45835.1	JJ209	131bis																																			
+45835.2	JJ209	131ter																																			
 45836.0	JJ209	132																																			
 45837.0	JJ209	133																																			
 45838.0	JJ209	134																																			
@@ -3522,6 +3543,7 @@ acte_id	volume	act_number	new_numbering	folio_raw	folio_norm	verified	note	conc_
 46107.0	JJ210	106																																			
 46108.0	JJ210	107																																			
 46109.0	JJ210	108																																			
+46109.1	JJ210	108bis																																			
 46110.0	JJ210	109																																			
 46111.0	JJ210	110																																			
 46112.0	JJ210	111																																			
