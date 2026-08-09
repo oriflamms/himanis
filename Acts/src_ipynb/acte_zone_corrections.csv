@@ -1,7 +1,0 @@
-id_temp,register,act_number,action,anchor_zone_temp_id,zone_temp_id,note,,,,,,,,,,,,,,,,,,,,,,,,,
-1386,JJ98,288,set_start_zone,,1994,"Acte n°288, seule zone conservée (AI) ;  la suite n'est pas reproduite dans le corpus",,,,,,,,,,,,,,,,,,,,,anchor_zone_temp_id,,zone_temp_id,,note
-1390,JJ98,292,set_start_zone,,1995,"AF rattachée à tort à l'acte 288 (1386) par le regroupement automatique, dont le début n’est pas reproduit.", appartient en réalité à la fin de l'acte 292,,,,,,,,,,,,,,,,,,,,,,,,
-9399,JJ116,4,set_start_zone,,15295,AF après NIA,,,,,,,,,,,,,,,,,,,,,,,,,
-10583,JJ119,149,set_start_zone,,17572,AF après NIA,,,,,,,,,,,,,,,,,,,,,,,,,
-11860,JJ122,245,set_start_zone,,19906,AF après NIA,,,,,,,,,,,,,,,,,,,,,,,,,
-11879,JJ122,264,set_start_zone,,19934,AF après NIA,,,,,,,,,,,,,,,,,,,,,,,,,

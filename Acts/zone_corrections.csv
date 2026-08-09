@@ -1,0 +1,127 @@
+register,folio_sort_key,folio_label,zone_temp_id,action,target_zone_temp_id,value,note
+JJ097,337,168r,1421,suit_zone,1465,,"Fin d’acte (zone 1421), avec signe de renvoi, à rattacher à début d’acte (zone 1465)"
+JJ097,317,158r,1421,changer_classe,,AF,"Fin d’acte, avec signe de renvoi, annoté à tort en AC au lieu de AF."
+JJ098,140,62v,1863,changer_classe,,AI,Début d’acte
+JJ098,196,90v,1994,changer_classe,,AC,"Début d’acte, fin non reproduite. A traiter comme AC"
+JJ098,197,92r,1995,changer_classe,,AC,"Fin d’acte, début non reproduit. A traiter comme AC"
+JJ098,245,116r,2095,suit_zone,1863,,
+JJ106,120,59v,8434,suit_zone,8435,,
+JJ101,85,42r,5114,changer_classe,,AC,"La copie est incomplète, mais zone blanche sur la page d’après montre l’absence de lacune. Fonctionne comme AC"
+JJ102,31,15r,5353,exclure_zone,,,"L’acte attesté par zone 5353 = AI est achevé à la page d’après par une zone AF, mais NIA"
+JJ102,248,123v,5826,exclure_zone,,,NIA interrompt
+JJ107,135,67r,9240,exclure_zone,,,NIA interrompt
+JJ107,136,67v,9241,changer_classe,,AC,"Fin d’acte, début non reproduit. A traiter comme AC"
+JJ113,365,contre-plat inférieur,13966,exclure_zone,,,NIA interrompt
+JJ116,12,5v,15294,exclure_zone,,,NIA interrompt
+JJ116,14,6v,15295,changer_classe,,AC,"Fin d’acte, début non reproduit. A traiter comme AC"
+JJ119,196,97v,17572,changer_classe,,AC,"Fin d’acte, début non reproduit. A traiter comme AC"
+JJ120,29v,60,18239,changer_classe,,AC,"Début d’acte cancelé, fonctionne comme AC"
+JJ122,244,122v,19905,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ122,246,123v,19906,changer_classe,,AC,"Fin d’acte, début non reproduit. A traiter comme AC"
+JJ122,132v,264,19934,changer_classe,,AC,"Fin d’acte, début non reproduit. A traiter comme AC"
+JJ122,357,179r,20114,exclure_zone,,,AI prend suite de AI. De fait.
+JJ128,346,168v,23607,changer_classe,,AC,"Début d’acte cancelé, fonctionne comme AC"
+JJ129,,Ir,23608,changer_classe,,Table,Erreur d’annotation
+JJ131,139,65r,24896,suit_zone,24809,,AF prend suite de AI plus haut
+JJ133,238,114v,26162,changer_classe,,AC,"AI inachevé, suite non identifiée, fonctionne comme AC"
+JJ135,18,4v,26518,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ139,111,113,28603,changer_classe,,AC,"La copie est incomplète, mais zone blanche sur la page d’après montre l’absence de lacune. Fonctionne comme AC"
+JJ147,120,54v,34269,changer_classe,,AI,
+JJ147,123,56r,34274,suit_zone,34269,,
+JJ149,156,73v,35497,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ149,158,74v,35499,changer_classe,,AC,"Fin d’acte, début non reproduit. A traiter comme AC"
+JJ150,65,25r,35942,suit_zone,35916,,
+JJ150,67,26v,35951,changer_classe,,AI,
+JJ150,67,26v,35952,changer_classe,,AF,
+JJ150,145,65r,36086,changer_classe,,AC,"Fin d’acte, début non identifié, se comporte comme AC"
+JJ150,250,117v,36282,changer_classe,,AC,"Début d’acte, suite manquante par erreur de numérisation. A traiter comme AC pour la succession des images"
+JJ150,251,118r,36283,exclure_zone,,,A MODIFIER SUR ARCA ET ZONES ! Image label 118r est en réalité image du 122r. Image de 118r = http://himanis.huma-num.fr/app/corpora/chancery/FRAN_0021_20950_A.jpg et http://himanis.huma-num.fr/app/corpora/chancery/FRAN_0021_20952_A.jpg
+JJ150,252,118v,36284,exclure_zone,,,A MODIFIER SUR ARCA ET ZONES ! Image label 118v est en réalité image du 122v. Image de 118v = http://himanis.huma-num.fr/app/corpora/chancery/FRAN_0021_20953_A.jpg
+JJ154,580,277r,39872,changer_classe,,AC,"Fin d’acte, début non identifié, se comporte comme AC"
+JJ155,40,12v,40431,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ155,42,13v,40433,changer_classe,,AI,"AM, dont AI en NIA. A traiter comme AI"
+JJ156,,189r,41900,changer_classe,,AC,"AI inachevé, suite non identifiée, fonctionne comme AC"
+JJ156,,190v,41901,changer_classe,,AC,"Fin d’acte, début non reproduit. A traiter comme AC"
+JJ160,136,59v,44841,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ160,450,215v,45292,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ160,452,216v,45294,changer_classe,,AC,"Fin d’acte, début non reproduit. A traiter comme AC"
+JJ161,244,114v,45917,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ161,133,88r,45849,changer_classe,,AC,"Début d’acte, fin en NIA. "
+JJ161,134,,45850,changer_classe,,AI,"AM, dont AI en NIA. A traiter comme AI"
+JJ161,,115v,45919,changer_classe,,AC,"Fin d’acte, début non reproduit. A traiter comme AC"
+JJ161,,121r,45935,changer_classe,,AC,"Début d’acte, fin en NIA. "
+JJ161,,122v,45938,changer_classe,,AC,"Fin d’acte, début non reproduit. A traiter comme AC"
+JJ161,258,121v,45936,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ161,426,205v,46183,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ161,428,206v,46185,changer_classe,,AI,"AM, dont AI en NIA. A traiter comme AI"
+JJ161,448,216v,46215,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ161,450,217v,46217,changer_classe,,AI,"AM, dont AI en NIA. A traiter comme AI"
+JJ161,480,232v,46255,exclure_zone,,,NIA interrompt une suite AI...AF // Apparemment sans changer succession des actes
+JJ161,580,282v,46386,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ161,582,283v,46388,changer_classe,,AC,AF dont AI en NIA. A traiter comme AC.
+JJ161,479,232r,46254,changer_classe,,AM,NIA interrompt une suite AI...AF // Apparemment sans changer succession des actes
+JJ166,251,117r,50138,changer_classe,,AC,"Fin d’acte, début non identifié, se comporte comme AC"
+JJ168,169,77r,51865,changer_classe,,AC,
+JJ168,170,77v,51866,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ168,172,78v,51868,changer_classe,,AC,"Fin d’acte, début en NIA."
+JJ168,200,92v,51913,changer_classe,,AC,"Début d’acte, cancelé, « alibi registrata », se comporte comme AC"
+JJ169,512,247v,53263,changer_classe,,AI,"AM, dont AI en NIA. A traiter comme AI"
+JJ169,,275r,53346,changer_classe,,AC,"Début d’acte, fin en NIA. "
+JJ169,,276v,53347,changer_classe,,AC,"Fin d’acte, début en NIA."
+JJ169,,283v,53369,changer_classe,,NIA,Images répétées : FRAN_0021_29700_A = FRAN_0021_29702_A FRAN_0021_29701_A = FRAN_0021_29703_A
+JJ169,,284r,53370,changer_classe,,NIA,Images répétées : FRAN_0021_29700_A = FRAN_0021_29702_A FRAN_0021_29701_A = FRAN_0021_29703_A
+JJ169,,284r,53371,changer_classe,,NIA,Images répétées : FRAN_0021_29700_A = FRAN_0021_29702_A FRAN_0021_29701_A = FRAN_0021_29703_A
+JJ169,,283v,53372,changer_classe,,NIA,Images répétées : FRAN_0021_29700_A = FRAN_0021_29702_A FRAN_0021_29701_A = FRAN_0021_29703_A
+JJ170,84,37v,53687,supprimer_zone ,,NIA,NIA interrompt une suite AI...AF. Sans changement de numéro d’acte
+JJ170,84,38r,53688,supprimer_zone ,,NIA,NIA interrompt une suite AI...AF. Sans changement de numéro d’acte
+JJ170,206,98v,53851,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ170,208,99v,53853,changer_classe,,AI,"AM, dont AI en NIA. A traiter comme AI"
+JJ172,174,82v,55680,changer_classe,,AC,Début d’acte (cancelé?). A traiter comme AC
+JJ172,422,206v,56126,exclure_zone,,,NIA interrompt une suite AI...AF
+JJ172,424,207v,56128,changer_classe,,AC,"Fin d’acte, début en NIA."
+JJ172,207v,424,56128,changer_classe,,AC,AF dont AI en NIA. A traiter comme AC.
+JJ175,107v,222,59268,changer_classe,,AM,Erreur d’annotation (fin apparente car lettre insérée)
+JJ175,119v,,59311,supprimer_zone ,,,"Rubrique annotée comme acte séparé, à fusionner avec acte proprement dit"
+JJ176,2,contreplat supérieur,59383,supprimer_zone ,,,Erreur d’annotation (page blanche)
+JJ176,36v,74,59486,changer_classe,,AC,"Début d’acte, fin non identifiée. A traiter comme AC"
+JJ176,76,37v,59488,changer_classe,,AC,"Début d’acte inachevé, à traiter comme AC."
+JJ176,55v,112,59557,changer_classe,,AC,"Début d’acte, fin non identifiée. A traiter comme AC"
+JJ176,409v,819,60655,changer_classe,,AC,"Début d’acte, fin non identifiée. A traiter comme AC"
+JJ177,2,plat supérieur,60891,supprimer_zone ,,,Erreur d’annotation (page blanche)
+JJ177,343,plat inférieur,61454,supprimer_zone ,,,Erreur d’annotation (page blanche)
+JJ178,308,contreplat inférieur,61985,supprimer_zone ,,,NIA interrompt une suite AI...AF
+JJ178,309,plat inférieur,61986,supprimer_zone ,,,Erreur d’annotation (page blanche)
+JJ179,14,1r,61995,changer_classe,,AC,"Fin d’acte, début non identifié, se comporte comme AC"
+JJ197,160,72r,73714,suit_zone,73712,,"JJ197, f. 72r, bas de l’image avec fin de l’acte commencé en f. 71v, interrompu par AC"
+JJ200,93,46r,76951,suit_zone,76949,,"JJ200, f. 46r, bas de l’image avec fin de l’acte commencé en 45v, interrompu par AC"
+JJ205,544,265v-266r,79210,suit_zone,79211,,"JJ205, numérisation à double page"
+JJ205,545,266v-267r,79214,suit_zone,79215,,"JJ205, numérisation à double page"
+JJ205,546,267v-268r,79216,suit_zone,79218,,"JJ205, numérisation à double page"
+JJ205,546,267v-268r,79217,suit_zone,79214,,"JJ205, numérisation à double page"
+JJ205,548,269v-270r,79222,suit_zone,79224,,"JJ205, numérisation à double page"
+JJ205,548,269v-270r,79223,suit_zone,79221,,"JJ205, numérisation à double page"
+JJ205,549,270v-271r,79226,suit_zone,79227,,"JJ205, numérisation à double page"
+JJ205,550,271v-272r,79228,suit_zone,79230,,"JJ205, numérisation à double page"
+JJ205,550,271v-272r,79229,suit_zone,79226,,"JJ205, numérisation à double page"
+JJ205,551,272v-273r,79231,suit_zone,79232,,"JJ205, numérisation à double page"
+JJ205,552,273v-274r,79233,suit_zone,79235,,"JJ205, numérisation à double page"
+JJ205,553,274v-275r,79236,suit_zone,79238,,"JJ205, numérisation à double page"
+JJ205,553,274v-275r,79237,suit_zone,79233,,"JJ205, numérisation à double page"
+JJ205,553,274v-275r,79239,suit_zone,79236,,"JJ205, numérisation à double page"
+JJ205,554,275v-276r,79240,suit_zone,79241,,"JJ205, numérisation à double page"
+JJ205,555,276v-277r,79242,suit_zone,79244,,"JJ205, numérisation à double page"
+JJ205,555,276v-277r,79243,suit_zone,79240,,"JJ205, numérisation à double page"
+JJ205,556,277v-278r,79245,suit_zone,79246,,"JJ205, numérisation à double page"
+JJ205,557,278v-279r,79248,suit_zone,79249,,"JJ205, numérisation à double page"
+JJ205,559,280v-281r,79254,suit_zone,79252,,"JJ205, numérisation à double page"
+JJ205,560,281v-282r,79256,suit_zone,79257,,"JJ205, numérisation à double page"
+JJ205,560,281v-282r,79260,suit_zone,79261,,"JJ205, numérisation à double page"
+JJ205,565,286v-287r,79270,suit_zone,79272,,"JJ205, numérisation à double page"
+JJ205,566,287v-288r,79273,suit_zone,79275,,"JJ205, numérisation à double page"
+JJ205,566,287v-288r,79274,suit_zone,79270,,"JJ205, numérisation à double page"
+JJ205,566,287v-288r,79276,suit_zone,79273,,"JJ205, numérisation à double page"
+JJ205,566,287v-288r,79283,suit_zone,79284,,"JJ205, numérisation à double page"
+JJ205,566,287v-288r,79284,suit_zone,79282,,"JJ205, numérisation à double page"
+JJ205,566,287v-288r,79285,suit_zone,79283,,"JJ205, numérisation à double page"
+JJ205,572,293v-294r,79292,suit_zone,79294,,"JJ205, numérisation à double page"
+JJ205,573,294v-295r,79295,suit_zone,79297,,"JJ205, numérisation à double page"
